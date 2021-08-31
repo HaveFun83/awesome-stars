@@ -328,6 +328,7 @@
 
 ## JavaScript 
 
+- [hashicorp/vault-action](https://github.com/hashicorp/vault-action) - A GitHub Action that simplifies using HashiCorp Vault™ secrets as build variables.
 - [vincentbernat/dashkiosk](https://github.com/vincentbernat/dashkiosk) - Managing dashboards on various displays (especially those running on Android)
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
