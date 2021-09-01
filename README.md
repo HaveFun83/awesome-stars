@@ -60,6 +60,7 @@
 
 ## Go 
 
+- [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc.
 - [caos/zitadel](https://github.com/caos/zitadel) - ZITADEL - Identity Experience Platform
 - [catalogicsoftware/kubedr](https://github.com/catalogicsoftware/kubedr) - An open source, disaster-recovery, Kubernetes project that backs up, and restores, etcd cluster data.
@@ -394,6 +395,7 @@
 
 ## Others 
 
+- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group
 - [kevincoakley/ansible-role-k8s-rolling-update](https://github.com/kevincoakley/ansible-role-k8s-rolling-update) - 
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -428,6 +430,8 @@
 
 ## Python 
 
+- [ansible-community/molecule-vagrant](https://github.com/ansible-community/molecule-vagrant) - Molecule Vangrant Driver
+- [ansible-community/molecule-libvirt](https://github.com/ansible-community/molecule-libvirt) - Molecule LibVirt Provider
 - [Pobek/pihole-dns-updater](https://github.com/Pobek/pihole-dns-updater) - Updates PiHole's DNS via an API
 - [HenriWahl/dhcpy6d](https://github.com/HenriWahl/dhcpy6d) - MAC address aware DHCPv6 server written in Python
 - [prometheus-community/node-exporter-textfile-collector-scripts](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts) - Scripts for node-exporter's textfile collector
@@ -497,7 +501,7 @@
 - [galexrt/container-backups](https://github.com/galexrt/container-backups) - Have you ever wanted to backup applications running in containers? Yeah ... about that.
 - [redhat-cop/rego-policies](https://github.com/redhat-cop/rego-policies) - Rego policies collection
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
-- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed block storage built on and for Kubernetes
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [kubermatic-labs/kubeone-remote](https://github.com/kubermatic-labs/kubeone-remote) - Run KubeOne remotely in a tmux session
 - [stefanprodan/hrval-action](https://github.com/stefanprodan/hrval-action) - Flux Helm Release validation GitHub action
 - [rgl/rpi-tinkerbell-vagrant](https://github.com/rgl/rpi-tinkerbell-vagrant) - Vagrant Environment for playing with Tinkerbell for provisioning Raspberry Pis
