@@ -116,7 +116,7 @@
 - [sharadbhat/KubernetesPatterns](https://github.com/sharadbhat/KubernetesPatterns) - YAML and Golang implementations of common Kubernetes patterns.
 - [kubernetes-sigs/node-feature-discovery-operator](https://github.com/kubernetes-sigs/node-feature-discovery-operator) - Operator for managing Node Feature Discovery deployment
 - [isaaguilar/terraform-operator](https://github.com/isaaguilar/terraform-operator) - A Kubernetes CRD to handle terraform operations
-- [senthilrch/kube-fledged](https://github.com/senthilrch/kube-fledged) - A kubernetes add-on for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly
+- [senthilrch/kube-fledged](https://github.com/senthilrch/kube-fledged) - A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly
 - [ctrox/csi-s3](https://github.com/ctrox/csi-s3) - A Container Storage Interface for S3
 - [markbates/pkger](https://github.com/markbates/pkger) - Embed static files in Go binaries (replacement for gobuffalo/packr)
 - [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit
@@ -479,6 +479,7 @@
 
 ## Shell 
 
+- [jr0dd/k8s-gitops](https://github.com/jr0dd/k8s-gitops) - My home k8s cluster on TrueNAS SCALE being fed by FluxCD & SOPS
 - [tmaier/gitlab-auto-merge-request](https://github.com/tmaier/gitlab-auto-merge-request) - Tool to automatically open Merge Requests on GitLab (if none exists already)
 - [monitoring-mixins/website](https://github.com/monitoring-mixins/website) - Prometheus monitoring mixins
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
@@ -531,6 +532,7 @@
 
 ## TypeScript 
 
+- [equinix-labs/kubernetes-cloud-init](https://github.com/equinix-labs/kubernetes-cloud-init) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [artifacthub/hub](https://github.com/artifacthub/hub) - Find, install and publish Kubernetes packages
 - [fluxcd/webui](https://github.com/fluxcd/webui) - Experimental UI for Flux version 2
