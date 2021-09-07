@@ -61,7 +61,7 @@
 ## Go 
 
 - [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc.
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [caos/zitadel](https://github.com/caos/zitadel) - ZITADEL - Identity Experience Platform
 - [catalogicsoftware/kubedr](https://github.com/catalogicsoftware/kubedr) - An open source, disaster-recovery, Kubernetes project that backs up, and restores, etcd cluster data.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
