@@ -128,7 +128,7 @@
 - [kubevirt/cluster-network-addons-operator](https://github.com/kubevirt/cluster-network-addons-operator) - Deploy additional networking components on top of your Kubernetes cluster
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts
 - [kubermatic/machine-controller](https://github.com/kubermatic/machine-controller) - 
-- [kinvolk/flatcar-linux-update-operator](https://github.com/kinvolk/flatcar-linux-update-operator) - A Kubernetes operator to manage updates of Flatcar Container Linux
+- [flatcar-linux/flatcar-linux-update-operator](https://github.com/flatcar-linux/flatcar-linux-update-operator) - A Kubernetes operator to manage updates of Flatcar Container Linux
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [kubermatic/kubermatic](https://github.com/kubermatic/kubermatic) - Kubermatic Kubernetes Platform - the Central Kubernetes Management Platform For Any Infrastructure
@@ -307,8 +307,9 @@
 
 ## HCL 
 
+- [jr0dd/prometheus-rules](https://github.com/jr0dd/prometheus-rules) - collection of rules
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
-- [kinvolk/flatcar-terraform](https://github.com/kinvolk/flatcar-terraform) - Examples of deploying Flatcar instances with Terraform
+- [flatcar-linux/flatcar-terraform](https://github.com/flatcar-linux/flatcar-terraform) - Examples of deploying Flatcar instances with Terraform
 - [ImIOImI/Terraform-k3s](https://github.com/ImIOImI/Terraform-k3s) - Terraform repo for a k3s cluster using k3sup to bootstrap nodes
 - [openshift/okd](https://github.com/openshift/okd) - The self-managing, auto-upgrading, Kubernetes distribution for everyone
 
@@ -401,7 +402,6 @@
 - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group
 - [kevincoakley/ansible-role-k8s-rolling-update](https://github.com/kevincoakley/ansible-role-k8s-rolling-update) - 
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [jr0dd/prometheus-rules](https://github.com/jr0dd/prometheus-rules) - collection of rules
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [unifio/packer-post-processor-vagrant-s3](https://github.com/unifio/packer-post-processor-vagrant-s3) - A Packer post-processor to upload vagrant boxes to S3
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
