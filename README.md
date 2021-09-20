@@ -61,6 +61,7 @@
 
 ## Go 
 
+- [tigera/operator](https://github.com/tigera/operator) - Kubernetes operator for installing Calico and Calico Enterprise
 - [helm/chartmuseum](https://github.com/helm/chartmuseum) - Host your own Helm Chart Repository
 - [nmstate/kubernetes-nmstate](https://github.com/nmstate/kubernetes-nmstate) - Declarative node network configuration driven through Kubernetes API.
 - [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
@@ -365,6 +366,7 @@
 
 ## Jsonnet 
 
+- [adinhodovic/blackbox-exporter-mixin](https://github.com/adinhodovic/blackbox-exporter-mixin) - A mixin for the blackbox-exporter
 - [observatorium/observatorium](https://github.com/observatorium/observatorium) - This repository contains the deployment configurations for the Observatorium instances
 - [thanos-io/kube-thanos](https://github.com/thanos-io/kube-thanos) - Kubernetes specific configuration for deploying Thanos.
 - [carlosedp/cluster-monitoring](https://github.com/carlosedp/cluster-monitoring) - Cluster monitoring stack for clusters based on Prometheus Operator
