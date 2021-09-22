@@ -385,6 +385,7 @@
 
 ## Mustache 
 
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 - [MoJo2600/pihole-kubernetes](https://github.com/MoJo2600/pihole-kubernetes) - PiHole on kubernetes
 - [helm/charts-repo-actions-demo](https://github.com/helm/charts-repo-actions-demo) - Example project to demo testing and hosting a chart repository with GitHub Pages and Actions
 - [falcosecurity/charts](https://github.com/falcosecurity/charts) - Community managed Helm charts for running Falco with Kubernetes
