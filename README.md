@@ -63,6 +63,7 @@
 
 ## Go 
 
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [tigera/operator](https://github.com/tigera/operator) - Kubernetes operator for installing Calico and Calico Enterprise
 - [helm/chartmuseum](https://github.com/helm/chartmuseum) - Host your own Helm Chart Repository
 - [nmstate/kubernetes-nmstate](https://github.com/nmstate/kubernetes-nmstate) - Declarative node network configuration driven through Kubernetes API.
@@ -363,7 +364,6 @@
 
 - [mcfio/home-cluster](https://github.com/mcfio/home-cluster) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
 - [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s) - Ansible role for installing k3s as either a standalone server or HA cluster.
-- [onedr0p/home-cluster](https://github.com/onedr0p/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux)
 - [mcfio/GitOps](https://github.com/mcfio/GitOps) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
 
 ## Jsonnet 
@@ -445,6 +445,7 @@
 
 ## Python 
 
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes JSON API change detection and monitoring support!
 - [ansible-community/molecule-vagrant](https://github.com/ansible-community/molecule-vagrant) - Molecule Vangrant Driver
 - [ansible-community/molecule-libvirt](https://github.com/ansible-community/molecule-libvirt) - Molecule LibVirt Provider
 - [Pobek/pihole-dns-updater](https://github.com/Pobek/pihole-dns-updater) - Updates PiHole's DNS via an API
@@ -496,7 +497,7 @@
 
 - [PacHub/pachub](https://github.com/PacHub/pachub) - Pacman Github Contributions
 - [stefanprodan/kube-tools](https://github.com/stefanprodan/kube-tools) - Kubernetes tools for GitHub Actions CI
-- [jr0dd/k8s-gitops](https://github.com/jr0dd/k8s-gitops) - My home k8s cluster on TrueNAS SCALE being fed by FluxCD & SOPS
+- [jr0dd/home-cluster](https://github.com/jr0dd/home-cluster) - My home k8s cluster on TrueNAS SCALE being fed by FluxCD & SOPS
 - [tmaier/gitlab-auto-merge-request](https://github.com/tmaier/gitlab-auto-merge-request) - Tool to automatically open Merge Requests on GitLab (if none exists already)
 - [monitoring-mixins/website](https://github.com/monitoring-mixins/website) - Prometheus monitoring mixins
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
@@ -507,6 +508,7 @@
 - [urpylka/docker-aptly](https://github.com/urpylka/docker-aptly) - Apt repository based on Aptly
 - [nicholaswilde/ansible-role-flux](https://github.com/nicholaswilde/ansible-role-flux) - An ansible galaxy role for Flux
 - [chrisss404/check-mk-arm](https://github.com/chrisss404/check-mk-arm) - Checkmk for Raspberry Pi.
+- [onedr0p/home-cluster](https://github.com/onedr0p/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux)
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
