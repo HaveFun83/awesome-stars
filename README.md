@@ -318,6 +318,7 @@
 ## HCL 
 
 - [jr0dd/prometheus-rules](https://github.com/jr0dd/prometheus-rules) - collection of rules
+- [onedr0p/home-cluster](https://github.com/onedr0p/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux)
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
 - [flatcar-linux/flatcar-terraform](https://github.com/flatcar-linux/flatcar-terraform) - Examples of deploying Flatcar instances with Terraform
 - [ImIOImI/Terraform-k3s](https://github.com/ImIOImI/Terraform-k3s) - Terraform repo for a k3s cluster using k3sup to bootstrap nodes
@@ -508,7 +509,6 @@
 - [urpylka/docker-aptly](https://github.com/urpylka/docker-aptly) - Apt repository based on Aptly
 - [nicholaswilde/ansible-role-flux](https://github.com/nicholaswilde/ansible-role-flux) - An ansible galaxy role for Flux
 - [chrisss404/check-mk-arm](https://github.com/chrisss404/check-mk-arm) - Checkmk for Raspberry Pi.
-- [onedr0p/home-cluster](https://github.com/onedr0p/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux)
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
