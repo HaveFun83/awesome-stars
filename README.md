@@ -63,6 +63,8 @@
 
 ## Go 
 
+- [syepes/network_exporter](https://github.com/syepes/network_exporter) - ICMP & MTR & TCP Port & HTTP Get - Network Prometheus exporter
+- [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [tigera/operator](https://github.com/tigera/operator) - Kubernetes operator for installing Calico and Calico Enterprise
 - [helm/chartmuseum](https://github.com/helm/chartmuseum) - Host your own Helm Chart Repository
@@ -278,7 +280,7 @@
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [containernetworking/plugins](https://github.com/containernetworking/plugins) - Some reference and example networking plugins, maintained by the CNI team.
 - [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [metal3-io/cluster-api-provider-baremetal](https://github.com/metal3-io/cluster-api-provider-baremetal) - DEPRECATED Please refer to https://github.com/metal3-io/cluster-api-provider-metal3
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.
 - [kubedb/installer](https://github.com/kubedb/installer) - KubeDB installer
