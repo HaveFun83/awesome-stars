@@ -63,6 +63,8 @@
 
 ## Go 
 
+- [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker)
+- [fidelity/kraan](https://github.com/fidelity/kraan) - Kraan is a Kubernetes Controller that manages the deployment of HelmReleases to a cluster.
 - [syepes/network_exporter](https://github.com/syepes/network_exporter) - ICMP & MTR & TCP Port & HTTP Get - Network Prometheus exporter
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -501,7 +503,7 @@
 
 ## Shell 
 
-- [k8s-at-home/template-cluster-k3s](https://github.com/k8s-at-home/template-cluster-k3s) - Template for creating a k3s cluster with k3sup backed by flux and sops
+- [k8s-at-home/template-cluster-k3s](https://github.com/k8s-at-home/template-cluster-k3s) - Highly opinionated template for deploying a single k3s cluster with Ansible and Terraform backed by Flux and SOPS.
 - [PacHub/pachub](https://github.com/PacHub/pachub) - Pacman Github Contributions
 - [stefanprodan/kube-tools](https://github.com/stefanprodan/kube-tools) - Kubernetes tools for GitHub Actions CI
 - [tmaier/gitlab-auto-merge-request](https://github.com/tmaier/gitlab-auto-merge-request) - Tool to automatically open Merge Requests on GitLab (if none exists already)
