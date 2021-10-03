@@ -63,6 +63,7 @@
 
 ## Go 
 
+- [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 - [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker)
 - [fidelity/kraan](https://github.com/fidelity/kraan) - Kraan is a Kubernetes Controller that manages the deployment of HelmReleases to a cluster.
 - [syepes/network_exporter](https://github.com/syepes/network_exporter) - ICMP & MTR & TCP Port & HTTP Get - Network Prometheus exporter
