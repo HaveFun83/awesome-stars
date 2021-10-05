@@ -402,7 +402,7 @@
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - Helm charts for applications you run at home
 - [bootc/netbox-chart](https://github.com/bootc/netbox-chart) - A Helm chart for NetBox
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
-- [bitnami/charts](https://github.com/bitnami/charts) - Helm Charts
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [jertel/elastalert-docker](https://github.com/jertel/elastalert-docker) - Simple Dockerfile for building a Kubernetes and Elastalert Helm compatible Docker image.
 - [netdata/helmchart](https://github.com/netdata/helmchart) - Helm chart for kubernetes deployments
