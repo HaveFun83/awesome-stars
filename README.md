@@ -372,7 +372,7 @@
 ## Jinja 
 
 - [imp1sh/ansible_nftwallcollection](https://github.com/imp1sh/ansible_nftwallcollection) - Official nftwall ansible collection. nftwall is a highly automated firewall solution.
-- [jr0dd/home-cluster](https://github.com/jr0dd/home-cluster) - My home k8s cluster on TrueNAS SCALE being fed by FluxCD & SOPS
+- [jr0dd/home-cluster](https://github.com/jr0dd/home-cluster) - My home k8s cluster on Ubuntu being fed by FluxCD & SOPS
 - [mcfio/home-cluster](https://github.com/mcfio/home-cluster) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
 - [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s) - Ansible role for installing k3s as either a standalone server or HA cluster.
 - [mcfio/GitOps](https://github.com/mcfio/GitOps) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
