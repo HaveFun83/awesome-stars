@@ -226,7 +226,7 @@
 - [leominov/prometheus-actions](https://github.com/leominov/prometheus-actions) - Actions based on Prometheus metrics
 - [prometheus-community/prometheus-playground](https://github.com/prometheus-community/prometheus-playground) - Turnkey sandbox projects demonstrating a wide variety of Prometheus use cases
 - [kubernetes-sigs/node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery) - Node feature discovery for Kubernetes
-- [solo-io/packer-builder-arm-image](https://github.com/solo-io/packer-builder-arm-image) - Packer plugin for ARM images
+- [solo-io/packer-plugin-arm-image](https://github.com/solo-io/packer-plugin-arm-image) - Packer plugin for ARM images
 - [kubermatic/kubecarrier](https://github.com/kubermatic/kubecarrier) - KubeCarrier - Service Management at Scale
 - [cafebazaar/keepalived-exporter](https://github.com/cafebazaar/keepalived-exporter) - Prometheus Keepalived exporter
 - [arminc/k8s-platform-lcm](https://github.com/arminc/k8s-platform-lcm) - A faster and easier way to manage the lifecycle of applications and tools, running and living around your Kubernetes platform
