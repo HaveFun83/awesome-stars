@@ -64,6 +64,8 @@
 
 ## Go 
 
+- [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
+- [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [perses/perses](https://github.com/perses/perses) - 
 - [monitoring-mixins/mixtool](https://github.com/monitoring-mixins/mixtool) - mixtool is a helper for easily working with jsonnet mixins.
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
@@ -86,7 +88,7 @@
 - [caos/zitadel](https://github.com/caos/zitadel) - ZITADEL - Identity Experience Platform
 - [catalogicsoftware/kubedr](https://github.com/catalogicsoftware/kubedr) - An open source, disaster-recovery, Kubernetes project that backs up, and restores, etcd cluster data.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
-- [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
+- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the  NSA-CISA and the MITRE ATT&CK®.
 - [mxschmitt/fritzbox_exporter](https://github.com/mxschmitt/fritzbox_exporter) - Prometheus Exporter for FRITZ!Box (TR64 and UPnP)
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -346,6 +348,7 @@
 
 ## Java 
 
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [synyx/urlaubsverwaltung](https://github.com/synyx/urlaubsverwaltung) - Schluss mit Papierchaos und langweiliger Software. Wir zeigen dir, dass Urlaubsverwaltung auch Spaß machen kann.
 - [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 - [vvanholl/elasticsearch-prometheus-exporter](https://github.com/vvanholl/elasticsearch-prometheus-exporter) - Prometheus exporter plugin for Elasticsearch
@@ -513,6 +516,7 @@
 
 ## Shell 
 
+- [chiku11/flagger-canary-manual](https://github.com/chiku11/flagger-canary-manual) - 
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [k8s-at-home/template-cluster-k3s](https://github.com/k8s-at-home/template-cluster-k3s) - Highly opinionated template for deploying a single k3s cluster with Ansible and Terraform backed by Flux and SOPS.
 - [PacHub/pachub](https://github.com/PacHub/pachub) - Pacman Github Contributions
@@ -543,7 +547,7 @@
 - [kubermatic-labs/kubeone-remote](https://github.com/kubermatic-labs/kubeone-remote) - Run KubeOne remotely in a tmux session
 - [stefanprodan/hrval-action](https://github.com/stefanprodan/hrval-action) - Flux Helm Release validation GitHub action
 - [rgl/tinkerbell-vagrant](https://github.com/rgl/tinkerbell-vagrant) - Vagrant Environment for playing with Tinkerbell for provisioning AMD64 and ARM64 machines
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [mjpitz/rpi-cloud-init](https://github.com/mjpitz/rpi-cloud-init) - New setup for my HomeLab that's backed by 15 Raspberry Pi's running rancher/k3s.
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code.  Community around k8s@home is on discord: https://discord.gg/7PbmHRK
 - [fluxcd/fluxctl-action](https://github.com/fluxcd/fluxctl-action) - A GitHub Action to run fluxctl commands
