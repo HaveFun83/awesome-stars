@@ -64,6 +64,8 @@
 
 ## Go 
 
+- [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml
+- [controlplaneio/kubectl-kubesec](https://github.com/controlplaneio/kubectl-kubesec) - Security risk analysis for Kubernetes resources
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [perses/perses](https://github.com/perses/perses) - 
@@ -181,7 +183,7 @@
 - [anexia-it/go-anxcloud](https://github.com/anexia-it/go-anxcloud) - Go client for Anexia Engine API
 - [rhobs/kube-events-exporter](https://github.com/rhobs/kube-events-exporter) - Kubernetes events aggregator and exporter
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-- [timescale/promscale](https://github.com/timescale/promscale) - An open-source analytical platform for Prometheus metrics 🚀
+- [timescale/promscale](https://github.com/timescale/promscale) - The open-source observability backend for metrics and traces powered by SQL 🚀
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [FairwindsOps/gemini](https://github.com/FairwindsOps/gemini) - Automated backups of PersistentVolumeClaims in Kubernetes using VolumeSnapshots
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
@@ -329,6 +331,7 @@
 
 ## HCL 
 
+- [mcfio/home-cluster](https://github.com/mcfio/home-cluster) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
 - [jr0dd/prometheus-rules](https://github.com/jr0dd/prometheus-rules) - collection of rules
 - [onedr0p/home-cluster](https://github.com/onedr0p/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux)
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
@@ -378,7 +381,6 @@
 
 - [imp1sh/ansible_nftwallcollection](https://github.com/imp1sh/ansible_nftwallcollection) - Official nftwall ansible collection. nftwall is a highly automated firewall solution.
 - [jr0dd/home-cluster](https://github.com/jr0dd/home-cluster) - My home k8s cluster on Ubuntu being fed by FluxCD & SOPS
-- [mcfio/home-cluster](https://github.com/mcfio/home-cluster) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
 - [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s) - Ansible role for installing k3s as either a standalone server or HA cluster.
 - [mcfio/GitOps](https://github.com/mcfio/GitOps) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
 
