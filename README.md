@@ -64,6 +64,7 @@
 
 ## Go 
 
+- [kubernetes-sigs/cluster-api-provider-kubevirt](https://github.com/kubernetes-sigs/cluster-api-provider-kubevirt) - Cluster API Provider for KubeVirt
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [cpanato/raspi-fan-control](https://github.com/cpanato/raspi-fan-control) - Control external Fan to cool down your raspi cluster
 - [redhat-developer/gitops-operator](https://github.com/redhat-developer/gitops-operator) - An operator that gets you an ArgoCD for cluster configuration out-of-the-box on OpenShift along with the UI for visualizing environments.
