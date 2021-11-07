@@ -65,6 +65,7 @@
 
 ## Go 
 
+- [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [cilium/hubble-otel](https://github.com/cilium/hubble-otel) - Hubble adaptor for OpenTelemetry
 - [kubevirt/hyperconverged-cluster-operator](https://github.com/kubevirt/hyperconverged-cluster-operator) - Operator pattern for managing multi-operator products
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
