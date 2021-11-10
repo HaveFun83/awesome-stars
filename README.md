@@ -428,7 +428,6 @@
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [jertel/elastalert-docker](https://github.com/jertel/elastalert-docker) - Simple Dockerfile for building a Kubernetes and Elastalert Helm compatible Docker image.
-- [netdata/helmchart](https://github.com/netdata/helmchart) - Helm chart for kubernetes deployments
 - [cdwv/bitwarden-k8s](https://github.com/cdwv/bitwarden-k8s) - Helm chart for deploying bitwarden-rs in Kubernetes
 - [kiwigrid/helm-charts](https://github.com/kiwigrid/helm-charts) - Helm charts for Kubernetes curated by Kiwigrid
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - The helm chart to deploy Harbor
@@ -512,6 +511,7 @@
 - [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [inovex/illuminatio](https://github.com/inovex/illuminatio) - The kubernetes network policy validator.
 - [richstokes/cheekymonkey](https://github.com/richstokes/cheekymonkey) - 🐵 Literally a Chaos Monkey for your Kubernetes clusters
+- [netdata/helmchart](https://github.com/netdata/helmchart) - Helm chart for kubernetes deployments
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [HenriWahl/Nagstamon](https://github.com/HenriWahl/Nagstamon) - Nagios status monitor for your desktop.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
