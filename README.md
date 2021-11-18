@@ -343,6 +343,7 @@
 
 ## HCL 
 
+- [danmanners/homelab-k3s-cluster](https://github.com/danmanners/homelab-k3s-cluster) - Dan's Homelab K3s Cluster - Operated through Kustomize & ArgoCD
 - [mcfio/home-cluster](https://github.com/mcfio/home-cluster) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
 - [jr0dd/prometheus-rules](https://github.com/jr0dd/prometheus-rules) - collection of rules
 - [onedr0p/home-cluster](https://github.com/onedr0p/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux)
