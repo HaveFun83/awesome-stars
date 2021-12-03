@@ -53,6 +53,7 @@
 
 ## Dockerfile 
 
+- [mjpitz/nomad-on-docker](https://github.com/mjpitz/nomad-on-docker) - Demonstration connecting Consul, Vault, and Nomad all together using docker
 - [oresama-lab/drawthenet-personal](https://github.com/oresama-lab/drawthenet-personal) - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) is fantastic tool as text based diagram editor. This repository provides a Dockerfile for deploying the drawthenet environment.
 - [HenriWahl/docker-dhcpy6d](https://github.com/HenriWahl/docker-dhcpy6d) - Container for dhcpy6d
 - [k8snetworkplumbingwg/reference-deployment](https://github.com/k8snetworkplumbingwg/reference-deployment) - Resources for K8s NPWG's deployment
@@ -495,6 +496,7 @@
 
 ## Python 
 
+- [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [rapidsai/frigate](https://github.com/rapidsai/frigate) - Frigate is a tool for automatically generating documentation for your Helm charts
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
