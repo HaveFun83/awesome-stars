@@ -353,7 +353,6 @@
 - [danmanners/homelab-k3s-cluster](https://github.com/danmanners/homelab-k3s-cluster) - Dan's Homelab K3s Cluster - Operated through Kustomize & ArgoCD
 - [mcfio/home-cluster](https://github.com/mcfio/home-cluster) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
 - [jr0dd/prometheus-rules](https://github.com/jr0dd/prometheus-rules) - collection of rules
-- [onedr0p/home-cluster](https://github.com/onedr0p/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux)
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
 - [flatcar-linux/flatcar-terraform](https://github.com/flatcar-linux/flatcar-terraform) - Examples of deploying Flatcar instances with Terraform
 - [ImIOImI/Terraform-k3s](https://github.com/ImIOImI/Terraform-k3s) - Terraform repo for a k3s cluster using k3sup to bootstrap nodes
@@ -405,6 +404,7 @@
 - [imp1sh/ansible_nftwallcollection](https://github.com/imp1sh/ansible_nftwallcollection) - Official nftwall ansible collection. nftwall is a highly automated firewall solution.
 - [jr0dd/home-cluster](https://github.com/jr0dd/home-cluster) - My home k8s cluster on Ubuntu being fed by FluxCD & SOPS
 - [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s) - Ansible role for installing k3s as either a standalone server or HA cluster.
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices
 - [mcfio/GitOps](https://github.com/mcfio/GitOps) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
 
 ## Jsonnet 
@@ -548,7 +548,7 @@
 
 ## Rust 
 
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
 - [PacktPublishing/Hands-On-Microservices-with-Rust](https://github.com/PacktPublishing/Hands-On-Microservices-with-Rust) - Hands-On Microservices with Rust 2018, published by Packt
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 
