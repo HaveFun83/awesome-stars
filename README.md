@@ -54,6 +54,7 @@
 ## Dockerfile 
 
 - [mjpitz/nomad-on-docker](https://github.com/mjpitz/nomad-on-docker) - Demonstration connecting Consul, Vault, and Nomad all together using docker
+- [charlie-haley/home-cluster](https://github.com/charlie-haley/home-cluster) - My personal k8s cluster built with Sidero and managed by Flux2 GitOps
 - [oresama-lab/drawthenet-personal](https://github.com/oresama-lab/drawthenet-personal) - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) is fantastic tool as text based diagram editor. This repository provides a Dockerfile for deploying the drawthenet environment.
 - [HenriWahl/docker-dhcpy6d](https://github.com/HenriWahl/docker-dhcpy6d) - Container for dhcpy6d
 - [k8snetworkplumbingwg/reference-deployment](https://github.com/k8snetworkplumbingwg/reference-deployment) - Resources for K8s NPWG's deployment
@@ -402,7 +403,7 @@
 
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [imp1sh/ansible_nftwallcollection](https://github.com/imp1sh/ansible_nftwallcollection) - Official nftwall ansible collection. nftwall is a highly automated firewall solution.
-- [jr0dd/home-cluster](https://github.com/jr0dd/home-cluster) - My home k8s cluster on Ubuntu being fed by FluxCD & SOPS
+- [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This serves my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices.
 - [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s) - Ansible role for installing k3s as either a standalone server or HA cluster.
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices
 - [mcfio/GitOps](https://github.com/mcfio/GitOps) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
@@ -454,7 +455,7 @@
 
 ## Others 
 
-- [charlie-haley/home-cluster](https://github.com/charlie-haley/home-cluster) - My personal k8s cluster built with Sidero and managed by Flux2 GitOps
+- [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [bjw-s/dotfiles](https://github.com/bjw-s/dotfiles) - 
 - [ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) - A curated list of awesome Kubernetes security resources
 - [gitops-working-group/gitops-working-group](https://github.com/gitops-working-group/gitops-working-group) - 
@@ -554,6 +555,7 @@
 
 ## Shell 
 
+- [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [lavabit/robox](https://github.com/lavabit/robox) - The tools needed to robotically create/configure/provision a large number of operating systems, for a variety of hypervisors, using packer.
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
