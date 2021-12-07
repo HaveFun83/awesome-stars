@@ -53,7 +53,7 @@
 
 ## Dockerfile 
 
-- [mjpitz/nomad-on-docker](https://github.com/mjpitz/nomad-on-docker) - Demonstration connecting Consul, Vault, and Nomad all together using docker
+- [mjpitz/nomad-on-docker](https://github.com/mjpitz/nomad-on-docker) - Demonstration connecting Consul, Vault, and Nomad all together using docker 'nodes'
 - [charlie-haley/home-cluster](https://github.com/charlie-haley/home-cluster) - My personal k8s cluster built with Sidero and managed by Flux2 GitOps
 - [oresama-lab/drawthenet-personal](https://github.com/oresama-lab/drawthenet-personal) - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) is fantastic tool as text based diagram editor. This repository provides a Dockerfile for deploying the drawthenet environment.
 - [HenriWahl/docker-dhcpy6d](https://github.com/HenriWahl/docker-dhcpy6d) - Container for dhcpy6d
@@ -67,6 +67,7 @@
 
 ## Go 
 
+- [goharbor/harbor-operator](https://github.com/goharbor/harbor-operator) - Kubernetes operator for Harbor service components
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head) - Demo App for TAG App Delivery
 - [grafana/flagger-k6-webhook](https://github.com/grafana/flagger-k6-webhook) - Using k6 to do load testing of the canary before rolling out traffic
