@@ -67,6 +67,7 @@
 
 ## Go 
 
+- [kelseyhightower/standalone-kubelet-tutorial](https://github.com/kelseyhightower/standalone-kubelet-tutorial) - Standalone Kubelet Tutorial
 - [barpilot/node-labeler-operator](https://github.com/barpilot/node-labeler-operator) - kubernetes operator to auto label/taint/annotate node based on CRD
 - [opsgy/loki-rule-operator](https://github.com/opsgy/loki-rule-operator) - Kubernetes Operator that helps configuring Alert rules for your Loki setup.
 - [goharbor/harbor-operator](https://github.com/goharbor/harbor-operator) - Kubernetes operator for Harbor service components
