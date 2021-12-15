@@ -335,6 +335,7 @@
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [roboll/helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts
+- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [bacongobbler/helm-whatup](https://github.com/bacongobbler/helm-whatup) - A Helm plugin to help users determine if there's an update available for their installed charts.
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [kubernetes-retired/bootkube](https://github.com/kubernetes-retired/bootkube) - This project now lives at https://github.com/kinvolk/bootkube
@@ -371,7 +372,6 @@
 - [mpetersen/meeting-cards](https://github.com/mpetersen/meeting-cards) - Cards for your phone to hold up when you're on a group video call
 - [geerlingguy/mariadb-operator](https://github.com/geerlingguy/mariadb-operator) - MariaDB operator for Kubernetes built with Ansible and the Operator SDK.
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
-- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 
 ## Java 
