@@ -362,7 +362,6 @@
 
 ## HCL 
 
-- [danmanners/homelab-k3s-cluster](https://github.com/danmanners/homelab-k3s-cluster) - Dan's Homelab K3s Cluster - Operated through Kustomize & ArgoCD
 - [mcfio/home-cluster](https://github.com/mcfio/home-cluster) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
 - [jr0dd/prometheus-rules](https://github.com/jr0dd/prometheus-rules) - collection of rules
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
@@ -411,6 +410,7 @@
 
 ## Jinja 
 
+- [danmanners/homelab-k3s-cluster](https://github.com/danmanners/homelab-k3s-cluster) - Dan's Homelab K3s Cluster - Operated through Kustomize & ArgoCD
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [imp1sh/ansible_nftwallcollection](https://github.com/imp1sh/ansible_nftwallcollection) - Official nftwall ansible collection. nftwall is a highly automated firewall solution.
 - [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This serves my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices.
