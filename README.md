@@ -115,7 +115,7 @@
 - [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
 - [openshift/cluster-monitoring-operator](https://github.com/openshift/cluster-monitoring-operator) - Manage the OpenShift monitoring stack
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
-- [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - Build, diff, apply, prune command-line utility for Kubernetes manifests and Kustomize overlays. Powered by Kubernetes server-side apply.
+- [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - An experimental package manager for distributing Kubernetes configuration as OCI artifacts.
 - [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [caos/zitadel](https://github.com/caos/zitadel) - ZITADEL - Identity Experience Platform
