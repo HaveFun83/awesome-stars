@@ -67,6 +67,7 @@
 
 ## Go 
 
+- [rancher/channelserver](https://github.com/rancher/channelserver) - Channel server for System Upgrade Controller
 - [vmware-tanzu/cluster-api-provider-bringyourownhost](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost) - Kubernetes Cluster API Provider BYOH for already-provisioned hosts running Linux.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm
