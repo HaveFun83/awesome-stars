@@ -151,7 +151,7 @@
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
 - [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
-- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) - Creates Prometheus Metrics for PolicyReports and ClusterPolicyReports. Ships with an optional Web UI and can send new Results to different Clients like Loki and Elasticsearch. Provides a optional Monitoring Subchart with  a ServiceMonitor and Grafana Dashboards for the Prometheus Operator.
+- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
 - [pojntfx/bofied](https://github.com/pojntfx/bofied) - Modern network boot server.
 - [weaveworks-experiments/kspan](https://github.com/weaveworks-experiments/kspan) - Turning Kubernetes Events into spans
 - [FUSAKLA/promruval](https://github.com/FUSAKLA/promruval) - Tool to validate the Prometheus rules metadata and expression properties to match requirements and constrains of the particular Prometheus cluster setup.
