@@ -33,6 +33,7 @@
 
 ## C 
 
+- [solo-io/bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [bgp/bgpq4](https://github.com/bgp/bgpq4) - BGP Filter generator
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
@@ -68,6 +69,7 @@
 
 ## Go 
 
+- [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces
 - [mittwald/goharbor-client](https://github.com/mittwald/goharbor-client) - Go Client for the Harbor container registry
