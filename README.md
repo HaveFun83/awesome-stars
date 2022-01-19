@@ -575,7 +575,7 @@
 
 ## Rust 
 
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [PacktPublishing/Hands-On-Microservices-with-Rust](https://github.com/PacktPublishing/Hands-On-Microservices-with-Rust) - Hands-On Microservices with Rust 2018, published by Packt
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 
