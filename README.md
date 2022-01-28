@@ -143,7 +143,7 @@
 - [joe-elliott/cert-exporter](https://github.com/joe-elliott/cert-exporter) - A Prometheus exporter that publishes cert expirations on disk and in Kubernetes secrets
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [cedi/kkpctl](https://github.com/cedi/kkpctl) - a CLI tool for KKP
-- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Software Delivery Workflow For Kubernetes
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Web based CI/CD Platform for Kubernetes
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
 - [authorizer-tech/access-controller](https://github.com/authorizer-tech/access-controller) - A highly scalable open-source implementation of an access-control engine inspired by Google Zanzibar-"Google’s Consistent, Global Authorization System"
@@ -450,7 +450,7 @@
 
 ## Mustache 
 
-- [meilisearch/meilisearch-kubernetes](https://github.com/meilisearch/meilisearch-kubernetes) - MeiliSearch on Kubernetes Helm charts and manifests
+- [meilisearch/meilisearch-kubernetes](https://github.com/meilisearch/meilisearch-kubernetes) - Meilisearch on Kubernetes Helm charts and manifests
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 - [MoJo2600/pihole-kubernetes](https://github.com/MoJo2600/pihole-kubernetes) - PiHole on kubernetes
