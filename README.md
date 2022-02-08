@@ -69,6 +69,8 @@
 
 ## Go 
 
+- [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller) - A GitOps Terraform controller for Kubernetes
+- [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 - [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
@@ -479,7 +481,6 @@
 
 - [robertdebock/ansible-role-cve_2021_44228](https://github.com/robertdebock/ansible-role-cve_2021_44228) - Check and report for cve_2021_44228 (log4shell) on your system.
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
-- [bjw-s/dotfiles](https://github.com/bjw-s/dotfiles) - 
 - [ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) - A curated list of awesome Kubernetes security resources
 - [gitops-working-group/gitops-working-group](https://github.com/gitops-working-group/gitops-working-group) - 
 - [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project
@@ -585,6 +586,7 @@
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head) - Demo App for TAG App Delivery
+- [bjw-s/dotfiles](https://github.com/bjw-s/dotfiles) - 
 - [lavabit/robox](https://github.com/lavabit/robox) - The tools needed to robotically create/configure/provision a large number of operating systems, for a variety of hypervisors, using packer.
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
