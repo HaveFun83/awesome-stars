@@ -247,7 +247,6 @@
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace
-- [mjpitz/credentials-operator](https://github.com/mjpitz/credentials-operator) - Easily generate, store, and share credentials with applications running within a Kubernetes cluster.
 - [rancher/fleet](https://github.com/rancher/fleet) - Manage large fleets of Kubernetes clusters
 - [atomix/chaos-controller](https://github.com/atomix/chaos-controller) - Chaos controller for Kubernetes
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
@@ -525,6 +524,7 @@
 
 ## Python 
 
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [DevOps-Nirvana/Kubernetes-Volume-Autoscaler](https://github.com/DevOps-Nirvana/Kubernetes-Volume-Autoscaler) - Autoscaling volumes for Kubernetes (with the help of Prometheus)
 - [PyBites-Open-Source/pybites-tools](https://github.com/PyBites-Open-Source/pybites-tools) - A repo to commit common Python utility scripts and snippets
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
@@ -590,6 +590,7 @@
 
 ## Shell 
 
+- [simplenetes-io/simplenetes](https://github.com/simplenetes-io/simplenetes) - The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods.
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head) - Demo App for TAG App Delivery
