@@ -428,7 +428,7 @@
 
 ## Jinja 
 
-- [danmanners/homelab-k3s-cluster](https://github.com/danmanners/homelab-k3s-cluster) - Dan's Homelab K3s Cluster - Operated through Kustomize & ArgoCD
+- [danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster) - Dan's Homelab K3s Cluster - Operated through Kustomize & ArgoCD
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [imp1sh/ansible_nftwallcollection](https://github.com/imp1sh/ansible_nftwallcollection) - Official nftwall ansible collection. nftwall is a highly automated firewall solution.
 - [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This mono repo serves my home infrastructure and Kubernetes cluster which utilizes Infrastructure as Code (IaC)
