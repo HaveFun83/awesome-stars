@@ -59,7 +59,6 @@
 - [charlie-haley/home-cluster](https://github.com/charlie-haley/home-cluster) - My personal k8s cluster built with Sidero and managed by Flux2 GitOps
 - [oresama-lab/drawthenet-personal](https://github.com/oresama-lab/drawthenet-personal) - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) is fantastic tool as text based diagram editor. This repository provides a Dockerfile for deploying the drawthenet environment.
 - [HenriWahl/docker-dhcpy6d](https://github.com/HenriWahl/docker-dhcpy6d) - Container for dhcpy6d
-- [k8snetworkplumbingwg/reference-deployment](https://github.com/k8snetworkplumbingwg/reference-deployment) - Resources for K8s NPWG's deployment
 - [HenriWahl/nagstamon-jekyll](https://github.com/HenriWahl/nagstamon-jekyll) - Jekyll repository for Nagstamon website
 - [byrnedo/docker-fluentd-containerd](https://github.com/byrnedo/docker-fluentd-containerd) - Fluentd docker container that parses containerd log formats
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
@@ -221,7 +220,7 @@
 - [RichiH/modbus_exporter](https://github.com/RichiH/modbus_exporter) - Exporter which retrieves stats from a modbus system and exports them via HTTP for Prometheus consumption.
 - [talos-systems/talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [anexia-it/terraform-provider-anxcloud](https://github.com/anexia-it/terraform-provider-anxcloud) - Terraform Provider for Anexia Engine
-- [heptiolabs/gangway](https://github.com/heptiolabs/gangway) - An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster.
+- [vmware-archive/gangway](https://github.com/vmware-archive/gangway) - An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster.
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [moooofly/harborctl](https://github.com/moooofly/harborctl) - A CLI tool for the Docker Registry Harbor.  This project offer a command-line interface to the Harbor API, you can use it to manager your users, projects, repositories, etc. (This project aims to refactor harbor-go-client based on Harbor v1.6.0)
 - [kinvolk/lokomotive](https://github.com/kinvolk/lokomotive) - Lokomotive is a 100% open-source, easy to use and secure Kubernetes distribution from the volks at Kinvolk
@@ -616,6 +615,7 @@
 - [urpylka/docker-aptly](https://github.com/urpylka/docker-aptly) - Apt repository based on Aptly
 - [nicholaswilde/ansible-role-flux](https://github.com/nicholaswilde/ansible-role-flux) - An ansible galaxy role for Flux
 - [chrisss404/check-mk-arm](https://github.com/chrisss404/check-mk-arm) - Checkmk for Raspberry Pi.
+- [k8snetworkplumbingwg/reference-deployment](https://github.com/k8snetworkplumbingwg/reference-deployment) - Resources for K8s NPWG's deployment
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
