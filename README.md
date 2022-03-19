@@ -68,6 +68,8 @@
 
 ## Go 
 
+- [cbrgm/promcheck](https://github.com/cbrgm/promcheck) - A tool and exporter to identify faulty Prometheus rules
+- [estafette/estafette-vulnerability-scanner](https://github.com/estafette/estafette-vulnerability-scanner) - An application that regularly scans all containers in a Kubernetes cluster for vulnerabilities
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [BESTSELLER/terraform-provider-harbor](https://github.com/BESTSELLER/terraform-provider-harbor) - A terraform provider for Harbor. Used to configure an instance of Harbor.
 - [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
