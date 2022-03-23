@@ -186,7 +186,7 @@
 - [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version)
 - [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers
 - [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - containerlab enables container-based networking labs
-- [talos-systems/sidero](https://github.com/talos-systems/sidero) - Sidero is a bare metal provisioning system with support for Kubernetes Cluster API.
+- [siderolabs/sidero](https://github.com/siderolabs/sidero) - Sidero is a bare metal provisioning system with support for Kubernetes Cluster API.
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
 - [kastenhq/kubestr](https://github.com/kastenhq/kubestr) - 
 - [sharadbhat/KubernetesPatterns](https://github.com/sharadbhat/KubernetesPatterns) - YAML and Golang implementations of common Kubernetes patterns.
@@ -222,7 +222,7 @@
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Easier management of kubeconfig.
 - [RichiH/modbus_exporter](https://github.com/RichiH/modbus_exporter) - Exporter which retrieves stats from a modbus system and exports them via HTTP for Prometheus consumption.
-- [talos-systems/talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos is a modern OS for Kubernetes.
 - [anexia-it/terraform-provider-anxcloud](https://github.com/anexia-it/terraform-provider-anxcloud) - Terraform Provider for Anexia Engine
 - [vmware-archive/gangway](https://github.com/vmware-archive/gangway) - An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster.
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
