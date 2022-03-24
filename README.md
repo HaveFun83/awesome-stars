@@ -68,6 +68,7 @@
 
 ## Go 
 
+- [foriequal0/pod-graceful-drain](https://github.com/foriequal0/pod-graceful-drain) - You don't need `lifecycle: { preStop: { exec: { command: ["sleep", "30"] } } }`
 - [cbrgm/promcheck](https://github.com/cbrgm/promcheck) - A tool and exporter to identify faulty Prometheus rules
 - [estafette/estafette-vulnerability-scanner](https://github.com/estafette/estafette-vulnerability-scanner) - An application that regularly scans all containers in a Kubernetes cluster for vulnerabilities
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
@@ -578,6 +579,7 @@
 
 ## Ruby 
 
+- [kingdonb/flux-web-stats](https://github.com/kingdonb/flux-web-stats) - My first K8s CRD controller (in Ruby!)
 - [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt) - Vagrant provider for libvirt.
