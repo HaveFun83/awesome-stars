@@ -68,6 +68,7 @@
 
 ## Go 
 
+- [hashicorp/vault-k8s](https://github.com/hashicorp/vault-k8s) - First-class support for Vault and Kubernetes.
 - [foriequal0/pod-graceful-drain](https://github.com/foriequal0/pod-graceful-drain) - You don't need `lifecycle: { preStop: { exec: { command: ["sleep", "30"] } } }`
 - [cbrgm/promcheck](https://github.com/cbrgm/promcheck) - A tool and exporter to identify faulty Prometheus rules
 - [estafette/estafette-vulnerability-scanner](https://github.com/estafette/estafette-vulnerability-scanner) - An application that regularly scans all containers in a Kubernetes cluster for vulnerabilities
