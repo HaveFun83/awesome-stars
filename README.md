@@ -187,7 +187,7 @@
 - [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version)
 - [vmware-archive/kubewatch](https://github.com/vmware-archive/kubewatch) - Watch k8s events and trigger Handlers
 - [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - containerlab enables container-based networking labs
-- [siderolabs/sidero](https://github.com/siderolabs/sidero) - Sidero is a bare metal provisioning system with support for Kubernetes Cluster API.
+- [siderolabs/sidero](https://github.com/siderolabs/sidero) - Sidero Metal is a bare metal provisioning system with support for Kubernetes Cluster API.
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
 - [kastenhq/kubestr](https://github.com/kastenhq/kubestr) - 
 - [sharadbhat/KubernetesPatterns](https://github.com/sharadbhat/KubernetesPatterns) - YAML and Golang implementations of common Kubernetes patterns.
