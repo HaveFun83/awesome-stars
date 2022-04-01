@@ -68,6 +68,8 @@
 
 ## Go 
 
+- [phoban01/cue-flux-controller](https://github.com/phoban01/cue-flux-controller) - A Kubernetes controller for CUE via Flux
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [hashicorp/vault-k8s](https://github.com/hashicorp/vault-k8s) - First-class support for Vault and Kubernetes.
 - [foriequal0/pod-graceful-drain](https://github.com/foriequal0/pod-graceful-drain) - You don't need `lifecycle: { preStop: { exec: { command: ["sleep", "30"] } } }`
 - [cbrgm/promcheck](https://github.com/cbrgm/promcheck) - A tool and exporter to identify faulty Prometheus rules
