@@ -74,6 +74,7 @@
 
 ## Go 
 
+- [snapp-incubator/node-config-operator](https://github.com/snapp-incubator/node-config-operator) - An operator to manage node labels, annotations, and taints.
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer
 - [phoban01/cue-flux-controller](https://github.com/phoban01/cue-flux-controller) - A Kubernetes controller for CUE via Flux
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
