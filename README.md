@@ -502,6 +502,7 @@
 
 ## Others 
 
+- [ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible) - Awesome Ansible List
 - [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - 
 - [robertdebock/ansible-role-cve_2021_44228](https://github.com/robertdebock/ansible-role-cve_2021_44228) - Check and report for cve_2021_44228 (log4shell) on your system.
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
@@ -545,6 +546,7 @@
 
 ## Python 
 
+- [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [DevOps-Nirvana/Kubernetes-Volume-Autoscaler](https://github.com/DevOps-Nirvana/Kubernetes-Volume-Autoscaler) - Autoscaling volumes for Kubernetes (with the help of Prometheus)
 - [PyBites-Open-Source/pybites-tools](https://github.com/PyBites-Open-Source/pybites-tools) - A repo to commit common Python utility scripts and snippets
@@ -556,7 +558,7 @@
 - [rapidsai/frigate](https://github.com/rapidsai/frigate) - Frigate is a tool for automatically generating documentation for your Helm charts
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection
-- [ansible-community/molecule-vagrant](https://github.com/ansible-community/molecule-vagrant) - Molecule Vangrant Driver
+- [ansible-community/molecule-vagrant](https://github.com/ansible-community/molecule-vagrant) - Molecule Vagrant Driver
 - [ansible-community/molecule-libvirt](https://github.com/ansible-community/molecule-libvirt) - Molecule LibVirt Provider
 - [Pobek/pihole-dns-updater](https://github.com/Pobek/pihole-dns-updater) - Updates PiHole's DNS via an API
 - [HenriWahl/dhcpy6d](https://github.com/HenriWahl/dhcpy6d) - MAC address aware DHCPv6 server written in Python
