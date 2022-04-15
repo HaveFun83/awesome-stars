@@ -58,7 +58,6 @@
 ## CUE 
 
 - [cncf/cloudnativetv](https://github.com/cncf/cloudnativetv) - The home for CloudNative.tv the definitive interactive media experience for learning and growing in cloud native
-- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 
 ## Dockerfile 
 
@@ -379,6 +378,7 @@
 - [roboll/helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [bacongobbler/helm-whatup](https://github.com/bacongobbler/helm-whatup) - A Helm plugin to help users determine if there's an update available for their installed charts.
+- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [kubernetes-retired/bootkube](https://github.com/kubernetes-retired/bootkube) - This project now lives at https://github.com/kinvolk/bootkube
 - [pulumi/kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
