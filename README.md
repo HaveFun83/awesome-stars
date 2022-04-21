@@ -158,7 +158,7 @@
 - [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - An experimental package manager for distributing Kubernetes configuration as OCI artifacts.
 - [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [caos/zitadel](https://github.com/caos/zitadel) - ZITADEL - Identity Experience Platform
+- [caos/zitadel](https://github.com/caos/zitadel) - ZITADEL - The Open Source Auth0, Firebase Auth, AWS Cognito and Keycloak alternative written in Go and built for the serverless era
 - [catalogicsoftware/kubedr](https://github.com/catalogicsoftware/kubedr) - An open source, disaster-recovery, Kubernetes project that backs up, and restores, etcd cluster data.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
