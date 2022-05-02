@@ -277,7 +277,7 @@
 - [rancher/fleet](https://github.com/rancher/fleet) - Manage large fleets of Kubernetes clusters
 - [atomix/chaos-controller](https://github.com/atomix/chaos-controller) - Chaos controller for Kubernetes
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
-- [clastix/capsule](https://github.com/clastix/capsule) - Kubernetes Operator for multi-tenancy
+- [clastix/capsule](https://github.com/clastix/capsule) - Multi-tenancy and policy-based framework for Kubernetes.
 - [duyanghao/velero-volume-controller](https://github.com/duyanghao/velero-volume-controller) - Kubernetes controller for velero that detects and adds relevant backup annotation to pods with volumes
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
