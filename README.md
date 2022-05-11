@@ -77,6 +77,7 @@
 
 ## Go 
 
+- [flexkube/terraform-provider-flexkube](https://github.com/flexkube/terraform-provider-flexkube) - Terraform Flexkube provider
 - [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
 - [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe energy related system stats and exports as Prometheus metrics
 - [23technologies/gardener-extension-shoot-flux](https://github.com/23technologies/gardener-extension-shoot-flux) - In this repository, the development of the gardener extension, which deploys the flux controllers automatically to shoot clusters, takes place.
