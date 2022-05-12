@@ -421,6 +421,7 @@
 
 ## HTML 
 
+- [ceph/ceph.io](https://github.com/ceph/ceph.io) - This repo contains static site content for www.ceph.io
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [susam/dosage](https://github.com/susam/dosage) - DOSAge - A collection of vintage DOS games and tools
 - [mpetersen/meeting-cards](https://github.com/mpetersen/meeting-cards) - Cards for your phone to hold up when you're on a group video call
