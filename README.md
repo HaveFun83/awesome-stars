@@ -140,7 +140,7 @@
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [cilium/hubble-otel](https://github.com/cilium/hubble-otel) - Hubble adaptor for OpenTelemetry
 - [kubevirt/hyperconverged-cluster-operator](https://github.com/kubevirt/hyperconverged-cluster-operator) - Operator pattern for managing multi-operator products
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [anexia-it/cert-manager-webhook-anexia](https://github.com/anexia-it/cert-manager-webhook-anexia) - A cert-manager ACME DNS01 solver webhook working with Anexia CloudDNS
 - [actions-runner-controller/actions-runner-controller](https://github.com/actions-runner-controller/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [kubernetes-sigs/cluster-api-provider-kubevirt](https://github.com/kubernetes-sigs/cluster-api-provider-kubevirt) - Cluster API Provider for KubeVirt
@@ -266,7 +266,7 @@
 - [anexia-it/go-anxcloud](https://github.com/anexia-it/go-anxcloud) - Go client for Anexia Engine API
 - [rhobs/kube-events-exporter](https://github.com/rhobs/kube-events-exporter) - Kubernetes events aggregator and exporter
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-- [timescale/promscale](https://github.com/timescale/promscale) - The open-source observability backend for metrics and traces powered by SQL 🚀
+- [timescale/promscale](https://github.com/timescale/promscale) - Unified observability backend for metrics and traces powered by SQL and built on PostgreSQL and TimescaleDB 🚀
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [FairwindsOps/gemini](https://github.com/FairwindsOps/gemini) - Automated backups of PersistentVolumeClaims in Kubernetes using VolumeSnapshots
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
@@ -423,6 +423,7 @@
 
 - [ceph/ceph.io](https://github.com/ceph/ceph.io) - This repo contains static site content for www.ceph.io
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
+- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [susam/dosage](https://github.com/susam/dosage) - DOSAge - A collection of vintage DOS games and tools
 - [mpetersen/meeting-cards](https://github.com/mpetersen/meeting-cards) - Cards for your phone to hold up when you're on a group video call
 - [geerlingguy/mariadb-operator](https://github.com/geerlingguy/mariadb-operator) - MariaDB operator for Kubernetes built with Ansible and the Operator SDK.
@@ -469,6 +470,7 @@
 - [imp1sh/ansible_nftwallcollection](https://github.com/imp1sh/ansible_nftwallcollection) - Official nftwall ansible collection. nftwall is a highly automated firewall solution.
 - [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This mono repo serves my home infrastructure and Kubernetes cluster which utilizes Infrastructure as Code (IaC)
 - [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s) - Ansible role for installing k3s as either a standalone server or HA cluster.
+- [incubateur-pe/containerd](https://github.com/incubateur-pe/containerd) - 
 - [mcfio/GitOps](https://github.com/mcfio/GitOps) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
 
 ## Jsonnet 
@@ -598,7 +600,6 @@
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home
 - [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
-- [incubateur-pe/containerd](https://github.com/incubateur-pe/containerd) - 
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [k8spin/k8spin-operator](https://github.com/k8spin/k8spin-operator) - K8Spin multi-tenant operator - OSS
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
@@ -724,7 +725,6 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [artifacthub/hub](https://github.com/artifacthub/hub) - Find, install and publish Kubernetes packages
 - [fluxcd/webui](https://github.com/fluxcd/webui) - Experimental UI for Flux version 2
-- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [aws-samples/aws-cdk-for-k3scluster](https://github.com/aws-samples/aws-cdk-for-k3scluster) - 
