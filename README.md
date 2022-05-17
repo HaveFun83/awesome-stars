@@ -546,6 +546,7 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [cncf/cloud-native-community-cookbook](https://github.com/cncf/cloud-native-community-cookbook) - A beautiful cookbook with recipes from around the cloud native community.
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi
+- [telekom/das-schiff](https://github.com/telekom/das-schiff) - This is home of Das Schiff - Deutsche Telekom Technik's engine for Kubernetes Cluster as a Service (CaaS) in on-premise environment on top of bare-metal servers and VMs.
 - [nordicgiant2/awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page) - A series of beautiful and practical landing page templates
 - [dresden-weekly/ansible-network-interfaces](https://github.com/dresden-weekly/ansible-network-interfaces) - Ansible roles to manage Ubuntu network interface configuration
 - [Addyvan/valheim-k8s](https://github.com/Addyvan/valheim-k8s) - valheim game-server on kubernetes
@@ -593,7 +594,6 @@
 - [PulseInnovations/prometheus-deadmansswitch](https://github.com/PulseInnovations/prometheus-deadmansswitch) - An AWS Lambda function to alert to Slack when Prometheus is offline
 - [Vista-Technology/netops-quickstart](https://github.com/Vista-Technology/netops-quickstart) - NetOps Quickstart
 - [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
-- [telekom/das-schiff](https://github.com/telekom/das-schiff) - This is home of Das Schiff - Deutsche Telekom Technik's engine for Kubernetes Cluster as a Service (CaaS) in on-premise environment on top of bare-metal servers and VMs.
 - [alexellis/growlab](https://github.com/alexellis/growlab) - A global contest to grow and monitor your own food with Raspberry Pi
 - [chaostoolkit/chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - Chaos Engineering Toolkit & Orchestration for Developers
 - [k8s-at-home/renovate-helm-releases](https://github.com/k8s-at-home/renovate-helm-releases) - Creates Renovate annotations in Flux2 Helm Releases
@@ -641,7 +641,6 @@
 
 ## Shell 
 
-- [ilanKushnir/kws-cluster](https://github.com/ilanKushnir/kws-cluster) - My homelab, a k3s cluster with Ansible and Terraform backed by Flux, SOPS, GitHub Actions and Renovate
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [simplenetes-io/simplenetes](https://github.com/simplenetes-io/simplenetes) - The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods.
