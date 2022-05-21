@@ -187,7 +187,7 @@
 - [joe-elliott/cert-exporter](https://github.com/joe-elliott/cert-exporter) - A Prometheus exporter that publishes cert expirations on disk and in Kubernetes secrets
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [cedi/kkpctl](https://github.com/cedi/kkpctl) - a CLI tool for KKP
-- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Web based CI/CD Platform for Kubernetes
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. Se
 - [unifio/packer-post-processor-vagrant-s3](https://github.com/unifio/packer-post-processor-vagrant-s3) - A Packer post-processor to upload vagrant boxes to S3
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
