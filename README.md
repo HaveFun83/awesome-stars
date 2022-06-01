@@ -182,6 +182,7 @@
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
+- [anexia-it/k8s-anexia-ccm](https://github.com/anexia-it/k8s-anexia-ccm) - 
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [kubeguard/guard](https://github.com/kubeguard/guard) - 🔑 Kubernetes Authentication & Authorization WebHook Server
 - [yeya24/promlinter](https://github.com/yeya24/promlinter) - 
@@ -454,6 +455,7 @@
 - [vincentbernat/dashkiosk](https://github.com/vincentbernat/dashkiosk) - Managing dashboards on various displays (especially those running on Android)
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+- [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
 - [GlobalNOC/globalnoc-networkmap-panel](https://github.com/GlobalNOC/globalnoc-networkmap-panel) - A network map panel for Grafana
 - [philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
 - [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
@@ -479,6 +481,7 @@
 
 ## Jsonnet 
 
+- [fluxcd-community/flux-mixin](https://github.com/fluxcd-community/flux-mixin) - Community maintained Prometheus Monitoring Mixin for Flux
 - [openebs/monitoring](https://github.com/openebs/monitoring) - OpenEBS Monitoring add-on. A set of Grafana, Prometheus, and alert manager plugins.
 - [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - 
 - [adinhodovic/blackbox-exporter-mixin](https://github.com/adinhodovic/blackbox-exporter-mixin) - A mixin for the blackbox-exporter
@@ -531,6 +534,7 @@
 
 ## Others 
 
+- [fluxcd-community/microservices-demo](https://github.com/fluxcd-community/microservices-demo) - Lightweight microservices demo made with podinfo, managed by flux and monitored by weave gitops.
 - [ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible) - Awesome Ansible List
 - [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - Flux Subsystem for Argo - Landing Repository
 - [robertdebock/ansible-role-cve_2021_44228](https://github.com/robertdebock/ansible-role-cve_2021_44228) - Check and report for cve_2021_44228 (log4shell) on your system.
@@ -555,7 +559,6 @@
 - [dresden-weekly/ansible-network-interfaces](https://github.com/dresden-weekly/ansible-network-interfaces) - Ansible roles to manage Ubuntu network interface configuration
 - [Addyvan/valheim-k8s](https://github.com/Addyvan/valheim-k8s) - valheim game-server on kubernetes
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
-- [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
 - [kinvolk/manifest](https://github.com/kinvolk/manifest) - The build manifest for Flatcar releases
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [eon01/kubectl-SheetCheat](https://github.com/eon01/kubectl-SheetCheat) - The Definitive Kubectl Sheetcheat. ⭐ Give it a star if you like it. Work (always) in progress !
