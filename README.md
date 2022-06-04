@@ -52,6 +52,7 @@
 
 ## C++ 
 
+- [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [goodtft/LCD-show](https://github.com/goodtft/LCD-show) - 2.4" 2.8"3.2" 3.5" 5.0" 7.0" TFT LCD driver for the Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
 - [Kashalls/airgradient-prometheus-sensor](https://github.com/Kashalls/airgradient-prometheus-sensor) - A ESP8266 with a bunch of sensors to collect data about the airquality in your. Except with prometheus scraping capabilities.
 - [boblemaire/IoTaWatt](https://github.com/boblemaire/IoTaWatt) - IoTaWatt Open WiFi Electric Energy Monitor
@@ -78,6 +79,8 @@
 
 ## Go 
 
+- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway
 - [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 - [weaveworks-liquidmetal/cluster-api-provider-microvm](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm) - The Cluster API provider for creating microvm (i.e. Firecracker, Cloud Hypervisor) clusters
 - [grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs
@@ -448,6 +451,7 @@
 
 ## JavaScript 
 
+- [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
