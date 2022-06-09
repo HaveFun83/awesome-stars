@@ -61,6 +61,7 @@
 
 ## CUE 
 
+- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
 - [cncf/cloudnativetv](https://github.com/cncf/cloudnativetv) - The home for CloudNative.tv the definitive interactive media experience for learning and growing in cloud native
 
 ## Dockerfile 
@@ -79,6 +80,9 @@
 
 ## Go 
 
+- [mjpitz/pages](https://github.com/mjpitz/pages) - Web application / static site hosting with built-in support for simple analytics via Prometheus and Grafana.
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [sigstore/policy-controller](https://github.com/sigstore/policy-controller) - 
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway
 - [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
@@ -86,7 +90,6 @@
 - [grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
 - [flexkube/terraform-provider-flexkube](https://github.com/flexkube/terraform-provider-flexkube) - Terraform Flexkube provider
-- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
 - [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe energy related system stats and exports as Prometheus metrics
 - [23technologies/gardener-extension-shoot-flux](https://github.com/23technologies/gardener-extension-shoot-flux) - In this repository, the development of the gardener extension, which deploys the flux controllers automatically to shoot clusters, takes place.
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
@@ -713,6 +716,7 @@
 
 ## Smarty 
 
+- [parca-dev/helm-charts](https://github.com/parca-dev/helm-charts) - Kubernetes Helm Charts to run Parca and Parca Agent
 - [fluent/helm-charts](https://github.com/fluent/helm-charts) - Helm Charts for Fluentd and Fluent Bit
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik v2 helm chart
 - [hackmdio/codimd-helm](https://github.com/hackmdio/codimd-helm) - Helm charts for CodiMD
@@ -729,6 +733,7 @@
 
 ## TypeScript 
 
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [weaveworks/vscode-gitops-tools](https://github.com/weaveworks/vscode-gitops-tools) - GitOps Visual Studio Code Extension
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
