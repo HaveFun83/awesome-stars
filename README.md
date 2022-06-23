@@ -202,7 +202,7 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [cedi/kkpctl](https://github.com/cedi/kkpctl) - a CLI tool for KKP
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
-- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s configs follow stability & security best practices as well as your organization’s policies.
+- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to production, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See o
 - [unifio/packer-post-processor-vagrant-s3](https://github.com/unifio/packer-post-processor-vagrant-s3) - A Packer post-processor to upload vagrant boxes to S3
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
 - [authorizer-tech/access-controller](https://github.com/authorizer-tech/access-controller) - A highly scalable open-source implementation of an access-control engine inspired by Google Zanzibar-"Google’s Consistent, Global Authorization System"
