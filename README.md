@@ -278,7 +278,7 @@
 - [vmware-archive/gangway](https://github.com/vmware-archive/gangway) - An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster.
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [moooofly/harborctl](https://github.com/moooofly/harborctl) - A CLI tool for the Docker Registry Harbor.  This project offer a command-line interface to the Harbor API, you can use it to manager your users, projects, repositories, etc. (This project aims to refa
-- [kinvolk/lokomotive](https://github.com/kinvolk/lokomotive) - Lokomotive is a 100% open-source, easy to use and secure Kubernetes distribution from the volks at Kinvolk
+- [kinvolk/lokomotive](https://github.com/kinvolk/lokomotive) - 🪦 DISCONTINUED Further Lokomotive development has been discontinued. Lokomotive is a 100% open-source, easy to use and secure Kubernetes distribution from the volks at Kinvolk
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
