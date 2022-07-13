@@ -290,7 +290,7 @@
 - [anexia-it/go-anxcloud](https://github.com/anexia-it/go-anxcloud) - Go client for Anexia Engine API
 - [rhobs/kube-events-exporter](https://github.com/rhobs/kube-events-exporter) - Kubernetes events aggregator and exporter
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-- [timescale/promscale](https://github.com/timescale/promscale) - Unified observability backend for metrics and traces powered by SQL and built on PostgreSQL and TimescaleDB 🚀
+- [timescale/promscale](https://github.com/timescale/promscale) - Promscale is a unified metric and trace observability backend for Prometheus, Jaeger and OpenTelemetry built on PostgreSQL and TimescaleDB.
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [FairwindsOps/gemini](https://github.com/FairwindsOps/gemini) - Automated backups of PersistentVolumeClaims in Kubernetes using VolumeSnapshots
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
@@ -422,7 +422,7 @@
 - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) - This is a place for various problem detectors running on the Kubernetes nodes.
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes
 - [galexrt/dellhw_exporter](https://github.com/galexrt/dellhw_exporter) - Prometheus exporter for Dell Hardware components using Dell OMSA.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) - manages elasticsearch clusters
