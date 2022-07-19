@@ -81,6 +81,7 @@
 
 ## Go 
 
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
 - [k8tz/k8tz](https://github.com/k8tz/k8tz) - Kubernetes admission controller and a CLI tool to inject timezones into Pods and CronJobs
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
@@ -212,7 +213,7 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [cedi/kkpctl](https://github.com/cedi/kkpctl) - a CLI tool for KKP
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
-- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to production, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See o
+- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [unifio/packer-post-processor-vagrant-s3](https://github.com/unifio/packer-post-processor-vagrant-s3) - A Packer post-processor to upload vagrant boxes to S3
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
 - [authorizer-tech/access-controller](https://github.com/authorizer-tech/access-controller) - A highly scalable open-source implementation of an access-control engine inspired by Google Zanzibar-"Google’s Consistent, Global Authorization System"
@@ -505,7 +506,6 @@
 - [imp1sh/ansible_nftwallcollection](https://github.com/imp1sh/ansible_nftwallcollection) - Official nftwall ansible collection. nftwall is a highly automated firewall solution.
 - [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This mono repo serves my home infrastructure and Kubernetes cluster which utilizes Infrastructure as Code (IaC)
 - [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s) - Ansible role for installing k3s as either a standalone server or HA cluster.
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [gperezmz/k8s-gitops](https://github.com/gperezmz/k8s-gitops) - 
 - [incubateur-pe/containerd](https://github.com/incubateur-pe/containerd) - 
 - [mcfio/GitOps](https://github.com/mcfio/GitOps) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
@@ -557,6 +557,7 @@
 
 ## Open Policy Agent 
 
+- [utilitywarehouse/gatekeeper-template-manifests](https://github.com/utilitywarehouse/gatekeeper-template-manifests) - Kustomize base manifests for OPA gatekeeper templates
 - [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
 - [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library) - The OPA Gatekeeper policy library.
 - [raspbernetes/k8s-security-policies](https://github.com/raspbernetes/k8s-security-policies) - This repository provides a security policies library that is used for securing Kubernetes clusters configurations. The security policies are created based on CIS Kubernetes benchmark and rules defined
@@ -685,6 +686,8 @@
 
 ## Shell 
 
+- [sighupio/fury-kubernetes-opa](https://github.com/sighupio/fury-kubernetes-opa) - Fury Kubernetes OPA. Policy enforcement for your Kubernetes Cluster
+- [sighupio/fury-distribution](https://github.com/sighupio/fury-distribution) - Kubernetes Fury Distribution (Core Modules) - A battle-tested open-source Kubernetes distribution
 - [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
@@ -713,6 +716,7 @@
 - [nicholaswilde/ansible-role-flux](https://github.com/nicholaswilde/ansible-role-flux) - An ansible galaxy role for Flux
 - [chrisss404/check-mk-arm](https://github.com/chrisss404/check-mk-arm) - Checkmk for Raspberry Pi.
 - [k8snetworkplumbingwg/reference-deployment](https://github.com/k8snetworkplumbingwg/reference-deployment) - Resources for K8s NPWG's deployment
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
