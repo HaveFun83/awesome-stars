@@ -81,6 +81,8 @@
 
 ## Go 
 
+- [clastix/kamaji](https://github.com/clastix/kamaji) - Build and operate Kubernetes at scale with a fraction of operational burden.
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [eko/pihole-exporter](https://github.com/eko/pihole-exporter) - A Prometheus exporter for PI-Hole's Raspberry PI ad blocker
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) - Prometheus exporter for Free Range Routing
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
