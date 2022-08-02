@@ -701,7 +701,7 @@
 
 ## Shell 
 
-- [sighupio/fury-kubernetes-opa](https://github.com/sighupio/fury-kubernetes-opa) - Fury Kubernetes OPA. Policy enforcement for your Kubernetes Cluster
+- [sighupio/fury-kubernetes-opa](https://github.com/sighupio/fury-kubernetes-opa) - Kubernetes Fury OPA. Policy enforcement for your Kubernetes Cluster
 - [sighupio/fury-distribution](https://github.com/sighupio/fury-distribution) - Kubernetes Fury Distribution (Core Modules) - A battle-tested open-source Kubernetes distribution
 - [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
