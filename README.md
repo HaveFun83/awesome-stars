@@ -523,6 +523,7 @@
 
 ## Jsonnet 
 
+- [adinhodovic/rabbitmq-mixin](https://github.com/adinhodovic/rabbitmq-mixin) - 
 - [fluxcd-community/flux-mixin](https://github.com/fluxcd-community/flux-mixin) - Community maintained Prometheus Monitoring Mixin for Flux
 - [openebs/monitoring](https://github.com/openebs/monitoring) - OpenEBS Monitoring add-on. A set of Grafana, Prometheus, and alert manager plugins.
 - [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - 
@@ -578,6 +579,8 @@
 
 ## Others 
 
+- [monitoring-mixins/docs](https://github.com/monitoring-mixins/docs) - Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Rules and Alerts.
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
 - [methodair/project-julie](https://github.com/methodair/project-julie) - Project Julie is a research project aimed at increasing cancer diagnosis using computer vision on Kubernetes
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
@@ -681,6 +684,7 @@
 
 ## Ruby 
 
+- [synyx/buchungsstreber](https://github.com/synyx/buchungsstreber) - Helper application for publishing time entries to Redmine.
 - [kingdonb/flux-web-stats](https://github.com/kingdonb/flux-web-stats) - My first K8s CRD controller (in Ruby!)
 - [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
