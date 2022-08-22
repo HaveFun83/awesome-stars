@@ -781,7 +781,7 @@
 - [falcosecurity/charts](https://github.com/falcosecurity/charts) - Community managed Helm charts for running Falco with Kubernetes
 - [fluent/helm-charts](https://github.com/fluent/helm-charts) - Helm Charts for Fluentd and Fluent Bit
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik v2 helm chart
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
 - [hackmdio/codimd-helm](https://github.com/hackmdio/codimd-helm) - Helm charts for CodiMD
 - [komljen/helm-charts](https://github.com/komljen/helm-charts) - Helm charts - Apps for Kubernetes
 - [clockworksoul/helm-elasticsearch](https://github.com/clockworksoul/helm-elasticsearch) - An Elasticsearch cluster on top of Kubernetes, made easier, with Helm.
