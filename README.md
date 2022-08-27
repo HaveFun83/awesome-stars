@@ -84,6 +84,7 @@
 
 ## Go 
 
+- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers.
 - [cresta/helm-autoupdate](https://github.com/cresta/helm-autoupdate) - CLI/action to update helm versions in git repositories
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
@@ -378,7 +379,7 @@
 - [stefanprodan/kjob](https://github.com/stefanprodan/kjob) - Kubernetes job runner
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
-- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap Kubernetes with k3s over SSH &lt; 1 min 🚀
+- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [gardener/gardener-extension-provider-openstack](https://github.com/gardener/gardener-extension-provider-openstack) - Gardener extension controller for the OpenStack cloud provider (https://openstack.org).
 - [kontena/akrobateo](https://github.com/kontena/akrobateo) - Akrobateo is a simple Kubernetes operator to expose in-cluster LoadBalancer services as node hostPorts using DaemonSets.
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) - 
