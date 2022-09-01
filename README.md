@@ -712,6 +712,7 @@
 
 ## Rust 
 
+- [Ramilito/kubesess](https://github.com/Ramilito/kubesess) - Kubectl plugin managing sessions
 - [rust-in-action/code](https://github.com/rust-in-action/code) - Source code for the book Rust in Action
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
 - [maheshrayas/kube-saver](https://github.com/maheshrayas/kube-saver) - Cost saving K8s controller to scale down and up of resources during non-business hours
@@ -724,7 +725,6 @@
 
 ## Shell 
 
-- [Ramilito/kubesess](https://github.com/Ramilito/kubesess) - Kubectl plugin managing sessions
 - [rook/kubectl-rook-ceph](https://github.com/rook/kubectl-rook-ceph) - Krew plugin to run kubectl commands with rook-ceph
 - [sighupio/fury-kubernetes-opa](https://github.com/sighupio/fury-kubernetes-opa) - Kubernetes Fury OPA. Policy enforcement for your Kubernetes Cluster
 - [sighupio/fury-distribution](https://github.com/sighupio/fury-distribution) - Kubernetes Fury Distribution (Core Modules) - A battle-tested open-source Kubernetes distribution
