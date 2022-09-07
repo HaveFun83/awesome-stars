@@ -306,7 +306,7 @@
 - [fluxcd/image-automation-controller](https://github.com/fluxcd/image-automation-controller) - GitOps Toolkit controller that patches container image tags in Git
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Easier management of kubeconfig.
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily.
 - [RichiH/modbus_exporter](https://github.com/RichiH/modbus_exporter) - Exporter which retrieves stats from a modbus system and exports them via HTTP for Prometheus consumption.
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [anexia-it/terraform-provider-anxcloud](https://github.com/anexia-it/terraform-provider-anxcloud) - Terraform Provider for Anexia Engine
