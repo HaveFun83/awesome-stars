@@ -291,7 +291,7 @@
 - [kubevirt/cluster-network-addons-operator](https://github.com/kubevirt/cluster-network-addons-operator) - Deploy additional networking components on top of your Kubernetes cluster
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts
 - [kubermatic/machine-controller](https://github.com/kubermatic/machine-controller) - 
-- [flatcar-linux/flatcar-linux-update-operator](https://github.com/flatcar-linux/flatcar-linux-update-operator) - A Kubernetes operator to manage updates of Flatcar Container Linux
+- [flatcar/flatcar-linux-update-operator](https://github.com/flatcar/flatcar-linux-update-operator) - A Kubernetes operator to manage updates of Flatcar Container Linux
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [kubermatic/kubermatic](https://github.com/kubermatic/kubermatic) - Kubermatic Kubernetes Platform - the Central Kubernetes Management Platform For Any Infrastructure
@@ -467,12 +467,12 @@
 
 ## HCL 
 
-- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇫🇷🇩🇪🇮🇩🇮🇹🇧🇷🇵🇱🇺🇦🇪🇸🇮🇱
+- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇫🇷🇩🇪🇮🇩🇮🇹🇧🇷🇵🇱🇺🇦🇪🇸🇮🇱🇷🇴
 - [xUnholy/k8s-gitops](https://github.com/xUnholy/k8s-gitops) - Kubernetes cluster managed by GitOps - Git as a single source of truth, automated pipelines, declarative everything, next-generation DevOps
 - [mcfio/home-cluster](https://github.com/mcfio/home-cluster) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
 - [jr0dd/prometheus-rules](https://github.com/jr0dd/prometheus-rules) - collection of rules
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
-- [flatcar-linux/flatcar-terraform](https://github.com/flatcar-linux/flatcar-terraform) - Examples of deploying Flatcar instances with Terraform
+- [flatcar/flatcar-terraform](https://github.com/flatcar/flatcar-terraform) - Examples of deploying Flatcar instances with Terraform
 - [ImIOImI/Terraform-k3s](https://github.com/ImIOImI/Terraform-k3s) - Terraform repo for a k3s cluster using k3sup to bootstrap nodes
 - [okd-project/okd](https://github.com/okd-project/okd) - The self-managing, auto-upgrading, Kubernetes distribution for everyone
 - [mjpitz/rpi-cloud-init](https://github.com/mjpitz/rpi-cloud-init) - Configuration for my at-home cloud
@@ -563,6 +563,7 @@
 
 ## Lua 
 
+- [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) - Official Alpine Linux Docker image. Win at minimalism!
 - [wakatime/micro-wakatime](https://github.com/wakatime/micro-wakatime) - Micro editor plugin for automatic time tracking and metrics generated from your programming activity.
 
 ## Makefile 
@@ -600,6 +601,7 @@
 
 ## Others 
 
+- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees
 - [monitoring-mixins/docs](https://github.com/monitoring-mixins/docs) - Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Rules and Alerts.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
