@@ -529,7 +529,7 @@
 - [algenty/grafana-flowcharting](https://github.com/algenty/grafana-flowcharting) - Flowcharting, plugin for Grafana to create complexe visio's draws style like technical architectures, floorplan, diagrams, hierarchical schema based on draw.io
 - [lmenezes/cerebro](https://github.com/lmenezes/cerebro) - 
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
+- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 
 ## Jinja 
