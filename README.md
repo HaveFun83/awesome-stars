@@ -142,7 +142,7 @@
 - [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe energy related system stats and exports as Prometheus metrics
 - [23technologies/gardener-extension-shoot-flux](https://github.com/23technologies/gardener-extension-shoot-flux) - In this repository, the development of the gardener extension, which deploys the flux controllers automatically to shoot clusters, takes place.
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps core
+- [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps OSS
 - [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps
 - [flant/shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
 - [kubevirt/cloud-provider-kubevirt](https://github.com/kubevirt/cloud-provider-kubevirt) - Kubernetes cloud-provider for KubeVirt
