@@ -46,7 +46,7 @@
 - [bgp/bgpq4](https://github.com/bgp/bgpq4) - BGP Filter generator
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
 - [kubernetes-sigs/security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) - The Kubernetes Security Profiles Operator
-- [kinvolk/inspektor-gadget](https://github.com/kinvolk/inspektor-gadget) - Introspecting and debugging Kubernetes applications using eBPF "gadgets"
+- [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Introspecting and debugging Kubernetes applications using eBPF "gadgets"
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 
@@ -86,6 +86,7 @@
 
 ## Go 
 
+- [oras-project/oras](https://github.com/oras-project/oras) - Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM
 - [csullivanupgrade/opa-exporter](https://github.com/csullivanupgrade/opa-exporter) - 
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
 - [paralus/paralus](https://github.com/paralus/paralus) - All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.
@@ -497,6 +498,7 @@
 
 ## Java 
 
+- [ThomasVitale/spring-boot-ecosystem-overview](https://github.com/ThomasVitale/spring-boot-ecosystem-overview) - 
 - [ThomasVitale/cloud-native-spring-in-action](https://github.com/ThomasVitale/cloud-native-spring-in-action) - 🍃 Code samples and projects from the book "Cloud Native Spring in Action - With Spring Boot and Kubernetes" (Manning)
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [synyx/urlaubsverwaltung](https://github.com/synyx/urlaubsverwaltung) - Schluss mit Papierchaos und langweiliger Software. Wir zeigen dir, dass Urlaubsverwaltung auch Spaß machen kann.
