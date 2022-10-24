@@ -86,6 +86,7 @@
 
 ## Go 
 
+- [siderolabs/extensions](https://github.com/siderolabs/extensions) - Talos Linux System Extensions
 - [sigstore/helm-sigstore](https://github.com/sigstore/helm-sigstore) - Plugin for Helm to integrate the sigstore ecosystem
 - [kubevela/velad](https://github.com/kubevela/velad) - Lightweight KubeVela that runs as Daemon in single node with high availability.
 - [oras-project/oras](https://github.com/oras-project/oras) - Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM
@@ -834,6 +835,7 @@
 
 ## Swift 
 
+- [aheze/OpenFind](https://github.com/aheze/OpenFind) - An app to find text in real life. Now open-source!
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 
 ## TypeScript 
