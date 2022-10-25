@@ -86,6 +86,7 @@
 
 ## Go 
 
+- [synyx/tuwat](https://github.com/synyx/tuwat) - Operations Alerting Dashboard
 - [siderolabs/extensions](https://github.com/siderolabs/extensions) - Talos Linux System Extensions
 - [sigstore/helm-sigstore](https://github.com/sigstore/helm-sigstore) - Plugin for Helm to integrate the sigstore ecosystem
 - [kubevela/velad](https://github.com/kubevela/velad) - Lightweight KubeVela that runs as Daemon in single node with high availability.
