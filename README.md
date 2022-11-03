@@ -86,6 +86,8 @@
 
 ## Go 
 
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [synyx/tuwat](https://github.com/synyx/tuwat) - Operations Alerting Dashboard
 - [siderolabs/extensions](https://github.com/siderolabs/extensions) - Talos Linux System Extensions
 - [sigstore/helm-sigstore](https://github.com/sigstore/helm-sigstore) - Plugin for Helm to integrate the sigstore ecosystem
