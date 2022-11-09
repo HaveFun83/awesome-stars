@@ -87,6 +87,9 @@
 
 ## Go 
 
+- [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore OIDC PKI
+- [sigstore/rekor](https://github.com/sigstore/rekor) - Software Supply Chain Transparency Log
+- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust is an operator for distributing trust bundles across a Kubernetes cluster.
 - [upbound/upjet](https://github.com/upbound/upjet) - A code generation framework and runtime for Crossplane providers
