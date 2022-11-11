@@ -87,6 +87,7 @@
 
 ## Go 
 
+- [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl)
 - [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore OIDC PKI
 - [sigstore/rekor](https://github.com/sigstore/rekor) - Software Supply Chain Transparency Log
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -520,6 +521,7 @@
 
 ## JavaScript 
 
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
