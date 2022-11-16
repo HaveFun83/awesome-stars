@@ -708,7 +708,7 @@
 - [HenriWahl/dhcpy6d](https://github.com/HenriWahl/dhcpy6d) - MAC address aware DHCPv6 server written in Python
 - [prometheus-community/node-exporter-textfile-collector-scripts](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts) - Scripts for node-exporter's textfile collector
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [ansible/awx](https://github.com/ansible/awx) - AWX Project
+- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [PulseInnovations/prometheus-deadmansswitch](https://github.com/PulseInnovations/prometheus-deadmansswitch) - An AWS Lambda function to alert to Slack when Prometheus is offline
 - [Vista-Technology/netops-quickstart](https://github.com/Vista-Technology/netops-quickstart) - NetOps Quickstart
 - [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
