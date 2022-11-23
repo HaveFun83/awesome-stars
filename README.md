@@ -11,7 +11,6 @@
 - [CSS](#css)
 - [CUE](#cue)
 - [Dockerfile](#dockerfile)
-- [EJS](#ejs)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -90,10 +89,6 @@
 - [raspbernetes/multi-arch-images](https://github.com/raspbernetes/multi-arch-images) - Support for multi-platform architecture Docker images using buildx.
 - [bitnami/bitnami-docker-external-dns](https://github.com/bitnami/bitnami-docker-external-dns) - Bitnami Docker Image for ExternalDNS
 - [bgeesaman/sonobuoy-plugin-bulkhead](https://github.com/bgeesaman/sonobuoy-plugin-bulkhead) - 
-
-## EJS 
-
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## Go 
 
@@ -541,6 +536,7 @@
 - [eon01/django-boilerplate](https://github.com/eon01/django-boilerplate) - An opinionated Django boilerplate running Celery & Django on the same Docker container and ready to run on Docker Compose & Kubernetes.
 - [TheGoddessInari/hamsket](https://github.com/TheGoddessInari/hamsket) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
