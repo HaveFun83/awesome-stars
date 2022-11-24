@@ -518,6 +518,7 @@
 
 ## Java 
 
+- [urlaubsverwaltung/zeiterfassung](https://github.com/urlaubsverwaltung/zeiterfassung) - Du möchtest (oder musst) Arbeitszeiten in deinem Unternehmen digital erfassen und nachweisen können? 🦥
 - [ThomasVitale/kubernetes-native-java-with-spring-boot](https://github.com/ThomasVitale/kubernetes-native-java-with-spring-boot) - 
 - [ThomasVitale/spring-boot-ecosystem-overview](https://github.com/ThomasVitale/spring-boot-ecosystem-overview) - 
 - [ThomasVitale/cloud-native-spring-in-action](https://github.com/ThomasVitale/cloud-native-spring-in-action) - 🍃 Code samples and projects from the book "Cloud Native Spring in Action - With Spring Boot and Kubernetes" (Manning)
@@ -531,7 +532,6 @@
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [Ealenn/Echo-Server](https://github.com/Ealenn/Echo-Server) - REST Server Tests (Echo-Server) API / Docker / Kubernetes / Helm
 - [eon01/django-boilerplate](https://github.com/eon01/django-boilerplate) - An opinionated Django boilerplate running Celery & Django on the same Docker container and ready to run on Docker Compose & Kubernetes.
 - [TheGoddessInari/hamsket](https://github.com/TheGoddessInari/hamsket) - Free and Open Source messaging and emailing app that combines common web applications into one.
@@ -567,6 +567,7 @@
 - [imp1sh/ansible_nftwallcollection](https://github.com/imp1sh/ansible_nftwallcollection) - Official nftwall ansible collection. nftwall is a highly automated firewall solution.
 - [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This mono repo serves my home infrastructure and Kubernetes cluster which utilizes Infrastructure as Code (IaC)
 - [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s) - Ansible role for installing k3s as either a standalone server or HA cluster.
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [incubateur-pe/containerd](https://github.com/incubateur-pe/containerd) - 
 - [mcfio/GitOps](https://github.com/mcfio/GitOps) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
 - [geerlingguy/mariadb-operator](https://github.com/geerlingguy/mariadb-operator) - MariaDB operator for Kubernetes built with Ansible and the Operator SDK.
@@ -805,7 +806,6 @@
 - [nicholaswilde/ansible-role-flux](https://github.com/nicholaswilde/ansible-role-flux) - An ansible galaxy role for Flux
 - [chrisss404/check-mk-arm](https://github.com/chrisss404/check-mk-arm) - Checkmk for Raspberry Pi.
 - [k8snetworkplumbingwg/reference-deployment](https://github.com/k8snetworkplumbingwg/reference-deployment) - Resources for K8s NPWG's deployment
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
@@ -851,6 +851,7 @@
 
 ## Svelte 
 
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool
 
 ## Swift 
