@@ -71,6 +71,7 @@
 
 ## CUE 
 
+- [stefanprodan/flux-aio](https://github.com/stefanprodan/flux-aio) - Flux All-In-One experimental distribution
 - [cncf/cloudnativetv](https://github.com/cncf/cloudnativetv) - The home for CloudNative.tv the definitive interactive media experience for learning and growing in cloud native
 
 ## Dockerfile 
