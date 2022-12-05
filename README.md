@@ -779,6 +779,7 @@
 
 ## Shell 
 
+- [JJGadgets/flux2-schemas](https://github.com/JJGadgets/flux2-schemas) - FluxCD v2 CRD JSON Schemas
 - [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action) - A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [rook/kubectl-rook-ceph](https://github.com/rook/kubectl-rook-ceph) - Krew plugin to run kubectl commands with rook-ceph
