@@ -67,6 +67,7 @@
 
 ## CSS 
 
+- [dend/awesome-product-management](https://github.com/dend/awesome-product-management) - 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 - [bjw-s/dotfiles](https://github.com/bjw-s/dotfiles) - 
 
 ## CUE 
