@@ -640,6 +640,7 @@
 
 ## Others 
 
+- [koslib/awesome-containerized-security](https://github.com/koslib/awesome-containerized-security) - A collection of tools to improve your containerized apps security posture
 - [brandisher/openshift-and-gotemplates-workshop](https://github.com/brandisher/openshift-and-gotemplates-workshop) - A self-led workshop to demonstrate the power of go templates and how much fun you can have while using them with OpenShift!
 - [thequorum/hackers-in-harmony](https://github.com/thequorum/hackers-in-harmony) - This album is off the helm charts!
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
