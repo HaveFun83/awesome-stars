@@ -68,6 +68,7 @@
 ## CSS 
 
 - [dend/awesome-product-management](https://github.com/dend/awesome-product-management) - 🚀 A curated list of awesome resources for product/program managers to learn and grow.
+- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees
 - [bjw-s/dotfiles](https://github.com/bjw-s/dotfiles) - 
 
 ## CUE 
@@ -98,7 +99,7 @@
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) - An operator for running distributed k6 tests.
 - [kube-green/kube-green](https://github.com/kube-green/kube-green) - A K8s operator to reduce CO2 footprint of your clusters
-- [haystackos/haystack](https://github.com/haystackos/haystack) - Instantanous test results
+- [haystackoss/haystack](https://github.com/haystackoss/haystack) - Instantanous test results
 - [kubernetes-sigs/ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl)
 - [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore OIDC PKI
@@ -644,7 +645,6 @@
 - [brandisher/openshift-and-gotemplates-workshop](https://github.com/brandisher/openshift-and-gotemplates-workshop) - A self-led workshop to demonstrate the power of go templates and how much fun you can have while using them with OpenShift!
 - [thequorum/hackers-in-harmony](https://github.com/thequorum/hackers-in-harmony) - This album is off the helm charts!
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
-- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees
 - [monitoring-mixins/docs](https://github.com/monitoring-mixins/docs) - Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Rules and Alerts.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
