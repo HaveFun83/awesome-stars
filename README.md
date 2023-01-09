@@ -94,6 +94,7 @@
 
 ## Go 
 
+- [kubemod/kubemod](https://github.com/kubemod/kubemod) - Universal Kubernetes mutating operator
 - [minio/operator](https://github.com/minio/operator) - Simple Kubernetes Operator for MinIO clusters :computer:
 - [cavaliercoder/rpi_export](https://github.com/cavaliercoder/rpi_export) - Prometheus exporter for Raspberry Pi hardware metrics
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
