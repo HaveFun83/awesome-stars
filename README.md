@@ -42,6 +42,7 @@
 
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [LittleFox94/lf-os_amd64](https://github.com/LittleFox94/lf-os_amd64) - Hobby operating system for amd64 with high ambitions - mirror
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [solo-io/bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [bgp/bgpq4](https://github.com/bgp/bgpq4) - BGP Filter generator
@@ -89,7 +90,6 @@
 - [byrnedo/docker-fluentd-containerd](https://github.com/byrnedo/docker-fluentd-containerd) - Fluentd docker container that parses containerd log formats
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [raspbernetes/multi-arch-images](https://github.com/raspbernetes/multi-arch-images) - Support for multi-platform architecture Docker images using buildx.
-- [bitnami/bitnami-docker-external-dns](https://github.com/bitnami/bitnami-docker-external-dns) - Bitnami Docker Image for ExternalDNS
 - [bgeesaman/sonobuoy-plugin-bulkhead](https://github.com/bgeesaman/sonobuoy-plugin-bulkhead) - 
 
 ## Go 
@@ -550,7 +550,7 @@
 - [TheGoddessInari/hamsket](https://github.com/TheGoddessInari/hamsket) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts
+- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
 - [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner) - Simple Kubernetes real-time dashboard and management.
@@ -780,7 +780,6 @@
 - [rust-in-action/code](https://github.com/rust-in-action/code) - Source code for the book Rust in Action
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
 - [maheshrayas/kube-saver](https://github.com/maheshrayas/kube-saver) - Cost saving K8s controller to scale down and up of resources during non-business hours
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
