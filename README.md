@@ -531,6 +531,7 @@
 
 ## Haskell 
 
+- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
@@ -595,7 +596,7 @@
 - [fluxcd-community/flux-mixin](https://github.com/fluxcd-community/flux-mixin) - Community maintained Prometheus Monitoring Mixin for Flux
 - [openebs/monitoring](https://github.com/openebs/monitoring) - OpenEBS Monitoring add-on. A set of Grafana, Prometheus, and alert manager plugins.
 - [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - 
-- [adinhodovic/blackbox-exporter-mixin](https://github.com/adinhodovic/blackbox-exporter-mixin) - A mixin for the blackbox-exporter
+- [adinhodovic/blackbox-exporter-mixin](https://github.com/adinhodovic/blackbox-exporter-mixin) - A mixin for the blackbox-exporter. A set of Grafana dashboards and Prometheus rules for the Blackbox-exporter..
 - [observatorium/observatorium](https://github.com/observatorium/observatorium) - This repository contains the deployment configurations for the Observatorium instances
 - [thanos-io/kube-thanos](https://github.com/thanos-io/kube-thanos) - Kubernetes specific configuration for deploying Thanos.
 - [carlosedp/cluster-monitoring](https://github.com/carlosedp/cluster-monitoring) - Cluster monitoring stack for clusters based on Prometheus Operator
@@ -709,6 +710,7 @@
 
 ## Python 
 
+- [eslam-gomaa/kptop](https://github.com/eslam-gomaa/kptop) - CLI tool for Kubernetes that provides pretty monitoring for Nodes, Pods, Containers, and PVCs resources on the terminal through Prometheus metrics
 - [enix/ansible-kubeadm](https://github.com/enix/ansible-kubeadm) - Aims to manage kubeadm based cluster via ansible
 - [gefyrahq/gefyra](https://github.com/gefyrahq/gefyra) - Blazingly-fast :rocket:, rock-solid, local application development :arrow_right: with Kubernetes.
 - [Fluepke/konnektor-patch](https://github.com/Fluepke/konnektor-patch) - Saving 400 million euro of public health care money from reckless vendors
