@@ -102,7 +102,7 @@
 - [minio/operator](https://github.com/minio/operator) - Simple Kubernetes Operator for MinIO clusters :computer:
 - [cavaliercoder/rpi_export](https://github.com/cavaliercoder/rpi_export) - Prometheus exporter for Raspberry Pi hardware metrics
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image & git repository
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image & git repository (for traefik, k8s, nginx and so on)
 - [siderolabs/talos-cloud-controller-manager](https://github.com/siderolabs/talos-cloud-controller-manager) - Generic cloud controller manager for hybrid deployments using Talos OS
 - [kubernetes-sigs/kubebuilder-declarative-pattern](https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern) - A toolkit for building declarative operators with kubebuilder
 - [aquasecurity/postee](https://github.com/aquasecurity/postee) - Simple message routing system that receives input messages through a webhook interface and can enforce actions using predefined outputs via integrations.
