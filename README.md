@@ -27,6 +27,7 @@
 - [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [Python](#python)
+- [Riot](#riot)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -634,6 +635,7 @@
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 - [MoJo2600/pihole-kubernetes](https://github.com/MoJo2600/pihole-kubernetes) - PiHole on kubernetes
 - [helm/charts-repo-actions-demo](https://github.com/helm/charts-repo-actions-demo) - Example project to demo testing and hosting a chart repository with GitHub Pages and Actions
+- [fluent/helm-charts](https://github.com/fluent/helm-charts) - Helm Charts for Fluentd and Fluent Bit
 - [bootc/netbox-chart](https://github.com/bootc/netbox-chart) - A Helm chart for NetBox
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
@@ -771,6 +773,10 @@
 - [HenriWahl/Nagstamon](https://github.com/HenriWahl/Nagstamon) - Nagios status monitor for your desktop.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 
+## Riot 
+
+- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry
+
 ## Ruby 
 
 - [synyx/buchungsstreber](https://github.com/synyx/buchungsstreber) - Helper application for publishing time entries to Redmine.
@@ -871,7 +877,6 @@
 - [parca-dev/helm-charts](https://github.com/parca-dev/helm-charts) - Kubernetes Helm Charts to run Parca and Parca Agent
 - [falcosecurity/charts](https://github.com/falcosecurity/charts) - Community managed Helm charts for running Falco with Kubernetes
 - [okgolove/helm-charts](https://github.com/okgolove/helm-charts) - Helm chart repository
-- [fluent/helm-charts](https://github.com/fluent/helm-charts) - Helm Charts for Fluentd and Fluent Bit
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik v2 helm chart
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
 - [hackmdio/codimd-helm](https://github.com/hackmdio/codimd-helm) - Helm charts for CodiMD
