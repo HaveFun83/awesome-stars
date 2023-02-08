@@ -369,7 +369,7 @@
 - [anexia-it/go-anxcloud](https://github.com/anexia-it/go-anxcloud) - Go client for Anexia Engine API
 - [rhobs/kube-events-exporter](https://github.com/rhobs/kube-events-exporter) - Kubernetes events aggregator and exporter
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-- [timescale/promscale](https://github.com/timescale/promscale) - Promscale is a unified metric and trace observability backend for Prometheus, Jaeger and OpenTelemetry built on PostgreSQL and TimescaleDB.
+- [timescale/promscale](https://github.com/timescale/promscale) - [DEPRECATED] Promscale is a unified metric and trace observability backend for Prometheus, Jaeger and OpenTelemetry built on PostgreSQL and TimescaleDB.
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [FairwindsOps/gemini](https://github.com/FairwindsOps/gemini) - [alpha] Automated backups of PersistentVolumeClaims in Kubernetes using VolumeSnapshots
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
