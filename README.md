@@ -95,6 +95,7 @@
 
 ## Go 
 
+- [lwolf/kube-cleanup-operator](https://github.com/lwolf/kube-cleanup-operator) - Kubernetes Operator to automatically delete completed Jobs and their Pods
 - [sahil-lakhwani/kubectl-creyaml](https://github.com/sahil-lakhwani/kubectl-creyaml) - Custom Resource Example Yaml (CREYaml) from Custom Resource Definition
 - [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror.
 - [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
