@@ -666,7 +666,7 @@
 - [pftf/RPi4](https://github.com/pftf/RPi4) - Raspberry Pi 4 UEFI Firmware Images
 - [koslib/awesome-containerized-security](https://github.com/koslib/awesome-containerized-security) - A collection of tools to improve your containerized apps security posture
 - [brandisher/openshift-and-gotemplates-workshop](https://github.com/brandisher/openshift-and-gotemplates-workshop) - A self-led workshop to demonstrate the power of go templates and how much fun you can have while using them with OpenShift!
-- [haystackorg/haystack](https://github.com/haystackorg/haystack) - Search engine for developers | Coming soon...
+- [nabaz-io/nabaz1](https://github.com/nabaz-io/nabaz1) - Search engine for developers | Coming soon...
 - [thequorum/hackers-in-harmony](https://github.com/thequorum/hackers-in-harmony) - This album is off the helm charts!
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
