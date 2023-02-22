@@ -131,7 +131,6 @@
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [synyx/tuwat](https://github.com/synyx/tuwat) - Operations Alerting Dashboard
-- [siderolabs/extensions](https://github.com/siderolabs/extensions) - Talos Linux System Extensions
 - [sigstore/helm-sigstore](https://github.com/sigstore/helm-sigstore) - Plugin for Helm to integrate the sigstore ecosystem
 - [kubevela/velad](https://github.com/kubevela/velad) - Lightweight KubeVela that runs as Daemon in single node with high availability.
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
@@ -625,6 +624,7 @@
 
 ## Makefile 
 
+- [siderolabs/extensions](https://github.com/siderolabs/extensions) - Talos Linux System Extensions
 - [monitoring-mixins/docs](https://github.com/monitoring-mixins/docs) - Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Rules and Alerts.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ipxe/pipxe](https://github.com/ipxe/pipxe) - iPXE for the Raspberry Pi
