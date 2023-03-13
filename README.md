@@ -540,6 +540,7 @@
 ## HTML 
 
 - [ceph/ceph.io](https://github.com/ceph/ceph.io) - This repo contains static site content for www.ceph.io
+- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [mpetersen/meeting-cards](https://github.com/mpetersen/meeting-cards) - Cards for your phone to hold up when you're on a group video call
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
@@ -863,7 +864,6 @@
 - [kmova/bootstrap](https://github.com/kmova/bootstrap) - articles, examples and best practices on different languages, tools, frameworks, technologies.
 - [haproxytechblog/ingress-controller-external-example](https://github.com/haproxytechblog/ingress-controller-external-example) - An example of running the HAProxy Kubernetes Ingress Controller in external mode.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) - Helm chart to install Vault and other associated components.
 - [urpylka/docker-aptly](https://github.com/urpylka/docker-aptly) - Apt repository based on Aptly
 - [nicholaswilde/ansible-role-flux](https://github.com/nicholaswilde/ansible-role-flux) - An ansible galaxy role for Flux
