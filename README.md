@@ -156,7 +156,7 @@
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
 - [loft-sh/kiosk](https://github.com/loft-sh/kiosk) - kiosk 🏢 Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning
-- [mmontes11/mariadb-operator](https://github.com/mmontes11/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
+- [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
 - [nukleros/operator-builder](https://github.com/nukleros/operator-builder) - A Kubebuilder plugin to accelerate the development of Kubernetes operators
 - [k8spacket/k8spacket](https://github.com/k8spacket/k8spacket) - k8spacket - packets traffic visualization for kubernetes
