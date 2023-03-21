@@ -919,7 +919,7 @@
 
 ## Swift 
 
-- [aheze/OpenFind](https://github.com/aheze/OpenFind) - An app to find text in real life. Released in the public domain!
+- [aheze/OpenFind](https://github.com/aheze/OpenFind) - An app to find text in real life.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 
 ## TypeScript 
