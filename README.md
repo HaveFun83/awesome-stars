@@ -114,7 +114,7 @@
 - [sahil-lakhwani/kubectl-creyaml](https://github.com/sahil-lakhwani/kubectl-creyaml) - Custom Resource Example Yaml (CREYaml) from Custom Resource Definition
 - [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror.
 - [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [inlets/inlets-operator](https://github.com/inlets/inlets-operator) - Get public LoadBalancers on your local Kubernetes clusters
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
 - [kubernetes-sigs/usage-metrics-collector](https://github.com/kubernetes-sigs/usage-metrics-collector) - High fidelity and scalable capacity and usage metrics for Kubernetes clusters
@@ -402,7 +402,7 @@
 - [sberk42/fritzbox_exporter](https://github.com/sberk42/fritzbox_exporter) - Fritz!Box Upnp statistics exporter for prometheus
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [rancher/fleet](https://github.com/rancher/fleet) - Manage large fleets of Kubernetes clusters
 - [atomix/chaos-controller](https://github.com/atomix/chaos-controller) - Chaos controller for Kubernetes
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
