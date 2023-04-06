@@ -740,6 +740,7 @@
 
 ## Python 
 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way.
 - [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers.
