@@ -548,6 +548,7 @@
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [ceph/ceph.io](https://github.com/ceph/ceph.io) - This repo contains static site content for www.ceph.io
+- [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [mpetersen/meeting-cards](https://github.com/mpetersen/meeting-cards) - Cards for your phone to hold up when you're on a group video call
@@ -860,9 +861,8 @@
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [simplenetes-io/simplenetes](https://github.com/simplenetes-io/simplenetes) - The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods.
-- [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 - [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head) - Demo App for TAG App Delivery
-- [bjw-s/dotfiles](https://github.com/bjw-s/dotfiles) - 
+- [bjw-s/dotfiles](https://github.com/bjw-s/dotfiles) - My collection of dotfiles, powered by chezmoi
 - [lavabit/robox](https://github.com/lavabit/robox) - The tools needed to robotically create/configure/provision a large number of operating systems, for a variety of hypervisors, using packer.
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
