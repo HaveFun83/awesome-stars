@@ -101,7 +101,6 @@
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone
 - [wavyland/wavy](https://github.com/wavyland/wavy) - Wavy is a toolset for running GUI applications on Kubernetes
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically.
-- [vmware-tanzu/cloud-native-security-inspector](https://github.com/vmware-tanzu/cloud-native-security-inspector) - This project scans and assesses workloads in Kubernetes at runtime. It can apply protection rules to workloads to avoid further risks as well.
 - [virtual-kubelet/virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation.
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [digitalis-io/vals-operator](https://github.com/digitalis-io/vals-operator) - Kubernetes Operator to sync secrets between different secret backends and Kubernetes
@@ -574,6 +573,7 @@
 
 ## JavaScript 
 
+- [isItObservable/otelmetrics](https://github.com/isItObservable/otelmetrics) - 
 - [grafana/xk6-disruptor-demo](https://github.com/grafana/xk6-disruptor-demo) - A complete demo of xk6-disruptor
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
@@ -843,6 +843,7 @@
 
 ## Shell 
 
+- [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Over 300 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
 - [ricsanfre/pi-cluster](https://github.com/ricsanfre/pi-cluster) - Raspberry Pi Kubernetes Cluster. Homelab kuberentes cluster automated with Ansible and ArgoCD
 - [k3s-io/k3s-selinux](https://github.com/k3s-io/k3s-selinux) - SELinux policy for k3s
 - [stefanprodan/gitops-kyverno](https://github.com/stefanprodan/gitops-kyverno) - Kubernetes policy managed with Flux and Kyverno
@@ -933,6 +934,7 @@
 
 ## TypeScript 
 
+- [vmware-tanzu/cloud-native-security-inspector](https://github.com/vmware-tanzu/cloud-native-security-inspector) - This project scans and assesses workloads in Kubernetes at runtime. It can apply protection rules to workloads to avoid further risks as well.
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [minio/operator](https://github.com/minio/operator) - Simple Kubernetes Operator for MinIO clusters :computer:
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
