@@ -98,6 +98,7 @@
 
 ## Go 
 
+- [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes clusters
 - [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [skydive-project/skydive](https://github.com/skydive-project/skydive) - An open source real-time network topology and protocols analyzer
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone
@@ -575,6 +576,7 @@
 
 ## JavaScript 
 
+- [mdgreenwald/mozilla-sops-action](https://github.com/mdgreenwald/mozilla-sops-action) - GitHub Action for installing Sops
 - [isItObservable/otelmetrics](https://github.com/isItObservable/otelmetrics) - 
 - [grafana/xk6-disruptor-demo](https://github.com/grafana/xk6-disruptor-demo) - A complete demo of xk6-disruptor
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
@@ -744,6 +746,7 @@
 
 ## Python 
 
+- [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way.
