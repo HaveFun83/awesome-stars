@@ -749,6 +749,7 @@
 
 ## Python 
 
+- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
@@ -920,6 +921,7 @@
 
 ## Smarty 
 
+- [vfarcic/devops-toolkit-crossplane](https://github.com/vfarcic/devops-toolkit-crossplane) - 
 - [sighupio/fury-distribution](https://github.com/sighupio/fury-distribution) - Kubernetes Fury Distribution (Core Modules) - A battle-tested open-source Kubernetes distribution
 - [parca-dev/helm-charts](https://github.com/parca-dev/helm-charts) - Kubernetes Helm Charts to run Parca and Parca Agent
 - [falcosecurity/charts](https://github.com/falcosecurity/charts) - Community managed Helm charts for running Falco with Kubernetes
