@@ -107,6 +107,7 @@
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone
 - [wavyland/wavy](https://github.com/wavyland/wavy) - Wavy is a toolset for running GUI applications on Kubernetes
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically.
+- [vmware-tanzu/cloud-native-security-inspector](https://github.com/vmware-tanzu/cloud-native-security-inspector) - This project scans and assesses workloads in Kubernetes at runtime. It can apply protection rules to workloads to avoid further risks as well.
 - [virtual-kubelet/virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation.
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [digitalis-io/vals-operator](https://github.com/digitalis-io/vals-operator) - Kubernetes Operator to sync secrets between different secret backends and Kubernetes
@@ -854,7 +855,7 @@
 
 ## Shell 
 
-- [Euvaz/GitOps-Home](https://github.com/Euvaz/GitOps-Home) - 
+- [Euvaz/GitOps-Home](https://github.com/Euvaz/GitOps-Home) - Self-hosted K8s cluster backed by Talos Linux, Flux and SOPS.
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Over 300 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
 - [ricsanfre/pi-cluster](https://github.com/ricsanfre/pi-cluster) - Raspberry Pi Kubernetes Cluster. Homelab kuberentes cluster automated with Ansible and ArgoCD
 - [k3s-io/k3s-selinux](https://github.com/k3s-io/k3s-selinux) - SELinux policy for k3s
@@ -948,7 +949,6 @@
 ## TypeScript 
 
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
-- [vmware-tanzu/cloud-native-security-inspector](https://github.com/vmware-tanzu/cloud-native-security-inspector) - This project scans and assesses workloads in Kubernetes at runtime. It can apply protection rules to workloads to avoid further risks as well.
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [minio/operator](https://github.com/minio/operator) - Simple Kubernetes Operator for MinIO clusters :computer:
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
