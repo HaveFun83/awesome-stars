@@ -106,7 +106,7 @@
 - [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes clusters
 - [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [skydive-project/skydive](https://github.com/skydive-project/skydive) - An open source real-time network topology and protocols analyzer
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [wavyland/wavy](https://github.com/wavyland/wavy) - Wavy is a toolset for running GUI applications on Kubernetes
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically.
 - [vmware-tanzu/cloud-native-security-inspector](https://github.com/vmware-tanzu/cloud-native-security-inspector) - This project scans and assesses workloads in Kubernetes at runtime. It can apply protection rules to workloads to avoid further risks as well.
