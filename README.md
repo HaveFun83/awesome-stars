@@ -858,6 +858,7 @@
 
 ## Shell 
 
+- [cbc02009/k8s-home-ops](https://github.com/cbc02009/k8s-home-ops) - 
 - [Euvaz/GitOps-Home](https://github.com/Euvaz/GitOps-Home) - Self-hosted K8s cluster backed by Talos Linux, Flux and SOPS.
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Over 300 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
 - [ricsanfre/pi-cluster](https://github.com/ricsanfre/pi-cluster) - Raspberry Pi Kubernetes Cluster. Homelab kuberentes cluster automated with Ansible and ArgoCD
