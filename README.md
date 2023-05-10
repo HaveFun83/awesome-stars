@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [sylwit/terraform-cleaner](https://github.com/sylwit/terraform-cleaner) - Tiny utility which detects unused variables in your terraform modules
 - [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin) - A Kubernetes device plugin to schedule generic Linux devices
 - [cyberark/kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet
@@ -359,7 +360,7 @@
 - [ctrox/csi-s3](https://github.com/ctrox/csi-s3) - A Container Storage Interface for S3
 - [markbates/pkger](https://github.com/markbates/pkger) - Embed static files in Go binaries (replacement for gobuffalo/packr)
 - [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Moved to https://github.com/aquasecurity/trivy-operator
-- [JESWINKNINAN/kube-anchor](https://github.com/JESWINKNINAN/kube-anchor) - Kube-Anchor is a Kubernetes Admission Controller of type ValidatingWebhook to protect Kubernetes Cluster from accidental resource modifications during a production freeze window.
+- [jeswinkninan/kube-anchor](https://github.com/jeswinkninan/kube-anchor) - Kube-Anchor is a Kubernetes Admission Controller of type ValidatingWebhook to protect Kubernetes Cluster from accidental resource modifications during a production freeze window.
 - [jet/kube-webhook-certgen](https://github.com/jet/kube-webhook-certgen) - Tools to help with self signed cert generation for Kubernetes test environment
 - [kevinjqiu/promcli](https://github.com/kevinjqiu/promcli) - A shell for loading Prometheus metrics fixtures and evaluating Prometheus expressions
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
