@@ -99,6 +99,8 @@
 
 ## Go 
 
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
+- [sparkymat/archmark](https://github.com/sparkymat/archmark) - archmark is a bookmark manager that archives bookmarks
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [sylwit/terraform-cleaner](https://github.com/sylwit/terraform-cleaner) - Tiny utility which detects unused variables in your terraform modules
 - [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin) - A Kubernetes device plugin to schedule generic Linux devices
@@ -838,6 +840,7 @@
 
 ## Rust 
 
+- [QuarkContainer/Quark](https://github.com/QuarkContainer/Quark) - A secure container runtime with CRI/OCI interface
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
