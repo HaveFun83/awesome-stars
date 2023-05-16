@@ -546,7 +546,7 @@
 ## HCL 
 
 - [cbc02009/k8s-home-ops](https://github.com/cbc02009/k8s-home-ops) - 
-- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇫🇷🇩🇪🇮🇩🇮🇹🇧🇷🇵🇱🇺🇦🇪🇸🇮🇱🇷🇴🇹🇷
+- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇫🇷🇩🇪🇮🇩🇮🇹🇧🇷🇵🇱🇺🇦🇪🇸🇮🇱🇷🇴🇹🇷🇨🇳🇦🇪
 - [xUnholy/k8s-gitops](https://github.com/xUnholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [mcfio/home-cluster](https://github.com/mcfio/home-cluster) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
 - [jr0dd/prometheus-rules](https://github.com/jr0dd/prometheus-rules) - collection of rules
@@ -590,7 +590,6 @@
 
 - [mdgreenwald/mozilla-sops-action](https://github.com/mdgreenwald/mozilla-sops-action) - GitHub Action for installing Sops
 - [isItObservable/otelmetrics](https://github.com/isItObservable/otelmetrics) - 
-- [grafana/xk6-disruptor-demo](https://github.com/grafana/xk6-disruptor-demo) - A complete demo of xk6-disruptor
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
@@ -870,6 +869,7 @@
 - [ricsanfre/pi-cluster](https://github.com/ricsanfre/pi-cluster) - Raspberry Pi Kubernetes Cluster. Homelab kuberentes cluster automated with Ansible and ArgoCD
 - [k3s-io/k3s-selinux](https://github.com/k3s-io/k3s-selinux) - SELinux policy for k3s
 - [stefanprodan/gitops-kyverno](https://github.com/stefanprodan/gitops-kyverno) - Kubernetes policy managed with Flux and Kyverno
+- [grafana/xk6-disruptor-demo](https://github.com/grafana/xk6-disruptor-demo) - A complete demo of xk6-disruptor
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [raspberrypi/rpi-eeprom](https://github.com/raspberrypi/rpi-eeprom) - Installation scripts and binaries for the closed sourced Raspberry Pi 4 EEPROMs
 - [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
