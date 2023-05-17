@@ -417,7 +417,7 @@
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-- [rancher/fleet](https://github.com/rancher/fleet) - Manage large fleets of Kubernetes clusters
+- [rancher/fleet](https://github.com/rancher/fleet) - Deploy workloads from Git to large fleets of Kubernetes clusters
 - [atomix/chaos-controller](https://github.com/atomix/chaos-controller) - Chaos controller for Kubernetes
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 - [clastix/capsule](https://github.com/clastix/capsule) - Multi-tenancy and policy-based framework for Kubernetes.
@@ -658,7 +658,6 @@
 
 ## Makefile 
 
-- [open-telemetry/semantic-conventions](https://github.com/open-telemetry/semantic-conventions) - Defines standards for generating consistent, accessible telemetry across a variety of domains
 - [siderolabs/extensions](https://github.com/siderolabs/extensions) - Talos Linux System Extensions
 - [monitoring-mixins/docs](https://github.com/monitoring-mixins/docs) - Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Rules and Alerts.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -761,7 +760,7 @@
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
-- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [keephq/keep](https://github.com/keephq/keep) - Open source alerting management for software developers.
 - [allenporter/flux-local](https://github.com/allenporter/flux-local) - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.
@@ -863,6 +862,7 @@
 
 ## Shell 
 
+- [open-telemetry/semantic-conventions](https://github.com/open-telemetry/semantic-conventions) - Defines standards for generating consistent, accessible telemetry across a variety of domains
 - [dokc/operator-feature-matrix](https://github.com/dokc/operator-feature-matrix) - Opearator Feature Matrix - Features specification for Kubernetes data operators
 - [Euvaz/GitOps-Home](https://github.com/Euvaz/GitOps-Home) - Self-hosted K8s cluster backed by Talos Linux, Flux and SOPS.
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Over 300 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
