@@ -546,7 +546,7 @@
 ## HCL 
 
 - [cbc02009/k8s-home-ops](https://github.com/cbc02009/k8s-home-ops) - 
-- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇫🇷🇩🇪🇮🇩🇮🇹🇧🇷🇵🇱🇺🇦🇪🇸🇮🇱🇷🇴🇹🇷🇨🇳🇦🇪
+- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇫🇷🇩🇪🇮🇩🇮🇹🇧🇷🇵🇱🇺🇦🇪🇸🇮🇱🇷🇴🇹🇷🇨🇳🇦🇪🇧🇦🇬🇪🇬🇷🇮🇳
 - [xUnholy/k8s-gitops](https://github.com/xUnholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [mcfio/home-cluster](https://github.com/mcfio/home-cluster) - ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth."
 - [jr0dd/prometheus-rules](https://github.com/jr0dd/prometheus-rules) - collection of rules
