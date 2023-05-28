@@ -101,6 +101,8 @@
 
 ## Go 
 
+- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
+- [bmc-toolbox/dora](https://github.com/bmc-toolbox/dora) - Tool to discover, collect data from multiple types of Servers and Chassis BMCs
 - [polarsignals/gh-actions-ps-profiling](https://github.com/polarsignals/gh-actions-ps-profiling) - GitHub Action for Continuous Profiling which you can run to profile your CI/CD. It uses parca and Polar Signals cloud.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
 - [sparkymat/archmark](https://github.com/sparkymat/archmark) - archmark is a bookmark manager that archives bookmarks
