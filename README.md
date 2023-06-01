@@ -820,7 +820,7 @@
 - [sysdiglabs/promcat-resources](https://github.com/sysdiglabs/promcat-resources) - 
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [furlongm/patchman](https://github.com/furlongm/patchman) - Patchman is a Linux Patch Status Monitoring System
-- [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses
+- [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses.
 - [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [inovex/illuminatio](https://github.com/inovex/illuminatio) - The kubernetes network policy validator.
 - [richstokes/cheekymonkey](https://github.com/richstokes/cheekymonkey) - 🐵 Literally a Chaos Monkey for your Kubernetes clusters
