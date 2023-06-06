@@ -101,6 +101,8 @@
 
 ## Go 
 
+- [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting
+- [weaveworks/policy-agent](https://github.com/weaveworks/policy-agent) - Weaveworks Policy Agent
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
 - [bmc-toolbox/dora](https://github.com/bmc-toolbox/dora) - Tool to discover, collect data from multiple types of Servers and Chassis BMCs
@@ -766,6 +768,7 @@
 
 ## Python 
 
+- [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner's guide to eBPF
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
