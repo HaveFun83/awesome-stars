@@ -101,6 +101,7 @@
 
 ## Go 
 
+- [kvdi/kvdi](https://github.com/kvdi/kvdi) - A Kubernetes-native Virtual Desktop Infrastructure
 - [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting
 - [weaveworks/policy-agent](https://github.com/weaveworks/policy-agent) - Weaveworks Policy Agent
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
