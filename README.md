@@ -853,7 +853,7 @@
 
 ## Rust 
 
-- [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers in when command output stops
+- [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [QuarkContainer/Quark](https://github.com/QuarkContainer/Quark) - A secure container runtime with CRI/OCI interface
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
