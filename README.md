@@ -88,7 +88,6 @@
 ## Dockerfile 
 
 - [cloudnative-pg/postgres-containers](https://github.com/cloudnative-pg/postgres-containers) - Operand images for CloudNativePG containing all community supported version PostgreSQL
-- [bjw-s/container-images](https://github.com/bjw-s/container-images) - Kubernetes tailored container images for various applications
 - [httptoolkit/docker-registry-facade](https://github.com/httptoolkit/docker-registry-facade) - A tiny self-hostable Docker Registry facade - own your image URL without running your own registry
 - [geerlingguy/pi-router](https://github.com/geerlingguy/pi-router) - Raspberry Pi-based OpenWRT router config for 4G/5G Waveshare Dual Ethernet board.
 - [lightrun-platform/koolkits](https://github.com/lightrun-platform/koolkits) - 🧰 Opinionated, language-specific, batteries-included debug container images for Kubernetes.
@@ -694,7 +693,6 @@
 - [fluent/helm-charts](https://github.com/fluent/helm-charts) - Helm Charts for Fluentd and Fluent Bit
 - [bootc/netbox-chart](https://github.com/bootc/netbox-chart) - A Helm chart for NetBox
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [jertel/elastalert-docker](https://github.com/jertel/elastalert-docker) - Simple Dockerfile for building a Kubernetes and Elastalert Helm compatible Docker image.
 - [netdata/helmchart](https://github.com/netdata/helmchart) - Helm chart for kubernetes deployments
@@ -760,7 +758,6 @@
 - [Addyvan/valheim-k8s](https://github.com/Addyvan/valheim-k8s) - valheim game-server on kubernetes
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [kinvolk/manifest](https://github.com/kinvolk/manifest) - The build manifest for Flatcar releases
-- [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - ⚠️ Deprecated: Awesome projects involving running Kubernetes at home
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [eon01/kubectl-SheetCheat](https://github.com/eon01/kubectl-SheetCheat) - The Definitive Kubectl Sheetcheat. ⭐ Give it a star if you like it. Work (always) in progress !
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters
@@ -781,6 +778,7 @@
 
 - [Olen/homeassistant-plant](https://github.com/Olen/homeassistant-plant) - Alternative Plant component of home assistant
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner's guide to eBPF
+- [bjw-s/container-images](https://github.com/bjw-s/container-images) - Kubernetes tailored container images for various applications
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
@@ -824,7 +822,6 @@
 - [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
 - [alexellis/growlab](https://github.com/alexellis/growlab) - A global contest to grow and monitor your own food with Raspberry Pi
 - [chaostoolkit/chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - Chaos Engineering Toolkit & Orchestration for Developers
-- [k8s-at-home/renovate-helm-releases](https://github.com/k8s-at-home/renovate-helm-releases) - Creates Renovate annotations in Flux2 Helm Releases
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
@@ -966,6 +963,7 @@
 - [okgolove/helm-charts](https://github.com/okgolove/helm-charts) - Helm chart repository
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik v2 helm chart
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [hackmdio/codimd-helm](https://github.com/hackmdio/codimd-helm) - Helm charts for CodiMD
 - [komljen/helm-charts](https://github.com/komljen/helm-charts) - Helm charts - Apps for Kubernetes
 - [clockworksoul/helm-elasticsearch](https://github.com/clockworksoul/helm-elasticsearch) - An Elasticsearch cluster on top of Kubernetes, made easier, with Helm.
