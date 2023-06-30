@@ -103,6 +103,7 @@
 
 ## Go 
 
+- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger
 - [anywherelan/awl](https://github.com/anywherelan/awl) - Securely connect your devices into a private network
 - [kvdi/kvdi](https://github.com/kvdi/kvdi) - A Kubernetes-native Virtual Desktop Infrastructure
 - [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting
@@ -318,7 +319,7 @@
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
 - [catalogicsoftware/kubedr](https://github.com/catalogicsoftware/kubedr) - An open source, disaster-recovery, Kubernetes project that backs up, and restores, etcd cluster data.
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [mxschmitt/fritzbox_exporter](https://github.com/mxschmitt/fritzbox_exporter) - Prometheus Exporter for FRITZ!Box (TR64 and UPnP)
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
@@ -575,7 +576,6 @@
 - [ceph/ceph.io](https://github.com/ceph/ceph.io) - This repo contains static site content for www.ceph.io
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
-- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [mpetersen/meeting-cards](https://github.com/mpetersen/meeting-cards) - Cards for your phone to hold up when you're on a group video call
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
@@ -1011,6 +1011,7 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [artifacthub/hub](https://github.com/artifacthub/hub) - Find, install and publish Kubernetes packages
 - [fluxcd/webui](https://github.com/fluxcd/webui) - 
+- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [aws-samples/aws-cdk-for-k3scluster](https://github.com/aws-samples/aws-cdk-for-k3scluster) - 
