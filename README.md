@@ -43,6 +43,7 @@
 
 ## C 
 
+- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [rauc/rauc](https://github.com/rauc/rauc) - Safe and secure software updates for embedded Linux
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
@@ -103,8 +104,9 @@
 
 ## Go 
 
+- [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
+- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [raffis/gitops-zombies](https://github.com/raffis/gitops-zombies) - Identify kubernetes resources which are not managed by GitOps
-- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger
 - [anywherelan/awl](https://github.com/anywherelan/awl) - Securely connect your devices into a private network
 - [kvdi/kvdi](https://github.com/kvdi/kvdi) - A Kubernetes-native Virtual Desktop Infrastructure
 - [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting
@@ -673,6 +675,7 @@
 
 ## Makefile 
 
+- [polarsignals/bpftool-container](https://github.com/polarsignals/bpftool-container) - Fedora based container with bpftool installed for troubleshooting.
 - [siderolabs/extensions](https://github.com/siderolabs/extensions) - Talos Linux System Extensions
 - [monitoring-mixins/docs](https://github.com/monitoring-mixins/docs) - Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Rules and Alerts.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
