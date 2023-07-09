@@ -104,6 +104,7 @@
 
 ## Go 
 
+- [DoodleScheduling/flux-build](https://github.com/DoodleScheduling/flux-build) - Build and test kustomize overlays with flux2 HelmRelease support
 - [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [raffis/gitops-zombies](https://github.com/raffis/gitops-zombies) - Identify kubernetes resources which are not managed by GitOps
