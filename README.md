@@ -104,6 +104,7 @@
 
 ## Go 
 
+- [GoogleCloudPlatform/prometheus-engine](https://github.com/GoogleCloudPlatform/prometheus-engine) - Google Cloud Managed Service for Prometheus libraries and manifests.
 - [DoodleScheduling/flux-build](https://github.com/DoodleScheduling/flux-build) - Build and test kustomize overlays with flux2 HelmRelease support
 - [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
