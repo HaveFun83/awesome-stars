@@ -106,7 +106,6 @@
 - [byrnedo/docker-fluentd-containerd](https://github.com/byrnedo/docker-fluentd-containerd) - Fluentd docker container that parses containerd log formats
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [raspbernetes/multi-arch-images](https://github.com/raspbernetes/multi-arch-images) - Support for multi-platform architecture Docker images using buildx.
-- [bgeesaman/sonobuoy-plugin-bulkhead](https://github.com/bgeesaman/sonobuoy-plugin-bulkhead) - 
 
 ## Go 
 
