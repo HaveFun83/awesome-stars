@@ -108,6 +108,7 @@
 
 ## Go 
 
+- [joyrex2001/kubedock](https://github.com/joyrex2001/kubedock) - Kubedock is a minimal implementation of the docker api that will orchestrate containers on a Kubernetes cluster, rather than running containers locally.
 - [cert-manager/csi-driver-spiffe](https://github.com/cert-manager/csi-driver-spiffe) - A Kubernetes CSI plugin to automatically mount SPIFFE certificates to Pods using ephemeral volumes
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [containerd/nydus-snapshotter](https://github.com/containerd/nydus-snapshotter) - A containerd snapshotter with data deduplication and lazy loading in P2P fashion
@@ -931,7 +932,7 @@
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [simplenetes-io/simplenetes](https://github.com/simplenetes-io/simplenetes) - The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods.
 - [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head) - Demo App for TAG App Delivery
-- [charlie-haley/home-infra](https://github.com/charlie-haley/home-infra) - My personal k8s cluster built with Sidero and managed by Flux2 GitOps
+- [charlie-haley/home-infra](https://github.com/charlie-haley/home-infra) - A monorepo for managing my home infrastructure using GitOps.
 - [bjw-s/dotfiles](https://github.com/bjw-s/dotfiles) - My collection of dotfiles, powered by chezmoi
 - [lavabit/robox](https://github.com/lavabit/robox) - The tools needed to robotically create/configure/provision a large number of operating systems, for a variety of hypervisors, using packer.
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
