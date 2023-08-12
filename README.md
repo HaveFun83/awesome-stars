@@ -415,7 +415,7 @@
 - [observatorium/thanos-receive-controller](https://github.com/observatorium/thanos-receive-controller) - Kubernetes controller to automatically configure Thanos receive hashrings
 - [fluxcd/terraform-provider-flux](https://github.com/fluxcd/terraform-provider-flux) - Terraform provider for bootstrapping Flux
 - [fluxcd/image-automation-controller](https://github.com/fluxcd/image-automation-controller) - GitOps Toolkit controller that patches container image tags in Git
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily.
 - [RichiH/modbus_exporter](https://github.com/RichiH/modbus_exporter) - Exporter which retrieves stats from a modbus system and exports them via HTTP for Prometheus consumption.
@@ -924,7 +924,7 @@
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [raspberrypi/rpi-eeprom](https://github.com/raspberrypi/rpi-eeprom) - Installation scripts and binaries for the closed sourced Raspberry Pi 4 EEPROMs
 - [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
-- [JJGadgets/flux2-schemas](https://github.com/JJGadgets/flux2-schemas) - FluxCD v2 CRD JSON Schemas
+- [fluxcd-community/flux2-schemas](https://github.com/fluxcd-community/flux2-schemas) - Individual JSON Schemas for Flux CRDs
 - [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action) - A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [sighupio/fury-kubernetes-opa](https://github.com/sighupio/fury-kubernetes-opa) - Kubernetes Fury Distribution OPA Core Module: Policy enforcement for your Kubernetes Cluster
@@ -1010,6 +1010,7 @@
 
 ## TypeScript 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) - Observability & Troubleshooting for Kubernetes Services
