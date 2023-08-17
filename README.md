@@ -107,6 +107,7 @@
 
 ## Go 
 
+- [undistro/zora](https://github.com/undistro/zora) - Zora is a multi-cluster scan that helps you identify potential issues and vulnerabilities in your Kubernetes clusters.
 - [clusterpedia-io/clusterpedia](https://github.com/clusterpedia-io/clusterpedia) - The Encyclopedia of Kubernetes clusters
 - [opendatahub-io/opendatahub-operator](https://github.com/opendatahub-io/opendatahub-operator) - Open Data Hub operator implementation, based on Kubeflow Operator
 - [joyrex2001/kubedock](https://github.com/joyrex2001/kubedock) - Kubedock is a minimal implementation of the docker api that will orchestrate containers on a Kubernetes cluster, rather than running containers locally.
@@ -591,6 +592,7 @@
 
 ## HTML 
 
+- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [prometheus-operator/runbooks](https://github.com/prometheus-operator/runbooks) - 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [ceph/ceph.io](https://github.com/ceph/ceph.io) - This repo contains static site content for www.ceph.io
