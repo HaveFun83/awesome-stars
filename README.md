@@ -107,6 +107,7 @@
 
 ## Go 
 
+- [container-registry/helm-charts-oci-proxy](https://github.com/container-registry/helm-charts-oci-proxy) - The Helm Charts OCI Proxy, will proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as OCI image.
 - [undistro/zora](https://github.com/undistro/zora) - Zora is a multi-cluster scan that helps you identify potential issues and vulnerabilities in your Kubernetes clusters.
 - [clusterpedia-io/clusterpedia](https://github.com/clusterpedia-io/clusterpedia) - The Encyclopedia of Kubernetes clusters
 - [opendatahub-io/opendatahub-operator](https://github.com/opendatahub-io/opendatahub-operator) - Open Data Hub operator implementation, based on Kubeflow Operator
