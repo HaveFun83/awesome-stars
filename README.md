@@ -108,6 +108,7 @@
 
 ## Go 
 
+- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [container-registry/helm-charts-oci-proxy](https://github.com/container-registry/helm-charts-oci-proxy) - The Helm Charts OCI Proxy, will proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as OCI image.
@@ -626,6 +627,7 @@
 
 ## JavaScript 
 
+- [nimbushq/otel-validator](https://github.com/nimbushq/otel-validator) - 
 - [mdgreenwald/mozilla-sops-action](https://github.com/mdgreenwald/mozilla-sops-action) - GitHub Action for installing Sops
 - [isItObservable/otelmetrics](https://github.com/isItObservable/otelmetrics) - 
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
