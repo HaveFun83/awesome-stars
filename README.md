@@ -109,6 +109,8 @@
 
 ## Go 
 
+- [goharbor/chartmuseum-migration-tools](https://github.com/goharbor/chartmuseum-migration-tools) - 
+- [bitpoke/wordpress-operator](https://github.com/bitpoke/wordpress-operator) - Bitpoke Kubernetes operator for WordPress
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
