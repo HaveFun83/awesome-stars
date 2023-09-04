@@ -816,6 +816,7 @@
 
 ## Python 
 
+- [simonpasquier/prometheus_workshop](https://github.com/simonpasquier/prometheus_workshop) - Documentation and materials for running a Prometheus and AlertManager workshop
 - [Olen/homeassistant-plant](https://github.com/Olen/homeassistant-plant) - Alternative Plant component of home assistant
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner's guide to eBPF
 - [bjw-s/container-images](https://github.com/bjw-s/container-images) - Kubernetes tailored container images for various applications
