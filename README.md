@@ -632,8 +632,8 @@
 
 ## JavaScript 
 
+- [synyx/pandoc-web](https://github.com/synyx/pandoc-web) - Simple web interface to use convert markdown to textile via pandoc
 - [synyx/tales](https://github.com/synyx/tales) - synyx presentation style for everyone
-- [nimbushq/otel-validator](https://github.com/nimbushq/otel-validator) - 
 - [mdgreenwald/mozilla-sops-action](https://github.com/mdgreenwald/mozilla-sops-action) - GitHub Action for installing Sops
 - [isItObservable/otelmetrics](https://github.com/isItObservable/otelmetrics) - 
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
@@ -1032,6 +1032,8 @@
 
 ## TypeScript 
 
+- [weaveworks/weaveworks-backstage](https://github.com/weaveworks/weaveworks-backstage) - Backstage app and Plugins for WeaveWorks and Flux.
+- [nimbushq/otel-validator](https://github.com/nimbushq/otel-validator) - 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
