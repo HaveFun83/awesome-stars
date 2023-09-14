@@ -69,7 +69,7 @@
 
 ## C++ 
 
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [Yerbert/DingoQuadruped](https://github.com/Yerbert/DingoQuadruped) - Base code for the Dingo quadruped; modified from Stanford Pupper and Notspot repositories. Includes integration with ROS Noetic and a simulation of the Dingo
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [goodtft/LCD-show](https://github.com/goodtft/LCD-show) - 2.4" 2.8"3.2" 3.5" 5.0" 7.0" TFT LCD driver for the Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
@@ -372,6 +372,7 @@
 - [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller) - Manage admission policies in your Kubernetes cluster with ease
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [ricoberger/vault-secrets-operator](https://github.com/ricoberger/vault-secrets-operator) - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
+- [observatorium/observatorium](https://github.com/observatorium/observatorium) - This repository contains the deployment configurations for the Observatorium instances
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
 - [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
@@ -686,7 +687,6 @@
 - [openebs/monitoring](https://github.com/openebs/monitoring) - OpenEBS Monitoring add-on. A set of Grafana, Prometheus, and alert manager plugins.
 - [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - 
 - [adinhodovic/blackbox-exporter-mixin](https://github.com/adinhodovic/blackbox-exporter-mixin) - A mixin for the blackbox-exporter. A set of Grafana dashboards and Prometheus rules for the Blackbox-exporter..
-- [observatorium/observatorium](https://github.com/observatorium/observatorium) - This repository contains the deployment configurations for the Observatorium instances
 - [thanos-io/kube-thanos](https://github.com/thanos-io/kube-thanos) - Kubernetes specific configuration for deploying Thanos.
 - [carlosedp/cluster-monitoring](https://github.com/carlosedp/cluster-monitoring) - Cluster monitoring stack for clusters based on Prometheus Operator
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
