@@ -138,7 +138,7 @@
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [raffis/gitops-zombies](https://github.com/raffis/gitops-zombies) - Identify kubernetes resources which are not managed by GitOps
 - [anywherelan/awl](https://github.com/anywherelan/awl) - Securely connect your devices into a private network
-- [kvdi/kvdi](https://github.com/kvdi/kvdi) - A Kubernetes-native Virtual Desktop Infrastructure
+- [webmeshproj/webmesh-vdi](https://github.com/webmeshproj/webmesh-vdi) - A Kubernetes-native Virtual Desktop Infrastructure
 - [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting
 - [weaveworks/policy-agent](https://github.com/weaveworks/policy-agent) - Weaveworks Policy Agent
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
@@ -181,6 +181,7 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [grafana/unused](https://github.com/grafana/unused) - CLI tool, Prometheus exporter, and Go module to list your unused disks in all cloud providers
 - [kubemod/kubemod](https://github.com/kubemod/kubemod) - Universal Kubernetes mutating operator
+- [minio/operator](https://github.com/minio/operator) - Simple Kubernetes Operator for MinIO clusters :computer:
 - [cavaliercoder/rpi_export](https://github.com/cavaliercoder/rpi_export) - Prometheus exporter for Raspberry Pi hardware metrics
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image & git repository (for traefik, k8s, nginx and so on)
@@ -1046,7 +1047,6 @@
 - [sparkymat/archmark](https://github.com/sparkymat/archmark) - archmark is a bookmark manager that archives bookmarks
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
-- [minio/operator](https://github.com/minio/operator) - Simple Kubernetes Operator for MinIO clusters :computer:
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [prometheus/promlens](https://github.com/prometheus/promlens) - PromLens – The query builder, analyzer, and explainer for PromQL
