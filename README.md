@@ -1015,7 +1015,7 @@
 - [parca-dev/helm-charts](https://github.com/parca-dev/helm-charts) - Kubernetes Helm Charts to run Parca and Parca Agent
 - [falcosecurity/charts](https://github.com/falcosecurity/charts) - Community managed Helm charts for running Falco with Kubernetes
 - [okgolove/helm-charts](https://github.com/okgolove/helm-charts) - Helm chart repository
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik v2 helm chart
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [hackmdio/codimd-helm](https://github.com/hackmdio/codimd-helm) - Helm charts for CodiMD
@@ -1067,7 +1067,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
 - [danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster) - Dan's Homelab Kubernetes Cluster - Operated through Kustomize & ArgoCD
-- [perses/perses](https://github.com/perses/perses) - 
+- [perses/perses](https://github.com/perses/perses) - The CNCF candidate for observability visualisation already supporting Prometheus. And more are coming
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
