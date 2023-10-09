@@ -997,7 +997,7 @@
 - [kubermatic-labs/kubeone-remote](https://github.com/kubermatic-labs/kubeone-remote) - Run KubeOne remotely in a tmux session
 - [stefanprodan/hrval-action](https://github.com/stefanprodan/hrval-action) - Flux Helm Release validation GitHub action
 - [rgl/tinkerbell-vagrant](https://github.com/rgl/tinkerbell-vagrant) - Vagrant Environment for playing with Tinkerbell for provisioning AMD64 and ARM64 machines
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [fluxcd/fluxctl-action](https://github.com/fluxcd/fluxctl-action) - A GitHub Action to run fluxctl commands
 - [azlux/log2ram](https://github.com/azlux/log2ram) - ramlog like for systemd (Put log into a ram folder)
