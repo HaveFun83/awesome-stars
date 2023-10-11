@@ -201,7 +201,7 @@
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [upbound/upjet](https://github.com/upbound/upjet) - A code generation framework and runtime for Crossplane providers
+- [crossplane/upjet](https://github.com/crossplane/upjet) - A code generation framework and runtime for Crossplane providers
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [synyx/tuwat](https://github.com/synyx/tuwat) - Operations Alerting Dashboard
