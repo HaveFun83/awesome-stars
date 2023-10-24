@@ -509,7 +509,7 @@
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 - [rancher/system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) - In your Kubernetes, upgrading your nodes
 - [kubereboot/kured](https://github.com/kubereboot/kured) - Kubernetes Reboot Daemon
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [stefanprodan/kjob](https://github.com/stefanprodan/kjob) - Kubernetes job runner
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
@@ -748,7 +748,7 @@
 
 - [utilitywarehouse/gatekeeper-template-manifests](https://github.com/utilitywarehouse/gatekeeper-template-manifests) - Kustomize base manifests for OPA gatekeeper templates
 - [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
-- [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library) - The OPA Gatekeeper policy library.
+- [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library) - 📚 The OPA Gatekeeper policy library
 - [raspbernetes/k8s-security-policies](https://github.com/raspbernetes/k8s-security-policies) - This repository offers a comprehensive library of security policies designed to enhance the security of Kubernetes cluster configurations. The policies are developed in accordance with the CIS Kuberne
 - [swade1987/kubernetes-toolkit](https://github.com/swade1987/kubernetes-toolkit) - A docker container containing useful kubernetes tooling
 - [swade1987/deprek8ion](https://github.com/swade1987/deprek8ion) - Rego policies to monitor Kubernetes APIs deprecations.
@@ -791,7 +791,6 @@
 - [StyraInc/awesome-opa](https://github.com/StyraInc/awesome-opa) - A curated list of OPA related tools, frameworks and articles
 - [coredashio/community](https://github.com/coredashio/community) - 🌐 CoreDash Community
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
-- [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group
 - [kevincoakley/ansible-role-k8s-rolling-update](https://github.com/kevincoakley/ansible-role-k8s-rolling-update) - 
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -973,6 +972,7 @@
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [PacHub/pachub](https://github.com/PacHub/pachub) - Pacman Github Contributions
 - [stefanprodan/kube-tools](https://github.com/stefanprodan/kube-tools) - Kubernetes tools for GitHub Actions CI
+- [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group
 - [tmaier/gitlab-auto-merge-request](https://github.com/tmaier/gitlab-auto-merge-request) - Tool to automatically open Merge Requests on GitLab (if none exists already)
 - [monitoring-mixins/website](https://github.com/monitoring-mixins/website) - Prometheus monitoring mixins
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
