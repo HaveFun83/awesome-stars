@@ -126,7 +126,7 @@
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [container-registry/helm-charts-oci-proxy](https://github.com/container-registry/helm-charts-oci-proxy) - The Helm Charts OCI Proxy, will proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as OCI image.
-- [undistro/zora](https://github.com/undistro/zora) - Zora is a multi-cluster scan that helps you identify potential issues and vulnerabilities in your Kubernetes clusters.
+- [undistro/zora](https://github.com/undistro/zora) - Zora is an open source solution that helps you achieve compliance with Kubernetes best practices recommended by industry-leading frameworks.  By scanning your cluster with multiple plugins, Zora ident
 - [clusterpedia-io/clusterpedia](https://github.com/clusterpedia-io/clusterpedia) - The Encyclopedia of Kubernetes clusters
 - [opendatahub-io/opendatahub-operator](https://github.com/opendatahub-io/opendatahub-operator) - Open Data Hub operator implementation, based on Kubeflow Operator
 - [joyrex2001/kubedock](https://github.com/joyrex2001/kubedock) - Kubedock is a minimal implementation of the docker api that will orchestrate containers on a Kubernetes cluster, rather than running containers locally.
