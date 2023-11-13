@@ -919,6 +919,7 @@
 
 ## Rust 
 
+- [davidB/kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
