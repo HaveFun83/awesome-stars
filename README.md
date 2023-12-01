@@ -150,7 +150,7 @@
 - [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
 - [bmc-toolbox/dora](https://github.com/bmc-toolbox/dora) - Tool to discover, collect data from multiple types of Servers and Chassis BMCs
 - [polarsignals/gh-actions-ps-profiling](https://github.com/polarsignals/gh-actions-ps-profiling) - GitHub Action for Continuous Profiling which you can run to profile your CI/CD. It uses parca and Polar Signals cloud.
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [sylwit/terraform-cleaner](https://github.com/sylwit/terraform-cleaner) - Tiny utility which detects unused variables in your terraform modules
 - [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin) - A Kubernetes device plugin to schedule generic Linux devices
