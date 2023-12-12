@@ -113,6 +113,7 @@
 - [awslabs/aws-cloudformation-controller-for-flux](https://github.com/awslabs/aws-cloudformation-controller-for-flux) - AWS CloudFormation template sync controller for Flux
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s.
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
+- [kubernetes-sigs/lwkd](https://github.com/kubernetes-sigs/lwkd) - Last Week in Kubernetes Development
 - [DoodleScheduling/flux-build](https://github.com/DoodleScheduling/flux-build) - Build and test kustomize overlays with flux2 HelmRelease support
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners
@@ -263,7 +264,7 @@
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 - [weaveworks-liquidmetal/cluster-api-provider-microvm](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm) - The Cluster API provider for creating microvm (i.e. Firecracker, Cloud Hypervisor) clusters
-- [grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs
+- [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
 - [flexkube/terraform-provider-flexkube](https://github.com/flexkube/terraform-provider-flexkube) - Terraform Flexkube provider
 - [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
@@ -614,7 +615,6 @@
 
 ## HTML 
 
-- [kubernetes-sigs/lwkd](https://github.com/kubernetes-sigs/lwkd) - Last Week in Kubernetes Development
 - [ContainerSolutions/runbooks](https://github.com/ContainerSolutions/runbooks) - A collection of step by step guides for fixing common tech problems.
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [prometheus-operator/runbooks](https://github.com/prometheus-operator/runbooks) - 
