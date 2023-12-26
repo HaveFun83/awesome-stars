@@ -684,6 +684,7 @@
 
 ## Jinja 
 
+- [Euvaz/GitOps-Home](https://github.com/Euvaz/GitOps-Home) - Self-hosted K8s cluster backed by Talos Linux, Flux and SOPS.
 - [omerbsezer/Fast-Ansible](https://github.com/omerbsezer/Fast-Ansible) - This repo covers Ansible with LABs: Multipass, Commands, Modules, Playbooks, Tags, Managing Files and Servers, Users, Roles, Handlers, Host Variables, Templates and details.
 - [robertdebock/ansible-role-harbor](https://github.com/robertdebock/ansible-role-harbor) - Install and configure harbor on your system.
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
@@ -961,7 +962,6 @@
 - [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
 - [Diaoul/home-ops](https://github.com/Diaoul/home-ops) - My GitOps-managed home Kubernetes cluster  :sailboat:! And more!
 - [dokc/operator-feature-matrix](https://github.com/dokc/operator-feature-matrix) - Opearator Feature Matrix - Features specification for Kubernetes data operators
-- [Euvaz/GitOps-Home](https://github.com/Euvaz/GitOps-Home) - Self-hosted K8s cluster backed by Talos Linux, Flux and SOPS.
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
 - [ricsanfre/pi-cluster](https://github.com/ricsanfre/pi-cluster) - Pi Kubernetes Cluster. Homelab kubernetes cluster automated with Ansible and ArgoCD
 - [k3s-io/k3s-selinux](https://github.com/k3s-io/k3s-selinux) - SELinux policy for k3s
