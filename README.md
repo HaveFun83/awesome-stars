@@ -1074,7 +1074,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [prometheus/promlens](https://github.com/prometheus/promlens) - PromLens – The query builder, analyzer, and explainer for PromQL
 - [prometheus-community/vscode-promql](https://github.com/prometheus-community/vscode-promql) - This is supposed to become a PromQL extension for vs code.
-- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
