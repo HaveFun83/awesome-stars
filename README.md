@@ -876,6 +876,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [rapidsai/frigate](https://github.com/rapidsai/frigate) - Frigate is a tool for automatically generating documentation for your Helm charts
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
+- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A community driven template for deploying a Kubernetes cluster with k0s, k3s or Talos
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
 - [ansible-community/molecule-vagrant](https://github.com/ansible-community/molecule-vagrant) - 🚧 Moved to molecule-plugins
 - [ansible-community/molecule-libvirt](https://github.com/ansible-community/molecule-libvirt) - Molecule LibVirt Provider
@@ -918,6 +919,7 @@
 
 ## Ruby 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [synyx/buchungsstreber](https://github.com/synyx/buchungsstreber) - Helper application for publishing time entries to Redmine.
 - [kingdonb/flux-web-stats](https://github.com/kingdonb/flux-web-stats) - My first K8s CRD controller (in Ruby!)
@@ -993,7 +995,6 @@
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [chiku11/flagger-canary-manual](https://github.com/chiku11/flagger-canary-manual) - 
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
-- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A community driven template for deploying a Kubernetes cluster with k0s, k3s or Talos
 - [PacHub/pachub](https://github.com/PacHub/pachub) - Pacman Github Contributions
 - [stefanprodan/kube-tools](https://github.com/stefanprodan/kube-tools) - Kubernetes tools for GitHub Actions CI
 - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group
@@ -1066,7 +1067,6 @@
 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [weaveworks/weaveworks-backstage](https://github.com/weaveworks/weaveworks-backstage) - Backstage app and Plugins for WeaveWorks and Flux.
 - [nimbushq/otel-validator](https://github.com/nimbushq/otel-validator) - 
