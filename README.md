@@ -321,6 +321,7 @@
 - [opsgy/loki-rule-operator](https://github.com/opsgy/loki-rule-operator) - Kubernetes Operator that helps configuring Alert rules for your Loki setup.
 - [goharbor/harbor-operator](https://github.com/goharbor/harbor-operator) - Kubernetes operator for Harbor service components
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
+- [charlie-haley/home-infra](https://github.com/charlie-haley/home-infra) - A monorepo for managing my home infrastructure using GitOps.
 - [grafana/flagger-k6-webhook](https://github.com/grafana/flagger-k6-webhook) - Using k6 to do load testing of the canary before rolling out traffic
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [openebs/openebsctl](https://github.com/openebs/openebsctl) - `openebsctl` is a kubectl plugin to manage OpenEBS storage components.
@@ -988,7 +989,6 @@
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [simplenetes-io/simplenetes](https://github.com/simplenetes-io/simplenetes) - The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods.
 - [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head) - Demo App for TAG App Delivery
-- [charlie-haley/home-infra](https://github.com/charlie-haley/home-infra) - A monorepo for managing my home infrastructure using GitOps.
 - [bjw-s/dotfiles](https://github.com/bjw-s/dotfiles) - My collection of dotfiles, powered by chezmoi
 - [lavabit/robox](https://github.com/lavabit/robox) - The tools needed to robotically create/configure/provision a large number of operating systems, for a variety of hypervisors, using packer.
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
