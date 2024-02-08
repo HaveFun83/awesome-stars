@@ -110,6 +110,7 @@
 
 ## Go 
 
+- [ermetic-research/cnappgoat](https://github.com/ermetic-research/cnappgoat) - CNAPPgoat is an open source project designed to modularly provision vulnerable-by-design components in cloud environments.
 - [LittleFox94/router-operator](https://github.com/LittleFox94/router-operator) - Routers in Kubernetes - mirror of my Gitlab
 - [k8s-proxmox/cluster-api-provider-proxmox](https://github.com/k8s-proxmox/cluster-api-provider-proxmox) - Cluster API provider implementation for Proxmox VE
 - [mjpitz/spdx-fmt](https://github.com/mjpitz/spdx-fmt) - Easily convert spdx.json files into human-readable, markdown files.
@@ -203,7 +204,7 @@
 - [kube-green/kube-green](https://github.com/kube-green/kube-green) - A K8s operator to reduce CO2 footprint of your clusters
 - [kubernetes-sigs/ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl)
-- [sigstore/fulcio](https://github.com/sigstore/fulcio) - An instance of Sigstore's OIDC-powered signing CA
+- [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore OIDC PKI
 - [sigstore/rekor](https://github.com/sigstore/rekor) - Software Supply Chain Transparency Log
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
