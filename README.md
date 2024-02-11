@@ -27,6 +27,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
+- [Nix](#nix)
 - [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [Python](#python)
@@ -73,7 +74,7 @@
 ## C++ 
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [goodtft/LCD-show](https://github.com/goodtft/LCD-show) - 2.4" 2.8"3.2" 3.5" 5.0" 7.0" TFT LCD driver for the Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
 - [kashalls/airgradient-prometheus-sensor](https://github.com/kashalls/airgradient-prometheus-sensor) - A ESP8266 with a bunch of sensors to collect data about the airquality in your home. Except with prometheus scraping capabilities.
@@ -758,6 +759,10 @@
 - [kiwigrid/helm-charts](https://github.com/kiwigrid/helm-charts) - Helm charts for Kubernetes curated by Kiwigrid
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - The helm chart to deploy Harbor
 
+## Nix 
+
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
+
 ## Open Policy Agent 
 
 - [utilitywarehouse/gatekeeper-template-manifests](https://github.com/utilitywarehouse/gatekeeper-template-manifests) - Kustomize base manifests for OPA gatekeeper templates
@@ -989,7 +994,6 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [truxnell/home-cluster](https://github.com/truxnell/home-cluster) - My home server cluster, managed by flux and defined as code here
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [simplenetes-io/simplenetes](https://github.com/simplenetes-io/simplenetes) - The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods.
 - [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head) - Demo App for TAG App Delivery
 - [bjw-s/dotfiles](https://github.com/bjw-s/dotfiles) - My collection of dotfiles, powered by chezmoi
