@@ -775,7 +775,6 @@
 ## Others 
 
 - [container-registry/awesome-harbor](https://github.com/container-registry/awesome-harbor) - Awesome List for Harbor Container Registry related projects, libraries and articles.
-- [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
 - [cncf/artwork](https://github.com/cncf/artwork) - 🎨 CNCF-related logos and artwork
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -969,6 +968,7 @@
 
 ## Shell 
 
+- [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [fluxcd/flux2-monitoring-example](https://github.com/fluxcd/flux2-monitoring-example) - Prometheus monitoring for the Flux control plane
 - [kingdonb/flux2-monitoring-example](https://github.com/kingdonb/flux2-monitoring-example) - Prometheus monitoring for the Flux control plane
