@@ -702,10 +702,10 @@
 
 ## Jsonnet 
 
-- [adinhodovic/rabbitmq-mixin](https://github.com/adinhodovic/rabbitmq-mixin) - 
+- [adinhodovic/rabbitmq-mixin](https://github.com/adinhodovic/rabbitmq-mixin) - Monitoring mixin for RabbitMQ. A set of Grafana dashboards and Prometheus rules for RabbitMQ.
 - [fluxcd-community/flux-mixin](https://github.com/fluxcd-community/flux-mixin) - Community maintained Prometheus Monitoring Mixin for Flux
 - [openebs/monitoring](https://github.com/openebs/monitoring) - OpenEBS Monitoring add-on. A set of Grafana, Prometheus, and alert manager plugins.
-- [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - 
+- [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx.
 - [adinhodovic/blackbox-exporter-mixin](https://github.com/adinhodovic/blackbox-exporter-mixin) - A mixin for the blackbox-exporter. A set of Grafana dashboards and Prometheus rules for the Blackbox-exporter..
 - [thanos-io/kube-thanos](https://github.com/thanos-io/kube-thanos) - Kubernetes specific configuration for deploying Thanos.
 - [carlosedp/cluster-monitoring](https://github.com/carlosedp/cluster-monitoring) - Cluster monitoring stack for clusters based on Prometheus Operator
