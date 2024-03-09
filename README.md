@@ -652,7 +652,7 @@
 
 ## JavaScript 
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - The Internet OS!
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS!
 - [gimlet-io/capacitor](https://github.com/gimlet-io/capacitor) - A general purpose UI for FluxCD.
 - [synyx/pandoc-web](https://github.com/synyx/pandoc-web) - Simple web interface to use convert markdown to textile via pandoc
 - [synyx/tales](https://github.com/synyx/tales) - synyx presentation style for everyone
