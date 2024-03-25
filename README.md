@@ -243,7 +243,7 @@
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [smallstep/autocert](https://github.com/smallstep/autocert) - ⚓ A kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers
 - [enix/x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter) - A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone
-- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Control Plane Manager for Kubernetes.
+- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [eko/pihole-exporter](https://github.com/eko/pihole-exporter) - A Prometheus exporter for PI-Hole's Raspberry PI ad blocker
 - [tynany/frr_exporter](https://github.com/tynany/frr_exporter) - Prometheus exporter for Free Range Routing
