@@ -438,7 +438,7 @@
 - [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider) - HashiCorp Vault Provider for Secret Store CSI Driver
 - [kubernetes-sigs/secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - CSI Driver for dynamic provisioning of Persistent Local Volumes for Kubernetes using LVM.
+- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - A CSI Driver for dynamically provisioning Persistent node Local Volumes for Kubernetes via the Linux LVM2 storage device manager stack
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 - [cloudflare/lockbox](https://github.com/cloudflare/lockbox) - Offline encryption of Kubernetes Secrets
@@ -607,7 +607,7 @@
 ## HCL 
 
 - [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
-- [joryirving/home-ops](https://github.com/joryirving/home-ops) - Gitops for my kubernetes cluster
+- [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [cbc02009/k8s-home-ops](https://github.com/cbc02009/k8s-home-ops) - 
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰
 - [xUnholy/k8s-gitops](https://github.com/xUnholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
