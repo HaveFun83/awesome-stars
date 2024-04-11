@@ -223,7 +223,7 @@
 - [kubevela/velad](https://github.com/kubevela/velad) - Lightweight KubeVela that runs as Daemon in single node with high availability.
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [csullivanupgrade/opa-exporter](https://github.com/csullivanupgrade/opa-exporter) - 
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [paralus/paralus](https://github.com/paralus/paralus) - All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.
 - [box/kube-iptables-tailer](https://github.com/box/kube-iptables-tailer) - A service for better network visibility for your Kubernetes clusters.
 - [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple
