@@ -757,7 +757,7 @@
 - [MoJo2600/pihole-kubernetes](https://github.com/MoJo2600/pihole-kubernetes) - PiHole on kubernetes
 - [helm/charts-repo-actions-demo](https://github.com/helm/charts-repo-actions-demo) - Example project to demo testing and hosting a chart repository with GitHub Pages and Actions
 - [fluent/helm-charts](https://github.com/fluent/helm-charts) - Helm Charts for Fluentd and Fluent Bit
-- [bootc/netbox-chart](https://github.com/bootc/netbox-chart) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - A Helm chart for NetBox
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [jertel/elastalert-docker](https://github.com/jertel/elastalert-docker) - Simple Dockerfile for building a Kubernetes and Elastalert Helm compatible Docker image.
@@ -848,6 +848,7 @@
 
 ## Python 
 
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) - A mono repository for my home infra and Kubernetes cluster  adhering to Infrastructure as Code (IaC) and GitOps practices
