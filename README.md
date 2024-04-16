@@ -973,6 +973,7 @@
 
 ## Shell 
 
+- [fluxcd/flux2-hub-spoke-example](https://github.com/fluxcd/flux2-hub-spoke-example) - A hub-and-spoke example for multi-cluster continuous delivery with Flux
 - [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [fluxcd/flux2-monitoring-example](https://github.com/fluxcd/flux2-monitoring-example) - Prometheus monitoring for the Flux control plane
