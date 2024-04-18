@@ -112,6 +112,7 @@
 
 ## Go 
 
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
 - [Azure/kaito](https://github.com/Azure/kaito) - Kubernetes AI Toolchain Operator
 - [redhat-cop/namespace-configuration-operator](https://github.com/redhat-cop/namespace-configuration-operator) - The namespace-configuration-operator helps keeping configurations related to Users, Groups and Namespaces aligned with one of more policies specified as a CRs
@@ -150,7 +151,7 @@
 - [ko-build/setup-ko](https://github.com/ko-build/setup-ko) - 
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [GoogleCloudPlatform/prometheus-engine](https://github.com/GoogleCloudPlatform/prometheus-engine) - Google Cloud Managed Service for Prometheus libraries and manifests.
-- [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
+- [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [raffis/gitops-zombies](https://github.com/raffis/gitops-zombies) - Identify kubernetes resources which are not managed by GitOps
 - [anywherelan/awl](https://github.com/anywherelan/awl) - Securely connect your devices into a private network
@@ -1117,7 +1118,7 @@
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
-- [artifacthub/hub](https://github.com/artifacthub/hub) - Find, install and publish Kubernetes packages
+- [artifacthub/hub](https://github.com/artifacthub/hub) - Find, install and publish Cloud Native packages
 - [fluxcd/webui](https://github.com/fluxcd/webui) - 
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
