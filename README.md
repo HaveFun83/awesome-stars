@@ -112,6 +112,7 @@
 
 ## Go 
 
+- [galexrt/extended-ceph-exporter](https://github.com/galexrt/extended-ceph-exporter) - A Prometheus exporter to provide "extended" metrics about a Ceph cluster's running components (e.g., RGW).
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
 - [Azure/kaito](https://github.com/Azure/kaito) - Kubernetes AI Toolchain Operator
