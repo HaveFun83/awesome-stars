@@ -780,6 +780,7 @@
 
 ## Others 
 
+- [siderolabs/awesome-talos](https://github.com/siderolabs/awesome-talos) - Collection of awesome talos resource from the community
 - [bwplotka/remote-write-hole](https://github.com/bwplotka/remote-write-hole) - Effiecient Go binary for analysing and benchmarking Prometheus Remote Write clients.
 - [container-registry/awesome-harbor](https://github.com/container-registry/awesome-harbor) - Awesome List for Harbor Container Registry related projects, libraries and articles.
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
@@ -1056,6 +1057,7 @@
 
 ## Smarty 
 
+- [aenix-io/cozystack](https://github.com/aenix-io/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [vfarcic/devops-toolkit-crossplane](https://github.com/vfarcic/devops-toolkit-crossplane) - 
 - [sighupio/fury-distribution](https://github.com/sighupio/fury-distribution) - Kubernetes Fury Distribution (Core Modules) - A battle-tested open-source Kubernetes distribution
 - [parca-dev/helm-charts](https://github.com/parca-dev/helm-charts) - Kubernetes Helm Charts to run Parca and Parca Agent
