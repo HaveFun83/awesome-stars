@@ -894,7 +894,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [rapidsai/frigate](https://github.com/rapidsai/frigate) - Frigate is a tool for automatically generating documentation for your Helm charts
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
-- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster with Flux
+- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [ansible-community/molecule-vagrant](https://github.com/ansible-community/molecule-vagrant) - 🚧 Moved to molecule-plugins
 - [ansible-community/molecule-libvirt](https://github.com/ansible-community/molecule-libvirt) - Molecule LibVirt Provider
