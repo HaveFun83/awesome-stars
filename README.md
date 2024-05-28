@@ -747,6 +747,7 @@
 - [siderolabs/extensions](https://github.com/siderolabs/extensions) - Talos Linux System Extensions
 - [monitoring-mixins/docs](https://github.com/monitoring-mixins/docs) - Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Rules and Alerts.
 - [ipxe/pipxe](https://github.com/ipxe/pipxe) - iPXE for the Raspberry Pi
+- [metal3-io/metal3-docs](https://github.com/metal3-io/metal3-docs) - Architecture documentation that describes the components being built under Metal³.
 
 ## Markdown 
 
@@ -883,7 +884,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [Getdeck/getdeck](https://github.com/Getdeck/getdeck) - A CLI that creates reproducible Kubernetes environments for development and testing
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Se
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [DevOps-Nirvana/Kubernetes-Volume-Autoscaler](https://github.com/DevOps-Nirvana/Kubernetes-Volume-Autoscaler) - Autoscaling volumes for Kubernetes (with the help of Prometheus)
@@ -979,6 +980,7 @@
 
 ## Shell 
 
+- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [fluxcd/flux2-hub-spoke-example](https://github.com/fluxcd/flux2-hub-spoke-example) - A hub-and-spoke example for multi-cluster continuous delivery with Flux
 - [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools
@@ -1053,7 +1055,6 @@
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [kubedb/docs](https://github.com/kubedb/docs) - KubeDB Docs
 - [jessestuart/tiller-multiarch](https://github.com/jessestuart/tiller-multiarch) - Helm Tiller images for amd64, arm64, and armhf. ⚓️🎉
-- [metal3-io/metal3-docs](https://github.com/metal3-io/metal3-docs) - Architecture documentation that describes the components being built under Metal³.
 - [mhrivnak/pulp-k8s](https://github.com/mhrivnak/pulp-k8s) - 
 
 ## Smarty 
@@ -1078,6 +1079,7 @@
 
 ## Svelte 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool
 
 ## Swift 
