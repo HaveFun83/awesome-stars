@@ -652,6 +652,7 @@
 
 - [1and1/dim](https://github.com/1and1/dim) - DNS and IP Management
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [urlaubsverwaltung/zeiterfassung](https://github.com/urlaubsverwaltung/zeiterfassung) - Du möchtest (oder musst) Arbeitszeiten in deinem Unternehmen digital erfassen und nachweisen können? 🦥
 - [ThomasVitale/kubernetes-native-java-with-spring-boot](https://github.com/ThomasVitale/kubernetes-native-java-with-spring-boot) - 
 - [ThomasVitale/spring-boot-ecosystem-overview](https://github.com/ThomasVitale/spring-boot-ecosystem-overview) - A collection of examples to showcase several features and modules in the Spring Boot evosystem.
@@ -1096,7 +1097,6 @@
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [weaveworks/weaveworks-backstage](https://github.com/weaveworks/weaveworks-backstage) - Backstage app and Plugins for WeaveWorks and Flux.
 - [nimbushq/otel-validator](https://github.com/nimbushq/otel-validator) - 
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
