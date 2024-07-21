@@ -796,7 +796,7 @@
 ## Others 
 
 - [siderolabs/awesome-talos](https://github.com/siderolabs/awesome-talos) - Collection of awesome talos resource from the community
-- [bwplotka/remote-write-hole](https://github.com/bwplotka/remote-write-hole) - Effiecient Go binary for analysing and benchmarking Prometheus Remote Write clients.
+- [bwplotka/remote-write-hole](https://github.com/bwplotka/remote-write-hole) - Effiecient binary for analysing and benchmarking Prometheus Remote Write clients.
 - [container-registry/awesome-harbor](https://github.com/container-registry/awesome-harbor) - Awesome List for Harbor Container Registry related projects, libraries and articles.
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
 - [cncf/artwork](https://github.com/cncf/artwork) - 🎨 CNCF-related logos and artwork
