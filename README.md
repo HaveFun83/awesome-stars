@@ -301,7 +301,7 @@
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [kubernetes/cri-api](https://github.com/kubernetes/cri-api) - Container Runtime Interface (CRI) – a plugin interface which enables kubelet to use a wide variety of container runtimes.
 - [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for implementing rootless containers
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [snapp-incubator/node-config-operator](https://github.com/snapp-incubator/node-config-operator) - An operator to manage node labels, annotations, and taints.
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer
@@ -1114,7 +1114,7 @@
 - [nimbushq/otel-validator](https://github.com/nimbushq/otel-validator) - 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) - Observability & Troubleshooting for Kubernetes Services
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
