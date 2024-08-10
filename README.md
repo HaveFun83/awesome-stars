@@ -797,6 +797,7 @@
 
 ## Others 
 
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [siderolabs/awesome-talos](https://github.com/siderolabs/awesome-talos) - Collection of awesome talos resource from the community
 - [bwplotka/remote-write-hole](https://github.com/bwplotka/remote-write-hole) - Effiecient binary for analysing and benchmarking Prometheus Remote Write clients.
 - [container-registry/awesome-harbor](https://github.com/container-registry/awesome-harbor) - Awesome List for Harbor Container Registry related projects, libraries and articles.
