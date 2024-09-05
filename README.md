@@ -1704,7 +1704,7 @@
 - [redhat-cop/namespace-configuration-operator](https://github.com/redhat-cop/namespace-configuration-operator) - The namespace-configuration-operator helps keeping configurations related to Users, Groups and Namespaces aligned with one of more policies specified as a CRs
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
-- [ermetic-research/cnappgoat](https://github.com/ermetic-research/cnappgoat) - CNAPPgoat is an open source project designed to modularly provision vulnerable-by-design components in cloud environments.
+- [tenable/cnappgoat](https://github.com/tenable/cnappgoat) - CNAPPgoat is an open source project designed to modularly provision vulnerable-by-design components in cloud environments.
 - [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 - [zakkg3/ClusterSecret](https://github.com/zakkg3/ClusterSecret) - Kubernetes ClusterSecret operator.
 - [mjpitz/spdx-fmt](https://github.com/mjpitz/spdx-fmt) - Easily convert spdx.json files into human-readable, markdown files.
