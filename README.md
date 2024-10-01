@@ -479,6 +479,7 @@
 
 ## devops 
 
+- [iximiuz/labctl](https://github.com/iximiuz/labctl) - iximiuz Labs control - start remote microVM playgrounds from the command line.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [stateful/runme](https://github.com/stateful/runme) - DevOps Notebooks Built with Markdown
 - [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools
@@ -552,6 +553,7 @@
 
 ## docker 
 
+- [iximiuz/labctl](https://github.com/iximiuz/labctl) - iximiuz Labs control - start remote microVM playgrounds from the command line.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -1108,6 +1110,7 @@
 
 ## kubernetes 
 
+- [iximiuz/labctl](https://github.com/iximiuz/labctl) - iximiuz Labs control - start remote microVM playgrounds from the command line.
 - [larryTheSlap/dumpy](https://github.com/larryTheSlap/dumpy) - kubectl plugin that performs tpcdump network captures on resources inside kubernetes cluster
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
@@ -1487,6 +1490,7 @@
 
 ## linux 
 
+- [iximiuz/labctl](https://github.com/iximiuz/labctl) - iximiuz Labs control - start remote microVM playgrounds from the command line.
 - [appview-team/appview](https://github.com/appview-team/appview) - Gain insight into any Linux command or application with no code modification
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
@@ -1705,6 +1709,7 @@
 
 ## others 
 
+- [fjogeleit/trivy-operator-polr-adapter](https://github.com/fjogeleit/trivy-operator-polr-adapter) - Creates PolicyReports based on the different Trivy Operator CRDs like VulnerabilityReports
 - [prometheus/mysqld_exporter](https://github.com/prometheus/mysqld_exporter) - Exporter for MySQL server metrics
 - [controlplaneio-fluxcd/flux-operator-local-dev](https://github.com/controlplaneio-fluxcd/flux-operator-local-dev) - Flux Operator local dev environment with Docker and Kubernetes KIND
 - [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) - Core components in the OCM project. Report here if you found any issues in OCM.
