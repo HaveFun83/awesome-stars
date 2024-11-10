@@ -1758,7 +1758,7 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [synyx/pandoc-web](https://github.com/synyx/pandoc-web) - Simple web interface to use convert markdown to textile via pandoc
-- [lupinelab/kproximate](https://github.com/lupinelab/kproximate) - A Kubernetes node autoscaler for Proxmox
+- [jedrw/kproximate](https://github.com/jedrw/kproximate) - A Kubernetes node autoscaler for Proxmox
 - [simonpasquier/prometheus_workshop](https://github.com/simonpasquier/prometheus_workshop) - Documentation and materials for running a Prometheus and AlertManager workshop
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [goharbor/chartmuseum-migration-tools](https://github.com/goharbor/chartmuseum-migration-tools) - 
