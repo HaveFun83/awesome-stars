@@ -31,6 +31,7 @@
 - [coding](#coding)
 - [computer-science](#computer-science)
 - [continuous-integration](#continuous-integration)
+- [cpp](#cpp)
 - [cryptography](#cryptography)
 - [css](#css)
 - [data](#data)
@@ -180,6 +181,7 @@
 
 ## ansible 
 
+- [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with Talos and managed by flux (gitops).
 - [ahinko/home-ops](https://github.com/ahinko/home-ops) - Homelab & Gitops, Infrastructure as Code (IaC) where possible. K8s cluster running on Talos and managed by Flux. Renovate keeps the repo up to date.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
@@ -290,6 +292,7 @@
 
 ## aws 
 
+- [jonashackt/crossplane-argocd](https://github.com/jonashackt/crossplane-argocd) - Example project showing how to use Crossplane together with ArgoCD
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. 
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -428,6 +431,10 @@
 ## continuous-integration 
 
 - [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+
+## cpp 
+
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 
 ## cryptography 
 
@@ -1053,6 +1060,7 @@
 
 ## home-assistant 
 
+- [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with Talos and managed by flux (gitops).
 - [Olen/homeassistant-plant](https://github.com/Olen/homeassistant-plant) - Alternative Plant component of home assistant
 - [cbc02009/k8s-home-ops](https://github.com/cbc02009/k8s-home-ops) - 
 
@@ -1115,7 +1123,6 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 
 ## json 
 
@@ -1128,6 +1135,8 @@
 
 ## kubernetes 
 
+- [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with Talos and managed by flux (gitops).
+- [jonashackt/crossplane-argocd](https://github.com/jonashackt/crossplane-argocd) - Example project showing how to use Crossplane together with ArgoCD
 - [stakater/IngressMonitorController](https://github.com/stakater/IngressMonitorController) - A Kubernetes controller to watch ingresses and create liveness alerts for your apps/microservices in UptimeRobot, StatusCake, Pingdom, etc.  – [✩Star] if you're using it!
 - [adinhodovic/opencost-mixin](https://github.com/adinhodovic/opencost-mixin) - Monitoring mixin for Kubernetes cost monitoring. A set of Grafana dashboards and Prometheus rules for OpenCost.
 - [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is an open-source framework for building platforms
@@ -1734,6 +1743,7 @@
 
 ## others 
 
+- [sapcc/absent-metrics-operator](https://github.com/sapcc/absent-metrics-operator) - Absent Metrics Operator creates metric absence alerts atop Kubernetes
 - [crazyuploader/TIL](https://github.com/crazyuploader/TIL) - Whatever I learned Today will go here. A nice way of organizing learned things. Inspired from https://github.com/jbranchaud/til
 - [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) - Flux Operator is a Kubernetes controller for managing the lifecycle of Flux CD
 - [fjogeleit/trivy-operator-polr-adapter](https://github.com/fjogeleit/trivy-operator-polr-adapter) - Creates PolicyReports based on the different Trivy Operator CRDs like VulnerabilityReports
