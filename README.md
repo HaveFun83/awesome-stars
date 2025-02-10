@@ -450,7 +450,6 @@
 
 ## css 
 
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 
 ## data 
@@ -1091,7 +1090,6 @@
 
 ## html 
 
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 
@@ -1388,7 +1386,7 @@
 - [GalleyBytes/terraform-operator](https://github.com/GalleyBytes/terraform-operator) - A Kubernetes CRD to handle terraform operations
 - [senthilrch/kube-fledged](https://github.com/senthilrch/kube-fledged) - A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly
 - [ctrox/csi-s3](https://github.com/ctrox/csi-s3) - A Container Storage Interface for S3
-- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Moved to https://github.com/aquasecurity/trivy-operator
+- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Superseded by https://github.com/aquasecurity/trivy-operator
 - [thanos-io/kube-thanos](https://github.com/thanos-io/kube-thanos) - Kubernetes specific configuration for deploying Thanos.
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
 - [flatcar/flatcar-linux-update-operator](https://github.com/flatcar/flatcar-linux-update-operator) - A Kubernetes operator to manage updates of Flatcar Container Linux
@@ -1953,7 +1951,7 @@
 - [opsgy/loki-rule-operator](https://github.com/opsgy/loki-rule-operator) - Kubernetes Operator that helps configuring Alert rules for your Loki setup.
 - [mjpitz/nomad-on-docker](https://github.com/mjpitz/nomad-on-docker) - Demonstration connecting Consul, Vault, and Nomad all together using docker 'nodes'
 - [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head) - Demo App for TAG App Delivery
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/flagger-k6-webhook](https://github.com/grafana/flagger-k6-webhook) - Using k6 to do load testing of the canary before rolling out traffic
 - [gitops-working-group/gitops-working-group](https://github.com/gitops-working-group/gitops-working-group) - ⚠️ This repo is superseded. See new link
 - [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project
@@ -2337,7 +2335,7 @@
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
-- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Moved to https://github.com/aquasecurity/trivy-operator
+- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Superseded by https://github.com/aquasecurity/trivy-operator
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
