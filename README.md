@@ -869,7 +869,7 @@
 - [snapp-incubator/node-config-operator](https://github.com/snapp-incubator/node-config-operator) - An operator to manage node labels, annotations, and taints.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
-- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util
+- [caarlos0/svu](https://github.com/caarlos0/svu) - semantic version utility
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces
 - [mittwald/goharbor-client](https://github.com/mittwald/goharbor-client) - Go Client for the Harbor container registry
@@ -1003,7 +1003,7 @@
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [PyBites-Open-Source/pybites-tools](https://github.com/PyBites-Open-Source/pybites-tools) - A repo to commit common Python utility scripts and snippets
-- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util
+- [caarlos0/svu](https://github.com/caarlos0/svu) - semantic version utility
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [mittwald/goharbor-client](https://github.com/mittwald/goharbor-client) - Go Client for the Harbor container registry
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
