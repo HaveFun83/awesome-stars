@@ -1778,6 +1778,7 @@
 
 ## others 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [tooyipjee/PlantBot](https://github.com/tooyipjee/PlantBot) - Automate Plant Care
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [stroebitzer/kubermatic-heise-kubernetes-security](https://github.com/stroebitzer/kubermatic-heise-kubernetes-security) - 
