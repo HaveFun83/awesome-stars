@@ -950,7 +950,7 @@
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
-- [aenix-io/cozystack](https://github.com/aenix-io/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images!
@@ -1181,7 +1181,7 @@
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts
 - [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [aenix-io/cozystack](https://github.com/aenix-io/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [fluxcd/flux2-hub-spoke-example](https://github.com/fluxcd/flux2-hub-spoke-example) - A hub-and-spoke example for multi-cluster continuous delivery with Flux
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator
@@ -2372,7 +2372,7 @@
 ## self-hosted 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [aenix-io/cozystack](https://github.com/aenix-io/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
