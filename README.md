@@ -241,7 +241,7 @@
 
 ## automation 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [aquasecurity/postee](https://github.com/aquasecurity/postee) - Notice: Postee is no longer under active development or maintenance.
@@ -517,7 +517,7 @@
 - [iximiuz/labctl](https://github.com/iximiuz/labctl) - iximiuz Labs control - start remote microVM playgrounds from the command line.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 - [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [Netcracker/KubeMarine](https://github.com/Netcracker/KubeMarine) - Management tool for Kubernetes cluster deployment and maintenance
@@ -959,6 +959,7 @@
 
 ## hacktoberfest 
 
+- [truecharts/public](https://github.com/truecharts/public) - Community Helm Chart Repository
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you're using it!
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -967,7 +968,7 @@
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
-- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images!
@@ -1144,7 +1145,7 @@
 
 ## java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [ThomasVitale/spring-boot-ecosystem-overview](https://github.com/ThomasVitale/spring-boot-ecosystem-overview) - A collection of examples to showcase several features and modules in the Spring Boot evosystem.
 - [ThomasVitale/cloud-native-spring-in-action](https://github.com/ThomasVitale/cloud-native-spring-in-action) - 🍃 Code samples and projects from the book "Cloud Native Spring in Action - With Spring Boot and Kubernetes" (Manning)
@@ -1174,6 +1175,7 @@
 
 ## kubernetes 
 
+- [budimanjojo/home-cluster](https://github.com/budimanjojo/home-cluster) - My home Kubernetes cluster managed with flux GitOps tool.
 - [developer-friendly/blog](https://github.com/developer-friendly/blog) - Technical blogs on topics of Kubernetes, GitOps, CI/CD and SRE in general. Created with ❤️ using Markdown format.
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) - Prometheus ephemeral storage metrics exporter
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state
@@ -1202,7 +1204,7 @@
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts
 - [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [fluxcd/flux2-hub-spoke-example](https://github.com/fluxcd/flux2-hub-spoke-example) - A hub-and-spoke example for multi-cluster continuous delivery with Flux
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator
@@ -1239,7 +1241,7 @@
 - [dokc/operator-feature-matrix](https://github.com/dokc/operator-feature-matrix) - Opearator Feature Matrix - Features specification for Kubernetes data operators
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin) - A Kubernetes device plugin to schedule generic Linux devices
-- [Euvaz/GitOps-Home](https://github.com/Euvaz/GitOps-Home) - Self-hosted K8s cluster backed by Talos Linux, Flux and SOPS.
+- [Euvaz/gitops-home](https://github.com/Euvaz/gitops-home) - Self-hosted K8s cluster backed by Talos Linux, Flux and SOPS.
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [cyberark/kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet
 - [korrel8r/korrel8r](https://github.com/korrel8r/korrel8r) - Correlation of observability signals.
@@ -1458,6 +1460,7 @@
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes.
+- [okd-project/okd](https://github.com/okd-project/okd) - The self-managing, auto-upgrading, Kubernetes distribution for everyone
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microser
 - [cablespaghetti/k3s-monitoring](https://github.com/cablespaghetti/k3s-monitoring) - A quick start guide for getting a full monitoring and alerting stack up and running on your k3s cluster, with Prometheus Operator and the kube-prometheus-stack Helm Chart.
@@ -1624,7 +1627,7 @@
 
 ## low-code 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
@@ -2088,7 +2091,6 @@
 - [sberk42/fritzbox_exporter](https://github.com/sberk42/fritzbox_exporter) - Fritz!Box Upnp statistics exporter for prometheus
 - [atomix/chaos-controller](https://github.com/atomix/chaos-controller) - Chaos controller for Kubernetes
 - [duyanghao/velero-volume-controller](https://github.com/duyanghao/velero-volume-controller) - Kubernetes controller for velero that detects and adds relevant backup annotation to pods with volumes
-- [okd-project/okd](https://github.com/okd-project/okd) - The self-managing, auto-upgrading, Kubernetes distribution for everyone
 - [banzaicloud/thanos-operator](https://github.com/banzaicloud/thanos-operator) - Kubernetes operator for deploying Thanos
 - [boblemaire/IoTaWatt](https://github.com/boblemaire/IoTaWatt) - IoTaWatt Open WiFi Electric Energy Monitor
 - [zakkg3/podannotator](https://github.com/zakkg3/podannotator) - Annotate pods with PVC in a given list of namepsaces to be backed up by velero/restic
@@ -2407,7 +2409,7 @@
 
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
