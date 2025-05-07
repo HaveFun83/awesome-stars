@@ -780,6 +780,7 @@
 
 ## go 
 
+- [Jont828/cluster-api-visualizer](https://github.com/Jont828/cluster-api-visualizer) - Multicluster resource visualization tool for Cluster API
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
@@ -1177,6 +1178,7 @@
 
 ## kubernetes 
 
+- [Jont828/cluster-api-visualizer](https://github.com/Jont828/cluster-api-visualizer) - Multicluster resource visualization tool for Cluster API
 - [budimanjojo/home-cluster](https://github.com/budimanjojo/home-cluster) - My home Kubernetes cluster managed with flux GitOps tool.
 - [developer-friendly/blog](https://github.com/developer-friendly/blog) - Technical blogs on topics of Kubernetes, GitOps, CI/CD and SRE in general. Created with ❤️ using Markdown format.
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) - Prometheus ephemeral storage metrics exporter
@@ -2621,6 +2623,7 @@
 
 ## vue 
 
+- [Jont828/cluster-api-visualizer](https://github.com/Jont828/cluster-api-visualizer) - Multicluster resource visualization tool for Cluster API
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
