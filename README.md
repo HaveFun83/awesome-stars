@@ -706,7 +706,7 @@
 
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
-- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## elixir 
@@ -1182,7 +1182,7 @@
 - [budimanjojo/home-cluster](https://github.com/budimanjojo/home-cluster) - My home Kubernetes cluster managed with flux GitOps tool.
 - [developer-friendly/blog](https://github.com/developer-friendly/blog) - Technical blogs on topics of Kubernetes, GitOps, CI/CD and SRE in general. Created with ❤️ using Markdown format.
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) - Prometheus ephemeral storage metrics exporter
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [vehagn/homelab](https://github.com/vehagn/homelab) - Configuration for my homelab running Talos Kubernetes provisioned with OpenTofu.
 - [polarsignals/kubezonnet](https://github.com/polarsignals/kubezonnet) - Monitor cross-zone network traffic in Kubernetes.
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you're using it!
@@ -2223,7 +2223,7 @@
 
 ## python 
 
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
@@ -2427,7 +2427,7 @@
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [flexkube/libflexkube](https://github.com/flexkube/libflexkube) - Go library for installing and managing Kubernetes clusters
-- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 
 ## server 
