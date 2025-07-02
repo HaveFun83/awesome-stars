@@ -85,6 +85,7 @@
 - [javascript](#javascript)
 - [jenkins](#jenkins)
 - [json](#json)
+- [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [languages](#languages)
@@ -190,6 +191,7 @@
 
 ## android 
 
+- [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## ansible 
@@ -1154,6 +1156,7 @@
 
 ## java 
 
+- [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [ThomasVitale/spring-boot-ecosystem-overview](https://github.com/ThomasVitale/spring-boot-ecosystem-overview) - A collection of examples to showcase several features and modules in the Spring Boot evosystem.
@@ -1187,6 +1190,10 @@
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+
+## kotlin 
+
+- [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 
 ## kubernetes 
 
