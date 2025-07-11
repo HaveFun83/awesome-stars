@@ -1200,6 +1200,7 @@
 
 ## kubernetes 
 
+- [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
 - [ceph/ceph-cosi](https://github.com/ceph/ceph-cosi) - COSI driver for Ceph Object Store aka RGW
@@ -1838,6 +1839,7 @@
 
 ## others 
 
+- [jurim76/plugin-barman-cloud](https://github.com/jurim76/plugin-barman-cloud) - Helm chart for Barman Cloud CNPG-I plugin
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
@@ -2608,6 +2610,7 @@
 
 ## testing 
 
+- [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
