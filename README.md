@@ -1399,7 +1399,7 @@
 - [meilisearch/meilisearch-kubernetes](https://github.com/meilisearch/meilisearch-kubernetes) - Meilisearch on Kubernetes Helm charts and manifests
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [barpilot/node-labeler-operator](https://github.com/barpilot/node-labeler-operator) - kubernetes operator to auto label/taint/annotate node based on CRD
-- [goharbor/harbor-operator](https://github.com/goharbor/harbor-operator) - Kubernetes operator for Harbor service components
+- [goharbor/harbor-operator](https://github.com/goharbor/harbor-operator) - [DEPRECATED] Kubernetes operator for Harbor service components
 - [ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) - A curated list of awesome Kubernetes security resources
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [openebs/openebsctl](https://github.com/openebs/openebsctl) - `openebsctl` is a kubectl plugin to manage OpenEBS storage components.
