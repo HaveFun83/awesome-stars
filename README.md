@@ -169,7 +169,6 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -1929,6 +1928,7 @@
 - [ko-build/setup-ko](https://github.com/ko-build/setup-ko) - 
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 - [polarsignals/bpftool-container](https://github.com/polarsignals/bpftool-container) - Fedora based container with bpftool installed for troubleshooting.
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [Yerbert/DingoQuadruped](https://github.com/Yerbert/DingoQuadruped) - Base code for the Dingo quadruped; modified from Stanford Pupper and Notspot repositories. Includes integration with ROS Noetic and a simulation of the Dingo
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [webmeshproj/webmesh-vdi](https://github.com/webmeshproj/webmesh-vdi) - A Kubernetes-native Virtual Desktop Infrastructure
@@ -2747,15 +2747,6 @@
 ## xml 
 
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
-
-## zsh 
-
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
