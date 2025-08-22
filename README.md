@@ -179,6 +179,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [meistrari/prompts-royale](https://github.com/meistrari/prompts-royale) - Automatically create prompts and make them fight each other to know which is the best
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
@@ -552,7 +553,6 @@
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [Netcracker/KubeMarine](https://github.com/Netcracker/KubeMarine) - Management tool for Kubernetes cluster deployment and maintenance
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and 
 - [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [cyberark/kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet
@@ -1282,7 +1282,6 @@
 - [clusterpedia-io/clusterpedia](https://github.com/clusterpedia-io/clusterpedia) - The Encyclopedia of Kubernetes clusters
 - [joyrex2001/kubedock](https://github.com/joyrex2001/kubedock) - Kubedock is a minimal implementation of the docker api that will orchestrate containers on a Kubernetes cluster, rather than running containers locally.
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and 
 - [kubepug/kubepug-installer](https://github.com/kubepug/kubepug-installer) - kubepug-installer GitHub Action
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [GoogleCloudPlatform/prometheus-engine](https://github.com/GoogleCloudPlatform/prometheus-engine) - Google Cloud Managed Service for Prometheus libraries and manifests.
@@ -1748,7 +1747,7 @@
 - [fluxcd/flux2-monitoring-example](https://github.com/fluxcd/flux2-monitoring-example) - Prometheus monitoring for the Flux control plane
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and 
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [skydive-project/skydive](https://github.com/skydive-project/skydive) - An open source real-time network topology and protocols analyzer
@@ -1869,6 +1868,7 @@
 
 ## others 
 
+- [chentex/random-logger](https://github.com/chentex/random-logger) - Docker image for a random log generator.
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [bitwarden/self-host](https://github.com/bitwarden/self-host) - Bitwarden's self-hosted release repository
 - [grafana/intro-to-mltp](https://github.com/grafana/intro-to-mltp) - Introduction to Metrics, Logs, Traces and Profiles session companion code.
