@@ -1689,7 +1689,7 @@
 
 ## mac 
 
-- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [HenriWahl/dhcpy6d](https://github.com/HenriWahl/dhcpy6d) - MAC address aware DHCPv6 server written in Python
 - [HenriWahl/docker-dhcpy6d](https://github.com/HenriWahl/docker-dhcpy6d) - Container for dhcpy6d
 
@@ -1757,7 +1757,7 @@
 - [cbrgm/promcheck](https://github.com/cbrgm/promcheck) - A tool and exporter to identify faulty Prometheus rules
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
-- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come!
+- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
 - [syepes/network_exporter](https://github.com/syepes/network_exporter) - ICMP / Ping & MTR & TCP Port & HTTP Get - Network Prometheus exporter
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx.
@@ -2448,7 +2448,7 @@
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 - [Vinum-Security/kubernetes-security-checklist](https://github.com/Vinum-Security/kubernetes-security-checklist) - Kubernetes Security Checklist and Requirements - All in One (authentication, authorization, logging, secrets, configuration, network, workloads, dockerfile)
 - [StyraOSS/awesome-opa](https://github.com/StyraOSS/awesome-opa) - A curated list of OPA related tools, frameworks and articles
-- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
