@@ -1271,7 +1271,6 @@
 - [k8s-proxmox/cluster-api-provider-proxmox](https://github.com/k8s-proxmox/cluster-api-provider-proxmox) - Cluster API provider implementation for Proxmox VE
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
 - [Netcracker/KubeMarine](https://github.com/Netcracker/KubeMarine) - Management tool for Kubernetes cluster deployment and maintenance
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [DoodleScheduling/flux-build](https://github.com/DoodleScheduling/flux-build) - Build and test kustomize overlays with flux2 HelmRelease support
 - [rabbitmq/cluster-operator](https://github.com/rabbitmq/cluster-operator) - RabbitMQ Cluster Kubernetes Operator
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
