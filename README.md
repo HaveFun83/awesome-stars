@@ -1914,8 +1914,8 @@
 
 ## others 
 
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [cloudnative-pg/cnpg-playground](https://github.com/cloudnative-pg/cnpg-playground) - Local Learning Environment for CloudNativePG Using Docker and Kind
-- [artuross/homelab](https://github.com/artuross/homelab) - my homelab stack
 - [chentex/random-logger](https://github.com/chentex/random-logger) - Docker image for a random log generator.
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [bitwarden/self-host](https://github.com/bitwarden/self-host) - Bitwarden's self-hosted release repository
@@ -2398,6 +2398,7 @@
 
 ## raspberry-pi 
 
+- [artuross/homelab](https://github.com/artuross/homelab) - my homelab stack
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 - [ricsanfre/pi-cluster](https://github.com/ricsanfre/pi-cluster) - Pi Kubernetes Cluster. Homelab kubernetes cluster automated with Ansible and FluxCD
 - [pftf/RPi4](https://github.com/pftf/RPi4) - Raspberry Pi 4 UEFI Firmware Images
