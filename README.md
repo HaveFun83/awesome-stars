@@ -1916,6 +1916,7 @@
 
 ## others 
 
+- [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [coollabsio/minio](https://github.com/coollabsio/minio) - Automated MinIO docker images
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [cloudnative-pg/cnpg-playground](https://github.com/cloudnative-pg/cnpg-playground) - Local Learning Environment for CloudNativePG Using Docker and Kind
