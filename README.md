@@ -1916,6 +1916,7 @@
 
 ## others 
 
+- [GlueOps/GlueKube](https://github.com/GlueOps/GlueKube) - 
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [coollabsio/minio](https://github.com/coollabsio/minio) - Automated MinIO docker images
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -2279,7 +2280,7 @@
 
 ## p2p 
 
-- [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly) - Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
+- [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly) - Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology, with an optional content‑addressable filesystem that accelerates OCI container launch.
 - [anywherelan/awl](https://github.com/anywherelan/awl) - Securely connect your devices into a private network. Mesh VPN, socks5 proxy server/client
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 
