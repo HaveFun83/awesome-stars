@@ -585,7 +585,6 @@
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
-- [Netcracker/KubeMarine](https://github.com/Netcracker/KubeMarine) - Management tool for Kubernetes cluster deployment and maintenance
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
@@ -1928,6 +1927,7 @@
 
 ## others 
 
+- [ibexmonj/ingress-migration-analyzer](https://github.com/ibexmonj/ingress-migration-analyzer) - ingress-migration-analyzer
 - [ahrtr/etcd-defrag](https://github.com/ahrtr/etcd-defrag) - An easier to use and smarter etcd defragmentation tool
 - [GlueOps/GlueKube](https://github.com/GlueOps/GlueKube) - 
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
