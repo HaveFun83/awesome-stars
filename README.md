@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
@@ -179,6 +180,10 @@
 - [wordpress](#wordpress)
 - [xml](#xml)
 - [zsh](#zsh)
+
+## agent 
+
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
 
 ## ai 
 
@@ -1286,6 +1291,7 @@
 
 ## kubernetes 
 
+- [adevinta/k8s-traffic-controller](https://github.com/adevinta/k8s-traffic-controller) - An operator that enables flexible multi-cluster routing using DNS.
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [controlplaneio/kubesec](https://github.com/controlplaneio/kubesec) - Security risk analysis for Kubernetes resources
 - [kguardian-dev/kguardian](https://github.com/kguardian-dev/kguardian) - A Kubernetes tool leveraging eBPF for advanced Kubernetes security, auto-generating Network Policies, Seccomp Profiles, and more.
