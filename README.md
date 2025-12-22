@@ -1976,6 +1976,7 @@
 
 ## others 
 
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [uniget-org/cli](https://github.com/uniget-org/cli) - MIRROR: The universal installer and updater for (container) tools
 - [ibexmonj/ingress-migration-analyzer](https://github.com/ibexmonj/ingress-migration-analyzer) - ingress-migration-analyzer
 - [ahrtr/etcd-defrag](https://github.com/ahrtr/etcd-defrag) - An easier to use and smarter etcd defragmentation tool
