@@ -115,7 +115,6 @@
 - [music](#music)
 - [mysql](#mysql)
 - [neovim](#neovim)
-- [nextjs](#nextjs)
 - [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -1915,10 +1914,6 @@
 ## neovim 
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-
-## nextjs 
-
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 
 ## no-code 
 
