@@ -2063,7 +2063,7 @@
 - [sylwit/terraform-cleaner](https://github.com/sylwit/terraform-cleaner) - Tiny utility which detects unused variables in your terraform modules
 - [vfarcic/devops-toolkit-crossplane](https://github.com/vfarcic/devops-toolkit-crossplane) - 
 - [mdgreenwald/mozilla-sops-action](https://github.com/mdgreenwald/mozilla-sops-action) - GitHub Action for installing Sops
-- [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes clusters
+- [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes cluster metrics
 - [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [isItObservable/otelmetrics](https://github.com/isItObservable/otelmetrics) - 
 - [httptoolkit/docker-registry-facade](https://github.com/httptoolkit/docker-registry-facade) - A tiny self-hostable Docker Registry facade - own your image URL without running your own registry
