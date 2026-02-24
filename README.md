@@ -2001,6 +2001,7 @@
 
 ## others 
 
+- [phillipj/gitlab-search](https://github.com/phillipj/gitlab-search) - Command line tool to search for contents in GitLab repositories
 - [grafana/alloy-scenarios](https://github.com/grafana/alloy-scenarios) - A collection of working Alloy scenarios
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
