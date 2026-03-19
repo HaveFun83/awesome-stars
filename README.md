@@ -1091,7 +1091,7 @@
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [controlplaneio/kubesec](https://github.com/controlplaneio/kubesec) - Security risk analysis for Kubernetes resources
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
-- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an open-source internal developer platform (IDP)
+- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is a developer platform for Kubernetes
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
