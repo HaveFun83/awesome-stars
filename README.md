@@ -2152,7 +2152,6 @@
 - [fraulyoner/kinderbuchvielfalt](https://github.com/fraulyoner/kinderbuchvielfalt) - 
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [cresta/helm-autoupdate](https://github.com/cresta/helm-autoupdate) - CLI/action to update helm versions in git repositories
-- [geerlingguy/pi-router](https://github.com/geerlingguy/pi-router) - Raspberry Pi-based OpenWRT router config for 4G/5G Waveshare Dual Ethernet board.
 - [nukleros/operator-builder](https://github.com/nukleros/operator-builder) - A Kubebuilder plugin to accelerate the development of Kubernetes operators
 - [rook/kubectl-rook-ceph](https://github.com/rook/kubectl-rook-ceph) - Krew plugin to run kubectl commands with rook-ceph
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool
@@ -2537,6 +2536,7 @@
 - [ricsanfre/pi-cluster](https://github.com/ricsanfre/pi-cluster) - Pi Kubernetes Cluster. Homelab kubernetes cluster automated with Ansible, Terraform and FluxCD
 - [pftf/RPi4](https://github.com/pftf/RPi4) - Raspberry Pi 4 UEFI Firmware Images
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [geerlingguy/pi-router](https://github.com/geerlingguy/pi-router) - Raspberry Pi-based OpenWRT router configs
 - [eko/pihole-exporter](https://github.com/eko/pihole-exporter) - A Prometheus exporter for PI-Hole's Raspberry PI ad blocker
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
 - [ipxe/pipxe](https://github.com/ipxe/pipxe) - iPXE for the Raspberry Pi
