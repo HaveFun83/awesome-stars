@@ -62,6 +62,7 @@
 - [elixir](#elixir)
 - [embedded](#embedded)
 - [es6](#es6)
+- [esp32](#esp32)
 - [finance](#finance)
 - [firebase](#firebase)
 - [framework](#framework)
@@ -836,6 +837,10 @@
 ## es6 
 
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
+
+## esp32 
+
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 
 ## finance 
 
