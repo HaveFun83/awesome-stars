@@ -722,7 +722,7 @@
 - [joyrex2001/kubedock](https://github.com/joyrex2001/kubedock) - Kubedock is a minimal implementation of the docker api that will orchestrate containers on a Kubernetes cluster, rather than running containers locally.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
-- [bjw-s-labs/container-images](https://github.com/bjw-s-labs/container-images) - Kubernetes tailored container images for various applications
+- [bjw-s-labs/container-images](https://github.com/bjw-s-labs/container-images) - Kubernetes tailored container images for various applications. Mirror of https://git.bjw-s.dev/bjw-s/container-images
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
@@ -1383,7 +1383,7 @@
 - [bavarianbidi/kubectl-dpm](https://github.com/bavarianbidi/kubectl-dpm) - manage your kubectl debug profiles with style
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
 - [kashalls/kromgo](https://github.com/kashalls/kromgo) - Easily expose preconfigured prometheus metrics to the outside using badges.
-- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
+- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops
 - [ahinko/home-ops](https://github.com/ahinko/home-ops) - Homelab & Gitops, Infrastructure as Code (IaC) where possible. K8s cluster running on Talos and managed by Flux. Renovate keeps the repo up to date.
 - [iximiuz/labctl](https://github.com/iximiuz/labctl) - iximiuz Labs control - start remote microVM playgrounds from the command line.
 - [larryTheSlap/dumpy](https://github.com/larryTheSlap/dumpy) - kubectl plugin that performs tpcdump network captures on resources inside kubernetes cluster
@@ -1422,7 +1422,7 @@
 - [Diaoul/home-ops](https://github.com/Diaoul/home-ops) - My GitOps-managed home Kubernetes cluster...  and more! :sailboat:
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) - Observability & Troubleshooting for Kubernetes Services
 - [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting
-- [bjw-s-labs/container-images](https://github.com/bjw-s-labs/container-images) - Kubernetes tailored container images for various applications
+- [bjw-s-labs/container-images](https://github.com/bjw-s-labs/container-images) - Kubernetes tailored container images for various applications. Mirror of https://git.bjw-s.dev/bjw-s/container-images
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [dokc/operator-feature-matrix](https://github.com/dokc/operator-feature-matrix) - Opearator Feature Matrix - Features specification for Kubernetes data operators
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
