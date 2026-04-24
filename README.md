@@ -1345,6 +1345,7 @@
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
 - [robscott/kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
+- [grafana/alloy-scenarios](https://github.com/grafana/alloy-scenarios) - A collection of working Alloy scenarios
 - [dc-tec/openbao-operator](https://github.com/dc-tec/openbao-operator) - The OpenBao Operator manages the lifecycle of OpenBao clusters on Kubernetes. It handles the orchestration complexity, PKI, backups, upgrades, and secure multi-tenancy, so you can focus on consuming s
 - [rapidfort/kimia](https://github.com/rapidfort/kimia) - Kubernetes-Native OCI Image Builder.
 - [adevinta/k8s-traffic-controller](https://github.com/adevinta/k8s-traffic-controller) - An operator that enables flexible multi-cluster routing using DNS.
@@ -2044,7 +2045,6 @@
 - [C-GBL/sshb](https://github.com/C-GBL/sshb) - SSH Buddy - Tamagotchi Terminal Pet Daemon
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [phillipj/gitlab-search](https://github.com/phillipj/gitlab-search) - Command line tool to search for contents in GitLab repositories
-- [grafana/alloy-scenarios](https://github.com/grafana/alloy-scenarios) - A collection of working Alloy scenarios
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [uniget-org/cli](https://github.com/uniget-org/cli) - MIRROR: The universal installer and updater for (container) tools
