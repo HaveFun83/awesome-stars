@@ -627,7 +627,7 @@
 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your t
-- [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - Husband-approved enterprise™ homelab deployed with Talos Linux; managed with Flux, Renovate, and GitHub Actions 🤖
+- [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - Husband-approved homelab deployed with Talos Linux; managed with Flux, Renovate, and GitHub Actions 🤖
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -1369,7 +1369,7 @@
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator
 - [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
 - [home-operations/tuppr](https://github.com/home-operations/tuppr) - Kubernetes controller to upgrade Talos and Kubernetes
-- [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - Husband-approved enterprise™ homelab deployed with Talos Linux; managed with Flux, Renovate, and GitHub Actions 🤖
+- [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - Husband-approved homelab deployed with Talos Linux; managed with Flux, Renovate, and GitHub Actions 🤖
 - [sergelogvinov/proxmox-csi-plugin](https://github.com/sergelogvinov/proxmox-csi-plugin) - Proxmox CSI Plugin
 - [mmohamed/velero-dashboard](https://github.com/mmohamed/velero-dashboard) - Very simplified Velero dashboard for backup, restore and schedule management inside a K8S cluster.
 - [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing
