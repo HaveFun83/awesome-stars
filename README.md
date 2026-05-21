@@ -2049,6 +2049,7 @@
 
 ## others 
 
+- [aminueza/terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio) - Terraform provider for managing MinIO S3 buckets and IAM Users.
 - [mhausenblas/pr](https://github.com/mhausenblas/pr) - Challenge the changelog!
 - [olle/talk-archiving-csv-with-duckdb](https://github.com/olle/talk-archiving-csv-with-duckdb) - Talk: Data Archiving with DuckDB
 - [arman-bd/guppylm](https://github.com/arman-bd/guppylm) - A ~9M parameter LLM that talks like a small fish.
