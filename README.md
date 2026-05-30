@@ -718,7 +718,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
-- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
+- [podman-container-tools/buildah](https://github.com/podman-container-tools/buildah) - A tool that facilitates building OCI images.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -2138,7 +2138,7 @@
 - [weaveworks/policy-agent](https://github.com/weaveworks/policy-agent) - Weaveworks Policy Agent
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner's guide to eBPF
 - [coreos/fedora-coreos-tracker](https://github.com/coreos/fedora-coreos-tracker) - Issue tracker for Fedora CoreOS
-- [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
+- [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
 - [bmc-toolbox/dora](https://github.com/bmc-toolbox/dora) - Tool to discover, collect data from multiple types of Servers and Chassis BMCs
 - [allenporter/flux-local-action](https://github.com/allenporter/flux-local-action) - Github actions for flux-local repo analysis
