@@ -932,7 +932,6 @@
 - [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
-- [home-operations/kromgo](https://github.com/home-operations/kromgo) - Expose prometheus metrics to the outside using badges or graphs
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -1397,7 +1396,6 @@
 - [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is an open-source framework for building platforms
 - [bavarianbidi/kubectl-dpm](https://github.com/bavarianbidi/kubectl-dpm) - manage your kubectl debug profiles with style
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
-- [home-operations/kromgo](https://github.com/home-operations/kromgo) - Expose prometheus metrics to the outside using badges or graphs
 - [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops
 - [ahinko/home-ops](https://github.com/ahinko/home-ops) - Homelab & Gitops, Infrastructure as Code (IaC) where possible. K8s cluster running on Talos and managed by Flux. Renovate keeps the repo up to date.
 - [iximiuz/labctl](https://github.com/iximiuz/labctl) - iximiuz Labs control - start remote microVM playgrounds from the command line.
@@ -2089,6 +2087,7 @@
 - [coreos/butane](https://github.com/coreos/butane) - Butane translates human-readable Butane Configs into machine-readable Ignition Configs.
 - [cloudoperators/absent-metrics-operator](https://github.com/cloudoperators/absent-metrics-operator) - Absent Metrics Operator creates metric absence alerts atop Kubernetes
 - [crazyuploader/TIL](https://github.com/crazyuploader/TIL) - Whatever I learned Today will go here. A nice way of organizing learned things. Inspired from https://github.com/jbranchaud/til
+- [home-operations/kromgo](https://github.com/home-operations/kromgo) - Expose prometheus metrics to the outside using badges or graphs
 - [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) - GitOps on Autopilot Mode
 - [fjogeleit/trivy-operator-polr-adapter](https://github.com/fjogeleit/trivy-operator-polr-adapter) - Creates PolicyReports based on the different Trivy Operator CRDs like VulnerabilityReports
 - [prometheus/mysqld_exporter](https://github.com/prometheus/mysqld_exporter) - Exporter for MySQL server metrics
@@ -2129,7 +2128,7 @@
 - [raesene/kube_security_lab](https://github.com/raesene/kube_security_lab) - 
 - [cert-manager/csi-driver-spiffe](https://github.com/cert-manager/csi-driver-spiffe) - A Kubernetes CSI plugin to automatically mount SPIFFE certificates to Pods using ephemeral volumes
 - [containerd/nydus-snapshotter](https://github.com/containerd/nydus-snapshotter) - A containerd snapshotter with data deduplication and lazy loading in P2P fashion
-- [grafana/grafana-apiserver](https://github.com/grafana/grafana-apiserver) - 
+- [grafana-cold-storage/grafana-apiserver](https://github.com/grafana-cold-storage/grafana-apiserver) - 
 - [ko-build/setup-ko](https://github.com/ko-build/setup-ko) - 
 - [ariga/atlas](https://github.com/ariga/atlas) - Declarative schema migrations with schema-as-code workflows
 - [polarsignals/bpftool-container](https://github.com/polarsignals/bpftool-container) - Fedora based container with bpftool installed for troubleshooting.
@@ -2829,7 +2828,7 @@
 
 ## telegram 
 
-- [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
+- [grafana-cold-storage/oncall](https://github.com/grafana-cold-storage/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 
 ## terminal 
@@ -2886,7 +2885,7 @@
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [stefanprodan/flux-local-dev](https://github.com/stefanprodan/flux-local-dev) - Flux local dev environment with Docker and Kubernetes KIND
-- [grafana/xk6-disruptor-demo](https://github.com/grafana/xk6-disruptor-demo) - A complete demo of xk6-disruptor
+- [grafana-cold-storage/xk6-disruptor-demo](https://github.com/grafana-cold-storage/xk6-disruptor-demo) - A complete demo of xk6-disruptor
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl)
 - [Ealenn/Echo-Server](https://github.com/Ealenn/Echo-Server) - REST Server Tests (Echo-Server) API / Docker / Kubernetes / Helm
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
