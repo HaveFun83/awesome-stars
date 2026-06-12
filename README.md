@@ -1199,7 +1199,7 @@
 - [mittwald/goharbor-client](https://github.com/mittwald/goharbor-client) - Go Client for the Harbor container registry
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [openebs/monitoring](https://github.com/openebs/monitoring) - OpenEBS Monitoring add-on. A set of Grafana, Prometheus, and alert manager plugins.
-- [openebs/openebsctl](https://github.com/openebs/openebsctl) - `openebsctl` is a kubectl plugin to manage OpenEBS storage components.
+- [openebs-archive/openebsctl](https://github.com/openebs-archive/openebsctl) - `openebsctl` is a kubectl plugin to manage OpenEBS storage components.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [rapidsai/frigate](https://github.com/rapidsai/frigate) - Frigate is a tool for automatically generating documentation for your Helm charts
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
@@ -1399,7 +1399,7 @@
 - [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is an open-source framework for building platforms
 - [bavarianbidi/kubectl-dpm](https://github.com/bavarianbidi/kubectl-dpm) - manage your kubectl debug profiles with style
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
-- [home-operations/kromgo](https://github.com/home-operations/kromgo) - Expose prometheus metrics to the outside using badges or graphs
+- [home-operations/kromgo](https://github.com/home-operations/kromgo) - Build badges and graphs from PromQL and share them in your READMEs
 - [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops
 - [ahinko/home-ops](https://github.com/ahinko/home-ops) - Homelab & Gitops, Infrastructure as Code (IaC) where possible. K8s cluster running on Talos and managed by Flux. Renovate keeps the repo up to date.
 - [iximiuz/labctl](https://github.com/iximiuz/labctl) - iximiuz Labs control - start remote microVM playgrounds from the command line.
@@ -1552,7 +1552,7 @@
 - [goharbor/harbor-operator](https://github.com/goharbor/harbor-operator) - [DEPRECATED] Kubernetes operator for Harbor service components
 - [ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) - A curated list of awesome Kubernetes security resources
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [openebs/openebsctl](https://github.com/openebs/openebsctl) - `openebsctl` is a kubectl plugin to manage OpenEBS storage components.
+- [openebs-archive/openebsctl](https://github.com/openebs-archive/openebsctl) - `openebsctl` is a kubectl plugin to manage OpenEBS storage components.
 - [topolvm/topolvm](https://github.com/topolvm/topolvm) - Capacity-aware CSI plugin for Kubernetes
 - [danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster) - Dan's Homelab Kubernetes Cluster - Operated through Kustomize & ArgoCD
 - [kubevirt/hyperconverged-cluster-operator](https://github.com/kubevirt/hyperconverged-cluster-operator) - Operator pattern for managing multi-operator products
