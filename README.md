@@ -2063,6 +2063,7 @@
 
 ## others 
 
+- [home-operations/flate](https://github.com/home-operations/flate) - A Flux resource validator and inflator ⇄
 - [aminueza/terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio) - Terraform provider for managing MinIO S3 buckets and IAM Users.
 - [mhausenblas/pr](https://github.com/mhausenblas/pr) - Challenge the changelog!
 - [olle/talk-archiving-csv-with-duckdb](https://github.com/olle/talk-archiving-csv-with-duckdb) - Talk: Data Archiving with DuckDB
