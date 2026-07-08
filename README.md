@@ -1369,6 +1369,7 @@
 
 ## kubernetes 
 
+- [saiyam1814/kiac](https://github.com/saiyam1814/kiac) - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.
 - [medik8s/node-healthcheck-operator](https://github.com/medik8s/node-healthcheck-operator) - K8s Node Health Check Operator
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [deckhouse/k8s-image-availability-exporter](https://github.com/deckhouse/k8s-image-availability-exporter) - Alert if an image used in Kubernetes cannot be pulled from container registry
@@ -1880,6 +1881,7 @@
 
 ## macos 
 
+- [saiyam1814/kiac](https://github.com/saiyam1814/kiac) - Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -2072,6 +2074,8 @@
 
 ## others 
 
+- [openshift/runbooks](https://github.com/openshift/runbooks) - Runbooks for Alerts on OCP
+- [rustfs/operator](https://github.com/rustfs/operator) - RustFS k8s operator
 - [home-operations/flate](https://github.com/home-operations/flate) - A Flux resource validator and inflator ⇄
 - [aminueza/terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio) - Terraform provider for managing MinIO S3 buckets and IAM Users.
 - [mhausenblas/pr](https://github.com/mhausenblas/pr) - Challenge the changelog!
