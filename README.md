@@ -2095,6 +2095,7 @@
 
 ## others 
 
+- [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [kylan11/understudy](https://github.com/kylan11/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.
 - [cuenv/cuenv](https://github.com/cuenv/cuenv) - 
 - [cloudnative-pg/klio](https://github.com/cloudnative-pg/klio) - Multi-Tiered Backup and Recovery Plugin for CloudNativePG
