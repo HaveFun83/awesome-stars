@@ -471,6 +471,7 @@
 
 ## cli 
 
+- [noobaa/noobaa-operator](https://github.com/noobaa/noobaa-operator) - Operator for NooBaa - object data service for hybrid and multi cloud environments :cloud: :wrench:
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your t
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -1384,6 +1385,7 @@
 
 ## kubernetes 
 
+- [noobaa/noobaa-operator](https://github.com/noobaa/noobaa-operator) - Operator for NooBaa - object data service for hybrid and multi cloud environments :cloud: :wrench:
 - [kylan11/understudy](https://github.com/kylan11/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.
 - [attune-io/attune](https://github.com/attune-io/attune) - Safe, in-place Kubernetes pod resource right-sizing. VPA done right.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes
@@ -2097,6 +2099,7 @@
 
 ## others 
 
+- [Tight-Line/ballast](https://github.com/Tight-Line/ballast) - Automated Kubernetes workload resource tracking and adjustment
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [cuenv/cuenv](https://github.com/cuenv/cuenv) - 
 - [cloudnative-pg/klio](https://github.com/cloudnative-pg/klio) - Multi-Tiered Backup and Recovery Plugin for CloudNativePG
