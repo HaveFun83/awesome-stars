@@ -2163,7 +2163,6 @@
 - [controlplaneio-fluxcd/flux-operator-local-dev](https://github.com/controlplaneio-fluxcd/flux-operator-local-dev) - Flux Operator local dev environment with Docker and Kubernetes KIND
 - [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) - Core components in the OCM project. Report here if you found any issues in OCM.
 - [IONOS-Core/dim](https://github.com/IONOS-Core/dim) - DNS and IP Management
-- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Coming soon.
 - [onedr0p/dns-in-a-bottle](https://github.com/onedr0p/dns-in-a-bottle) - AIO container for running bind, blocky and dnsdist
 - [siderolabs/awesome-talos](https://github.com/siderolabs/awesome-talos) - Collection of awesome talos resource from the community
 - [galexrt/extended-ceph-exporter](https://github.com/galexrt/extended-ceph-exporter) - A Prometheus exporter to provide "extended" metrics about a Ceph cluster's running components (e.g., RGW).
@@ -2562,6 +2561,7 @@
 
 ## programming-language 
 
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 - [golang/go](https://github.com/golang/go) - The Go programming language
 
 ## project-management 
@@ -2702,7 +2702,7 @@
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
 - [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
