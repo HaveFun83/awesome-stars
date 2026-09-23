@@ -1412,7 +1412,7 @@
 - [KubeElasti/KubeElasti](https://github.com/KubeElasti/KubeElasti) - Kubernetes-native scale-to-zero with zero traffic loss, no code changes, and direct integration with kubernetes resources
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
 - [userbradley/documentation.breadnet.co.uk](https://github.com/userbradley/documentation.breadnet.co.uk) - Documentation on everything, freely available. Maintained by @userbradley. ISSN: 2755-8169
-- [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not jus
+- [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard. All your clusters. One workspace.
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator
 - [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
 - [home-operations/tuppr](https://github.com/home-operations/tuppr) - Kubernetes controller to upgrade Talos and Kubernetes
@@ -1968,7 +1968,7 @@
 - [nlamirault/monitoring-mixins](https://github.com/nlamirault/monitoring-mixins) - Hub for monitoring mixins
 - [deckhouse/k8s-image-availability-exporter](https://github.com/deckhouse/k8s-image-availability-exporter) - Alert if an image used in Kubernetes cannot be pulled from container registry
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
-- [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not jus
+- [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard. All your clusters. One workspace.
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization.
 - [metio/matrix-alertmanager-receiver](https://github.com/metio/matrix-alertmanager-receiver) - Send Alertmanager alerts to Matrix rooms
 - [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.
