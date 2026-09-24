@@ -9,6 +9,7 @@
 - [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
@@ -231,6 +232,10 @@
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+
+## ai-agent 
+
+- [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard. All your clusters. One workspace.
 
 ## ai-agents 
 
@@ -1388,6 +1393,7 @@
 
 ## kubernetes 
 
+- [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.
 - [noobaa/noobaa-operator](https://github.com/noobaa/noobaa-operator) - Operator for NooBaa - object data service for hybrid and multi cloud environments :cloud: :wrench:
