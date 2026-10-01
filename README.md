@@ -580,6 +580,7 @@
 
 ## cybersecurity 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
 
 ## data 
@@ -1389,6 +1390,7 @@
 
 ## kotlin 
 
+- [pambrose/prometheus-proxy](https://github.com/pambrose/prometheus-proxy) - Prometheus Proxy
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 
 ## kubernetes 
@@ -1611,6 +1613,7 @@
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [Vinum-Security/kubernetes-security-checklist](https://github.com/Vinum-Security/kubernetes-security-checklist) - Kubernetes Security Checklist and Requirements - All in One (authentication, authorization, logging, secrets, configuration, network, workloads, dockerfile)
 - [cpanato/raspi-fan-control](https://github.com/cpanato/raspi-fan-control) - Control external Fan to cool down your raspi cluster
+- [redhat-developer/gitops-operator](https://github.com/redhat-developer/gitops-operator) - An operator that gets you an ArgoCD for cluster configuration out-of-the-box on OpenShift along with the UI for visualizing environments.
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
@@ -2115,6 +2118,8 @@
 
 ## others 
 
+- [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
+- [nkpng2k/openshift-secrets-management-demos](https://github.com/nkpng2k/openshift-secrets-management-demos) - Repository for demos using OpenShift secrets management tools
 - [pgsty/silo](https://github.com/pgsty/silo) - S3-Compatible Object Storage. A MinIO fork maintained by PGSTY
 - [ContainerSolutions/prom-metrics-check](https://github.com/ContainerSolutions/prom-metrics-check) - 
 - [kubernetes-csi/csi-driver-iscsi](https://github.com/kubernetes-csi/csi-driver-iscsi) - 
@@ -2339,7 +2344,6 @@
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
-- [redhat-developer/gitops-operator](https://github.com/redhat-developer/gitops-operator) - An operator that gets you an ArgoCD for cluster configuration out-of-the-box on OpenShift along with the UI for visualizing environments.
 - [controlplaneio/kubectl-kubesec](https://github.com/controlplaneio/kubectl-kubesec) - Security risk analysis for Kubernetes resources
 - [chiku11/flagger-canary-manual](https://github.com/chiku11/flagger-canary-manual) - 
 - [coredashio/community](https://github.com/coredashio/community) - 🌐 CoreDash Community
