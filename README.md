@@ -1981,7 +1981,7 @@
 - [deckhouse/k8s-image-availability-exporter](https://github.com/deckhouse/k8s-image-availability-exporter) - Alert if an image used in Kubernetes cannot be pulled from container registry
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
 - [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard. All your clusters. One workspace.
-- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization.
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.
 - [metio/matrix-alertmanager-receiver](https://github.com/metio/matrix-alertmanager-receiver) - Send Alertmanager alerts to Matrix rooms
 - [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.
 - [appview-team/appview](https://github.com/appview-team/appview) - Gain insight into any Linux command or application with no code modification
