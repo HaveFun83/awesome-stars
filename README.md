@@ -1585,7 +1585,7 @@
 - [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 - [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs
 - [flexkube/terraform-provider-flexkube](https://github.com/flexkube/terraform-provider-flexkube) - Terraform Flexkube provider
-- [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler is CNCF Sandbox project for monitoring the energy consumption of Kubernetes workloads. Let's make every watt matter.
+- [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler is CNCF Sandbox project to attribute the energy use of Kubernetes workloads. Let's make every watt matter. ⚡
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps
 - [flant/shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
