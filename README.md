@@ -1276,7 +1276,6 @@
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library) - 📚 The OPA Gatekeeper policy library
-- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [k8spin/k8spin-operator](https://github.com/k8spin/k8spin-operator) - K8Spin multi-tenant operator - OSS
