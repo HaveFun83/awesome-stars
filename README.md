@@ -237,7 +237,7 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Testing Platform for the agentic SDLC
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
@@ -253,7 +253,7 @@
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Testing Platform for the agentic SDLC
 
 ## analytics 
 
@@ -716,7 +716,7 @@
 - [ThomasVitale/cloud-native-spring-in-action](https://github.com/ThomasVitale/cloud-native-spring-in-action) - 🍃 Code samples and projects from the book "Cloud Native Spring in Action - With Spring Boot and Kubernetes" (Manning)
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [flant/shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Testing Platform for the agentic SDLC
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - Flux Subsystem for Argo
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -1620,7 +1620,7 @@
 - [Getdeck/getdeck](https://github.com/Getdeck/getdeck) - A CLI that creates reproducible Kubernetes environments for development and testing
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [crossplane/terrajet](https://github.com/crossplane/terrajet) - Generate Crossplane Providers from any Terraform Provider
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Testing Platform for the agentic SDLC
 - [weaveworks/vscode-gitops-tools](https://github.com/weaveworks/vscode-gitops-tools) - GitOps Visual Studio Code Extension
 - [lightrun-platform/koolkits](https://github.com/lightrun-platform/koolkits) - 🧰 Opinionated, language-specific, batteries-included debug container images for Kubernetes.
 - [snapp-incubator/node-config-operator](https://github.com/snapp-incubator/node-config-operator) - An operator to manage node labels, annotations, and taints.
@@ -2045,7 +2045,7 @@
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Testing Platform for the agentic SDLC
 - [cbrgm/promcheck](https://github.com/cbrgm/promcheck) - A tool and exporter to identify faulty Prometheus rules
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
@@ -3034,7 +3034,7 @@
 - [grafana-cold-storage/xk6-disruptor-demo](https://github.com/grafana-cold-storage/xk6-disruptor-demo) - A complete demo of xk6-disruptor
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl)
 - [Ealenn/Echo-Server](https://github.com/Ealenn/Echo-Server) - REST Server Tests (Echo-Server) API / Docker / Kubernetes / Helm
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Testing Platform for the agentic SDLC
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [FUSAKLA/promruval](https://github.com/FUSAKLA/promruval) - Validate Prometheus/Thanos/Mimir/Loki rules metadata and expression properties to match requirements and constrains of your setup.
 - [kevinjqiu/promcli](https://github.com/kevinjqiu/promcli) - A shell for loading Prometheus metrics fixtures and evaluating Prometheus expressions
