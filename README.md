@@ -1479,7 +1479,7 @@
 - [ionos-cloud/cluster-api-provider-proxmox](https://github.com/ionos-cloud/cluster-api-provider-proxmox) - Cluster API Provider for Proxmox VE (CAPMOX)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster
-- [waifulabs/infrastructure](https://github.com/waifulabs/infrastructure) - Fiance unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
+- [kashalls/infrastructure](https://github.com/kashalls/infrastructure) - Fiance unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
 - [jonashackt/crossplane-argocd](https://github.com/jonashackt/crossplane-argocd) - Example project showing how to use Crossplane together with ArgoCD
 - [stakater/IngressMonitorController](https://github.com/stakater/IngressMonitorController) - A Kubernetes controller to watch ingresses and create liveness alerts for your apps/microservices in UptimeRobot, StatusCake, Pingdom, etc.  – [✩Star] if you're using it!
 - [adinhodovic/opencost-mixin](https://github.com/adinhodovic/opencost-mixin) - Monitoring mixin for Kubernetes cost monitoring. A set of Grafana dashboards and Prometheus rules for OpenCost.
@@ -1611,7 +1611,7 @@
 - [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 - [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs
 - [flexkube/terraform-provider-flexkube](https://github.com/flexkube/terraform-provider-flexkube) - Terraform Flexkube provider
-- [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (CNCF Sandbox project) is a power meter interface for Kubernetes: it lets you monitor the energy use of workloads. Let's make every watt matter. ⚡
+- [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler lets you monitor the energy use of Kubernetes workloads. Kepler is a CNCF Sandbox project. Let's make every watt matter. ⚡
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps
 - [flant/shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
