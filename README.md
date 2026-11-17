@@ -7,6 +7,7 @@
 
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
@@ -215,6 +216,10 @@
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+
+## agentic-ai 
+
+- [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
 
 ## agents 
 
@@ -1427,6 +1432,8 @@
 
 ## kubernetes 
 
+- [lockdep/stackradar](https://github.com/lockdep/stackradar) - Open-source Kubernetes vulnerability scanner: an SBOM of every running image, matched against OSV and ranked by CVSS, EPSS and CISA KEV. Self-host with one Helm chart, or use the cloud.
+- [shanurwan/cnpg-restore-check](https://github.com/shanurwan/cnpg-restore-check) - Scheduled restore checks for CloudNativePG backups: restores into a temporary cluster, verifies data, measures RTO and RPO, alerts when a backup won't restore.
 - [super-phenix/superphenix](https://github.com/super-phenix/superphenix) - An Opensource IaaS/PaaS/SaaS platform based on Kubernetes. Build your own cloud provider wherever you want.
 - [alex1989hu/kubelet-serving-cert-approver](https://github.com/alex1989hu/kubelet-serving-cert-approver) - Kubelet Serving TLS Certificate Signing Request Approver
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests.
@@ -2102,6 +2109,7 @@
 
 ## nextjs 
 
+- [lockdep/stackradar](https://github.com/lockdep/stackradar) - Open-source Kubernetes vulnerability scanner: an SBOM of every running image, matched against OSV and ranked by CVSS, EPSS and CISA KEV. Self-host with one Helm chart, or use the cloud.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## no-code 
@@ -2574,6 +2582,7 @@
 
 ## postgresql 
 
+- [shanurwan/cnpg-restore-check](https://github.com/shanurwan/cnpg-restore-check) - Scheduled restore checks for CloudNativePG backups: restores into a temporary cluster, verifies data, measures RTO and RPO, alerts when a backup won't restore.
 - [xataio/cnpg-i-scale-to-zero](https://github.com/xataio/cnpg-i-scale-to-zero) - CNPG plugin to manage scale to zero functionality
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1200+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -2777,6 +2786,7 @@
 
 ## security 
 
+- [lockdep/stackradar](https://github.com/lockdep/stackradar) - Open-source Kubernetes vulnerability scanner: an SBOM of every running image, matched against OSV and ranked by CVSS, EPSS and CISA KEV. Self-host with one Helm chart, or use the cloud.
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandboxing
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [controlplaneio/kubesec](https://github.com/controlplaneio/kubesec) - Security risk analysis for Kubernetes resources
@@ -2834,6 +2844,7 @@
 
 ## security-tools 
 
+- [lockdep/stackradar](https://github.com/lockdep/stackradar) - Open-source Kubernetes vulnerability scanner: an SBOM of every running image, matched against OSV and ranked by CVSS, EPSS and CISA KEV. Self-host with one Helm chart, or use the cloud.
 - [PierreBeucher/novops](https://github.com/PierreBeucher/novops) - Cross-platform secret & config manager for development and CI environments
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images!
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
@@ -2850,6 +2861,7 @@
 
 ## self-hosted 
 
+- [lockdep/stackradar](https://github.com/lockdep/stackradar) - Open-source Kubernetes vulnerability scanner: an SBOM of every running image, matched against OSV and ranked by CVSS, EPSS and CISA KEV. Self-host with one Helm chart, or use the cloud.
 - [super-phenix/superphenix](https://github.com/super-phenix/superphenix) - An Opensource IaaS/PaaS/SaaS platform based on Kubernetes. Build your own cloud provider wherever you want.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
@@ -3053,6 +3065,7 @@
 
 ## typescript 
 
+- [lockdep/stackradar](https://github.com/lockdep/stackradar) - Open-source Kubernetes vulnerability scanner: an SBOM of every running image, matched against OSV and ranked by CVSS, EPSS and CISA KEV. Self-host with one Helm chart, or use the cloud.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
