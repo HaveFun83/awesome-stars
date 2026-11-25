@@ -220,16 +220,19 @@
 
 ## agentic-ai 
 
+- [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
 
 ## agents 
 
+- [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 
 ## ai 
 
+- [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
@@ -254,6 +257,7 @@
 
 ## ai-agents 
 
+- [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows
 - [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandboxing
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
@@ -318,6 +322,7 @@
 
 ## artificial-intelligence 
 
+- [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 
@@ -687,6 +692,7 @@
 
 ## devops 
 
+- [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows
 - [TrianaLab/pacto](https://github.com/TrianaLab/pacto) - Pacto tells you which services a change breaks before it ships, and checks what is actually running. One YAML contract per service in your OCI registry; opt-in delivery (alpha) ships what the contract
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.
 - [aminueza/terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio) - Terraform provider for MinIO and S3-compatible storage (R2, B2, Hetzner, Spaces) — buckets, IAM, replication, lifecycle, encryption & more.
@@ -960,6 +966,7 @@
 
 ## generative-ai 
 
+- [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 
 ## git 
@@ -1433,6 +1440,7 @@
 
 ## kubernetes 
 
+- [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows
 - [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator) - Catalogue all images of a Kubernetes cluster to multiple targets with Syft
 - [lockdep/stackradar](https://github.com/lockdep/stackradar) - Open-source Kubernetes vulnerability scanner: an SBOM of every running image, matched against OSV and ranked by CVSS, EPSS and CISA KEV. Self-host with one Helm chart, or use the cloud.
 - [shanurwan/cnpg-restore-check](https://github.com/shanurwan/cnpg-restore-check) - Scheduled restore checks for CloudNativePG backups: restores into a temporary cluster, verifies data, measures RTO and RPO, alerts when a backup won't restore.
@@ -1916,6 +1924,7 @@
 
 ## llm 
 
+- [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows
 - [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
@@ -1993,6 +2002,7 @@
 
 ## mcp 
 
+- [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandboxing
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
